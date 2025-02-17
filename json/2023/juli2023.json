@@ -1,0 +1,6644 @@
+[
+    {
+        "titulo": "ECB President Lagarde Speaks",
+        "activo": "EUR",
+        "fecha": "2023-06-27 03:00:00",
+        "impacto": "Medium",
+        "pronostico": "",
+        "anterior": "",
+        "actual": ""
+    },
+    {
+        "titulo": "MPC Member Dhingra Speaks",
+        "activo": "GBP",
+        "fecha": "2023-06-27 03:15:00",
+        "impacto": "Low",
+        "pronostico": "",
+        "anterior": "",
+        "actual": ""
+    },
+    {
+        "titulo": "MPC Member Tenreyro Speaks",
+        "activo": "GBP",
+        "fecha": "2023-06-27 03:30:00",
+        "impacto": "Low",
+        "pronostico": "",
+        "anterior": "",
+        "actual": ""
+    },
+    {
+        "titulo": "Gov Council Member Kozicki Speaks",
+        "activo": "CAD",
+        "fecha": "2023-06-27 04:30:00",
+        "impacto": "Low",
+        "pronostico": "",
+        "anterior": "",
+        "actual": ""
+    },
+    {
+        "titulo": "CPI m/m",
+        "activo": "CAD",
+        "fecha": "2023-06-27 07:30:00",
+        "impacto": "High",
+        "pronostico": "0.4%",
+        "anterior": "0.7%",
+        "actual": "0.4%"
+    },
+    {
+        "titulo": "Median CPI y/y",
+        "activo": "CAD",
+        "fecha": "2023-06-27 07:30:00",
+        "impacto": "High",
+        "pronostico": "4.0%",
+        "anterior": "4.3%",
+        "actual": "3.9%"
+    },
+    {
+        "titulo": "Trimmed CPI y/y",
+        "activo": "CAD",
+        "fecha": "2023-06-27 07:30:00",
+        "impacto": "High",
+        "pronostico": "3.9%",
+        "anterior": "4.2%",
+        "actual": "3.8%"
+    },
+    {
+        "titulo": "Common CPI y/y",
+        "activo": "CAD",
+        "fecha": "2023-06-27 07:30:00",
+        "impacto": "Medium",
+        "pronostico": "5.4%",
+        "anterior": "5.7%",
+        "actual": "5.2%"
+    },
+    {
+        "titulo": "Core Durable Goods Orders m/m",
+        "activo": "USD",
+        "fecha": "2023-06-27 07:30:00",
+        "impacto": "Medium",
+        "pronostico": "0.0%",
+        "anterior": "-0.3%",
+        "actual": "0.6%"
+    },
+    {
+        "titulo": "Durable Goods Orders m/m",
+        "activo": "USD",
+        "fecha": "2023-06-27 07:30:00",
+        "impacto": "Medium",
+        "pronostico": "-0.8%",
+        "anterior": "1.2%",
+        "actual": "1.7%"
+    },
+    {
+        "titulo": "Core CPI m/m",
+        "activo": "CAD",
+        "fecha": "2023-06-27 07:32:00",
+        "impacto": "Low",
+        "pronostico": "",
+        "anterior": "0.5%",
+        "actual": "0.4%"
+    },
+    {
+        "titulo": "CB Leading Index m/m",
+        "activo": "CNY",
+        "fecha": "2023-06-27 08:00:00",
+        "impacto": "Low",
+        "pronostico": "",
+        "anterior": "-0.6%",
+        "actual": "-0.1%"
+    },
+    {
+        "titulo": "HPI m/m",
+        "activo": "USD",
+        "fecha": "2023-06-27 08:00:00",
+        "impacto": "Low",
+        "pronostico": "0.5%",
+        "anterior": "0.5%",
+        "actual": "0.7%"
+    },
+    {
+        "titulo": "S&P/CS Composite-20 HPI y/y",
+        "activo": "USD",
+        "fecha": "2023-06-27 08:00:00",
+        "impacto": "Low",
+        "pronostico": "-2.5%",
+        "anterior": "-1.1%",
+        "actual": "-1.7%"
+    },
+    {
+        "titulo": "Richmond Manufacturing Index",
+        "activo": "USD",
+        "fecha": "2023-06-27 08:59:00",
+        "impacto": "Medium",
+        "pronostico": "-12",
+        "anterior": "-15",
+        "actual": "-7"
+    },
+    {
+        "titulo": "CB Consumer Confidence",
+        "activo": "USD",
+        "fecha": "2023-06-27 09:00:00",
+        "impacto": "High",
+        "pronostico": "103.9",
+        "anterior": "102.5",
+        "actual": "109.7"
+    },
+    {
+        "titulo": "New Home Sales",
+        "activo": "USD",
+        "fecha": "2023-06-27 09:00:00",
+        "impacto": "Medium",
+        "pronostico": "677K",
+        "anterior": "680K",
+        "actual": "763K"
+    },
+    {
+        "titulo": "CPI y/y",
+        "activo": "AUD",
+        "fecha": "2023-06-27 20:30:00",
+        "impacto": "High",
+        "pronostico": "6.1%",
+        "anterior": "6.8%",
+        "actual": "5.6%"
+    },
+    {
+        "titulo": "German GfK Consumer Climate",
+        "activo": "EUR",
+        "fecha": "2023-06-28 01:00:00",
+        "impacto": "Low",
+        "pronostico": "-22.9",
+        "anterior": "-24.4",
+        "actual": "-25.4"
+    },
+    {
+        "titulo": "UBS Economic Expectations",
+        "activo": "CHF",
+        "fecha": "2023-06-28 03:00:00",
+        "impacto": "Low",
+        "pronostico": "",
+        "anterior": "-32.2",
+        "actual": "-30.8"
+    },
+    {
+        "titulo": "M3 Money Supply y/y",
+        "activo": "EUR",
+        "fecha": "2023-06-28 03:00:00",
+        "impacto": "Low",
+        "pronostico": "1.5%",
+        "anterior": "1.9%",
+        "actual": "1.4%"
+    },
+    {
+        "titulo": "Private Loans y/y",
+        "activo": "EUR",
+        "fecha": "2023-06-28 03:00:00",
+        "impacto": "Low",
+        "pronostico": "2.3%",
+        "anterior": "2.5%",
+        "actual": "2.1%"
+    },
+    {
+        "titulo": "Italian Prelim CPI m/m",
+        "activo": "EUR",
+        "fecha": "2023-06-28 04:00:00",
+        "impacto": "Low",
+        "pronostico": "0.3%",
+        "anterior": "0.3%",
+        "actual": "0.0%"
+    },
+    {
+        "titulo": "MPC Member Pill Speaks",
+        "activo": "GBP",
+        "fecha": "2023-06-28 05:30:00",
+        "impacto": "Low",
+        "pronostico": "",
+        "anterior": "",
+        "actual": ""
+    },
+    {
+        "titulo": "Goods Trade Balance",
+        "activo": "USD",
+        "fecha": "2023-06-28 07:30:00",
+        "impacto": "Low",
+        "pronostico": "-93.3B",
+        "anterior": "-97.1B",
+        "actual": "-91.1B"
+    },
+    {
+        "titulo": "Prelim Wholesale Inventories m/m",
+        "activo": "USD",
+        "fecha": "2023-06-28 07:30:00",
+        "impacto": "Low",
+        "pronostico": "-0.1%",
+        "anterior": "-0.1%",
+        "actual": "-0.1%"
+    },
+    {
+        "titulo": "SNB Quarterly Bulletin",
+        "activo": "CHF",
+        "fecha": "2023-06-28 08:00:00",
+        "impacto": "Low",
+        "pronostico": "",
+        "anterior": "",
+        "actual": ""
+    },
+    {
+        "titulo": "ECB President Lagarde Speaks",
+        "activo": "EUR",
+        "fecha": "2023-06-28 08:30:00",
+        "impacto": "Medium",
+        "pronostico": "",
+        "anterior": "",
+        "actual": ""
+    },
+    {
+        "titulo": "BOE Gov Bailey Speaks",
+        "activo": "GBP",
+        "fecha": "2023-06-28 08:30:00",
+        "impacto": "High",
+        "pronostico": "",
+        "anterior": "",
+        "actual": ""
+    },
+    {
+        "titulo": "BOJ Gov Ueda Speaks",
+        "activo": "JPY",
+        "fecha": "2023-06-28 08:30:00",
+        "impacto": "High",
+        "pronostico": "",
+        "anterior": "",
+        "actual": ""
+    },
+    {
+        "titulo": "Fed Chair Powell Speaks",
+        "activo": "USD",
+        "fecha": "2023-06-28 08:30:00",
+        "impacto": "High",
+        "pronostico": "",
+        "anterior": "",
+        "actual": ""
+    },
+    {
+        "titulo": "Crude Oil Inventories",
+        "activo": "USD",
+        "fecha": "2023-06-28 09:30:00",
+        "impacto": "Low",
+        "pronostico": "-1.4M",
+        "anterior": "-3.8M",
+        "actual": "-9.6M"
+    },
+    {
+        "titulo": "ECB President Lagarde Speaks",
+        "activo": "EUR",
+        "fecha": "2023-06-28 10:00:00",
+        "impacto": "Medium",
+        "pronostico": "",
+        "anterior": "",
+        "actual": ""
+    },
+    {
+        "titulo": "Bank Stress Test Results",
+        "activo": "USD",
+        "fecha": "2023-06-28 15:30:00",
+        "impacto": "Low",
+        "pronostico": "",
+        "anterior": "",
+        "actual": ""
+    },
+    {
+        "titulo": "Retail Sales y/y",
+        "activo": "JPY",
+        "fecha": "2023-06-28 18:50:00",
+        "impacto": "Low",
+        "pronostico": "5.2%",
+        "anterior": "5.1%",
+        "actual": "5.7%"
+    },
+    {
+        "titulo": "ANZ Business Confidence",
+        "activo": "NZD",
+        "fecha": "2023-06-28 20:00:00",
+        "impacto": "Low",
+        "pronostico": "",
+        "anterior": "-31.1",
+        "actual": "-18.0"
+    },
+    {
+        "titulo": "Retail Sales m/m",
+        "activo": "AUD",
+        "fecha": "2023-06-28 20:30:00",
+        "impacto": "Low",
+        "pronostico": "0.1%",
+        "anterior": "0.0%",
+        "actual": "0.7%"
+    },
+    {
+        "titulo": "Consumer Confidence",
+        "activo": "JPY",
+        "fecha": "2023-06-28 23:59:00",
+        "impacto": "Low",
+        "pronostico": "36.2",
+        "anterior": "36.0",
+        "actual": "36.2"
+    },
+    {
+        "titulo": "German Prelim CPI m/m",
+        "activo": "EUR",
+        "fecha": "2023-06-29 00:00:00",
+        "impacto": "High",
+        "pronostico": "0.2%",
+        "anterior": "-0.1%",
+        "actual": "0.3%"
+    },
+    {
+        "titulo": "Fed Chair Powell Speaks",
+        "activo": "USD",
+        "fecha": "2023-06-29 01:30:00",
+        "impacto": "High",
+        "pronostico": "",
+        "anterior": "",
+        "actual": ""
+    },
+    {
+        "titulo": "Spanish Flash CPI y/y",
+        "activo": "EUR",
+        "fecha": "2023-06-29 02:00:00",
+        "impacto": "Medium",
+        "pronostico": "1.7%",
+        "anterior": "3.2%",
+        "actual": "1.9%"
+    },
+    {
+        "titulo": "Italian Bank Holiday",
+        "activo": "EUR",
+        "fecha": "2023-06-29 00:00:00",
+        "impacto": "Non",
+        "pronostico": "",
+        "anterior": "",
+        "actual": ""
+    },
+    {
+        "titulo": "ECB Economic Bulletin",
+        "activo": "EUR",
+        "fecha": "2023-06-29 03:00:00",
+        "impacto": "Low",
+        "pronostico": "",
+        "anterior": "",
+        "actual": ""
+    },
+    {
+        "titulo": "M4 Money Supply m/m",
+        "activo": "GBP",
+        "fecha": "2023-06-29 03:30:00",
+        "impacto": "Low",
+        "pronostico": "0.2%",
+        "anterior": "-0.1%",
+        "actual": "0.2%"
+    },
+    {
+        "titulo": "Mortgage Approvals",
+        "activo": "GBP",
+        "fecha": "2023-06-29 03:30:00",
+        "impacto": "Low",
+        "pronostico": "50K",
+        "anterior": "49K",
+        "actual": "51K"
+    },
+    {
+        "titulo": "Net Lending to Individuals m/m",
+        "activo": "GBP",
+        "fecha": "2023-06-29 03:30:00",
+        "impacto": "Low",
+        "pronostico": "-0.6B",
+        "anterior": "0.0B",
+        "actual": "1.1B"
+    },
+    {
+        "titulo": "Final GDP q/q",
+        "activo": "USD",
+        "fecha": "2023-06-29 07:30:00",
+        "impacto": "High",
+        "pronostico": "1.4%",
+        "anterior": "1.3%",
+        "actual": "2.0%"
+    },
+    {
+        "titulo": "Final GDP Price Index q/q",
+        "activo": "USD",
+        "fecha": "2023-06-29 07:30:00",
+        "impacto": "Medium",
+        "pronostico": "4.2%",
+        "anterior": "4.2%",
+        "actual": "4.1%"
+    },
+    {
+        "titulo": "Unemployment Claims",
+        "activo": "USD",
+        "fecha": "2023-06-29 07:32:00",
+        "impacto": "High",
+        "pronostico": "264K",
+        "anterior": "265K",
+        "actual": "239K"
+    },
+    {
+        "titulo": "Pending Home Sales m/m",
+        "activo": "USD",
+        "fecha": "2023-06-29 09:00:00",
+        "impacto": "Medium",
+        "pronostico": "-0.5%",
+        "anterior": "-0.4%",
+        "actual": "-2.7%"
+    },
+    {
+        "titulo": "Natural Gas Storage",
+        "activo": "USD",
+        "fecha": "2023-06-29 09:30:00",
+        "impacto": "Low",
+        "pronostico": "83B",
+        "anterior": "95B",
+        "actual": "76B"
+    },
+    {
+        "titulo": "MPC Member Tenreyro Speaks",
+        "activo": "GBP",
+        "fecha": "2023-06-29 11:30:00",
+        "impacto": "Low",
+        "pronostico": "",
+        "anterior": "",
+        "actual": ""
+    },
+    {
+        "titulo": "Tokyo Core CPI y/y",
+        "activo": "JPY",
+        "fecha": "2023-06-29 18:30:00",
+        "impacto": "Medium",
+        "pronostico": "3.4%",
+        "anterior": "3.1%",
+        "actual": "3.2%"
+    },
+    {
+        "titulo": "Unemployment Rate",
+        "activo": "JPY",
+        "fecha": "2023-06-29 18:30:00",
+        "impacto": "Low",
+        "pronostico": "2.6%",
+        "anterior": "2.6%",
+        "actual": "2.6%"
+    },
+    {
+        "titulo": "Prelim Industrial Production m/m",
+        "activo": "JPY",
+        "fecha": "2023-06-29 18:50:00",
+        "impacto": "Low",
+        "pronostico": "-0.9%",
+        "anterior": "0.7%",
+        "actual": "-1.6%"
+    },
+    {
+        "titulo": "Private Sector Credit m/m",
+        "activo": "AUD",
+        "fecha": "2023-06-29 20:30:00",
+        "impacto": "Low",
+        "pronostico": "0.4%",
+        "anterior": "0.6%",
+        "actual": "0.4%"
+    },
+    {
+        "titulo": "Manufacturing PMI",
+        "activo": "CNY",
+        "fecha": "2023-06-29 20:30:00",
+        "impacto": "Medium",
+        "pronostico": "49.0",
+        "anterior": "48.8",
+        "actual": "49.0"
+    },
+    {
+        "titulo": "Non-Manufacturing PMI",
+        "activo": "CNY",
+        "fecha": "2023-06-29 20:30:00",
+        "impacto": "Medium",
+        "pronostico": "53.7",
+        "anterior": "54.5",
+        "actual": "53.2"
+    },
+    {
+        "titulo": "Housing Starts y/y",
+        "activo": "JPY",
+        "fecha": "2023-06-30 00:00:00",
+        "impacto": "Low",
+        "pronostico": "-2.6%",
+        "anterior": "-11.9%",
+        "actual": "3.5%"
+    },
+    {
+        "titulo": "German Import Prices m/m",
+        "activo": "EUR",
+        "fecha": "2023-06-30 01:00:00",
+        "impacto": "Low",
+        "pronostico": "-1.5%",
+        "anterior": "-1.7%",
+        "actual": "-1.4%"
+    },
+    {
+        "titulo": "German Retail Sales m/m",
+        "activo": "EUR",
+        "fecha": "2023-06-30 01:00:00",
+        "impacto": "Low",
+        "pronostico": "0.0%",
+        "anterior": "0.7%",
+        "actual": "0.4%"
+    },
+    {
+        "titulo": "Current Account",
+        "activo": "GBP",
+        "fecha": "2023-06-30 01:00:00",
+        "impacto": "Low",
+        "pronostico": "-9.8B",
+        "anterior": "-2.5B",
+        "actual": "-10.8B"
+    },
+    {
+        "titulo": "Final GDP q/q",
+        "activo": "GBP",
+        "fecha": "2023-06-30 01:00:00",
+        "impacto": "Low",
+        "pronostico": "0.1%",
+        "anterior": "0.1%",
+        "actual": "0.1%"
+    },
+    {
+        "titulo": "Nationwide HPI m/m",
+        "activo": "GBP",
+        "fecha": "2023-06-30 01:00:00",
+        "impacto": "Low",
+        "pronostico": "-0.3%",
+        "anterior": "-0.1%",
+        "actual": "0.1%"
+    },
+    {
+        "titulo": "Revised Business Investment q/q",
+        "activo": "GBP",
+        "fecha": "2023-06-30 01:00:00",
+        "impacto": "Low",
+        "pronostico": "0.7%",
+        "anterior": "0.7%",
+        "actual": "3.3%"
+    },
+    {
+        "titulo": "Retail Sales y/y",
+        "activo": "CHF",
+        "fecha": "2023-06-30 01:30:00",
+        "impacto": "Low",
+        "pronostico": "-2.5%",
+        "anterior": "-4.0%",
+        "actual": "-1.1%"
+    },
+    {
+        "titulo": "French Consumer Spending m/m",
+        "activo": "EUR",
+        "fecha": "2023-06-30 01:45:00",
+        "impacto": "Low",
+        "pronostico": "0.7%",
+        "anterior": "-0.8%",
+        "actual": "0.5%"
+    },
+    {
+        "titulo": "French Prelim CPI m/m",
+        "activo": "EUR",
+        "fecha": "2023-06-30 01:45:00",
+        "impacto": "Low",
+        "pronostico": "0.2%",
+        "anterior": "-0.1%",
+        "actual": "0.2%"
+    },
+    {
+        "titulo": "KOF Economic Barometer",
+        "activo": "CHF",
+        "fecha": "2023-06-30 02:00:00",
+        "impacto": "Low",
+        "pronostico": "89.1",
+        "anterior": "91.4",
+        "actual": "90.8"
+    },
+    {
+        "titulo": "German Unemployment Change",
+        "activo": "EUR",
+        "fecha": "2023-06-30 02:55:00",
+        "impacto": "Low",
+        "pronostico": "14K",
+        "anterior": "13K",
+        "actual": "28K"
+    },
+    {
+        "titulo": "Italian Monthly Unemployment Rate",
+        "activo": "EUR",
+        "fecha": "2023-06-30 03:00:00",
+        "impacto": "Low",
+        "pronostico": "7.9%",
+        "anterior": "7.8%",
+        "actual": "7.6%"
+    },
+    {
+        "titulo": "Core CPI Flash Estimate y/y",
+        "activo": "EUR",
+        "fecha": "2023-06-30 04:00:00",
+        "impacto": "Medium",
+        "pronostico": "5.5%",
+        "anterior": "5.3%",
+        "actual": "5.4%"
+    },
+    {
+        "titulo": "CPI Flash Estimate y/y",
+        "activo": "EUR",
+        "fecha": "2023-06-30 04:00:00",
+        "impacto": "Medium",
+        "pronostico": "5.6%",
+        "anterior": "6.1%",
+        "actual": "5.5%"
+    },
+    {
+        "titulo": "Unemployment Rate",
+        "activo": "EUR",
+        "fecha": "2023-06-30 04:00:00",
+        "impacto": "Low",
+        "pronostico": "6.5%",
+        "anterior": "6.5%",
+        "actual": "6.5%"
+    },
+    {
+        "titulo": "Italian 10-y Bond Auction",
+        "activo": "EUR",
+        "fecha": "2023-06-30 04:13:00",
+        "impacto": "Low",
+        "pronostico": "",
+        "anterior": "4.24|1.5",
+        "actual": "4.13|1.4"
+    },
+    {
+        "titulo": "GDP m/m",
+        "activo": "CAD",
+        "fecha": "2023-06-30 07:30:00",
+        "impacto": "High",
+        "pronostico": "0.2%",
+        "anterior": "0.1%",
+        "actual": "0.0%"
+    },
+    {
+        "titulo": "Core PCE Price Index m/m",
+        "activo": "USD",
+        "fecha": "2023-06-30 07:30:00",
+        "impacto": "High",
+        "pronostico": "0.3%",
+        "anterior": "0.4%",
+        "actual": "0.3%"
+    },
+    {
+        "titulo": "Personal Income m/m",
+        "activo": "USD",
+        "fecha": "2023-06-30 07:30:00",
+        "impacto": "Low",
+        "pronostico": "0.3%",
+        "anterior": "0.3%",
+        "actual": "0.4%"
+    },
+    {
+        "titulo": "Personal Spending m/m",
+        "activo": "USD",
+        "fecha": "2023-06-30 07:30:00",
+        "impacto": "Low",
+        "pronostico": "0.2%",
+        "anterior": "0.6%",
+        "actual": "0.1%"
+    },
+    {
+        "titulo": "Chicago PMI",
+        "activo": "USD",
+        "fecha": "2023-06-30 08:45:00",
+        "impacto": "Low",
+        "pronostico": "43.6",
+        "anterior": "40.4",
+        "actual": "41.5"
+    },
+    {
+        "titulo": "Revised UoM Consumer Sentiment",
+        "activo": "USD",
+        "fecha": "2023-06-30 09:00:00",
+        "impacto": "Medium",
+        "pronostico": "63.9",
+        "anterior": "63.9",
+        "actual": "64.4"
+    },
+    {
+        "titulo": "Revised UoM Inflation Expectations",
+        "activo": "USD",
+        "fecha": "2023-06-30 09:00:00",
+        "impacto": "Low",
+        "pronostico": "",
+        "anterior": "3.3%",
+        "actual": "3.3%"
+    },
+    {
+        "titulo": "BOC Business Outlook Survey",
+        "activo": "CAD",
+        "fecha": "2023-06-30 09:30:00",
+        "impacto": "Medium",
+        "pronostico": "",
+        "anterior": "",
+        "actual": ""
+    },
+    {
+        "titulo": "Building Consents m/m",
+        "activo": "NZD",
+        "fecha": "2023-07-02 17:45:00",
+        "impacto": "Low",
+        "pronostico": "",
+        "anterior": "-2.6%",
+        "actual": "-2.2%"
+    },
+    {
+        "titulo": "Tankan Manufacturing Index",
+        "activo": "JPY",
+        "fecha": "2023-07-02 18:50:00",
+        "impacto": "Low",
+        "pronostico": "3",
+        "anterior": "1",
+        "actual": "5"
+    },
+    {
+        "titulo": "Tankan Non-Manufacturing Index",
+        "activo": "JPY",
+        "fecha": "2023-07-02 18:50:00",
+        "impacto": "Low",
+        "pronostico": "22",
+        "anterior": "20",
+        "actual": "23"
+    },
+    {
+        "titulo": "Final Manufacturing PMI",
+        "activo": "JPY",
+        "fecha": "2023-07-02 19:30:00",
+        "impacto": "Low",
+        "pronostico": "49.8",
+        "anterior": "49.8",
+        "actual": "49.8"
+    },
+    {
+        "titulo": "MI Inflation Gauge m/m",
+        "activo": "AUD",
+        "fecha": "2023-07-02 20:00:00",
+        "impacto": "Low",
+        "pronostico": "",
+        "anterior": "0.9%",
+        "actual": "0.1%"
+    },
+    {
+        "titulo": "ANZ Job Advertisements m/m",
+        "activo": "AUD",
+        "fecha": "2023-07-02 20:30:00",
+        "impacto": "Low",
+        "pronostico": "",
+        "anterior": "0.1%",
+        "actual": "-2.5%"
+    },
+    {
+        "titulo": "Building Approvals m/m",
+        "activo": "AUD",
+        "fecha": "2023-07-02 20:30:00",
+        "impacto": "Low",
+        "pronostico": "3.1%",
+        "anterior": "-6.8%",
+        "actual": "20.6%"
+    },
+    {
+        "titulo": "Caixin Manufacturing PMI",
+        "activo": "CNY",
+        "fecha": "2023-07-02 20:45:00",
+        "impacto": "Medium",
+        "pronostico": "50.0",
+        "anterior": "50.9",
+        "actual": "50.5"
+    },
+    {
+        "titulo": "Commodity Prices y/y",
+        "activo": "AUD",
+        "fecha": "2023-07-03 01:30:00",
+        "impacto": "Low",
+        "pronostico": "",
+        "anterior": "-21.5%",
+        "actual": "-21.5%"
+    },
+    {
+        "titulo": "CPI m/m",
+        "activo": "CHF",
+        "fecha": "2023-07-03 01:30:00",
+        "impacto": "High",
+        "pronostico": "0.2%",
+        "anterior": "0.3%",
+        "actual": "0.1%"
+    },
+    {
+        "titulo": "French Gov Budget Balance",
+        "activo": "EUR",
+        "fecha": "2023-07-03 01:45:00",
+        "impacto": "Low",
+        "pronostico": "",
+        "anterior": "-83.7B",
+        "actual": "-107.2B"
+    },
+    {
+        "titulo": "Spanish Manufacturing PMI",
+        "activo": "EUR",
+        "fecha": "2023-07-03 02:15:00",
+        "impacto": "Medium",
+        "pronostico": "48.0",
+        "anterior": "48.4",
+        "actual": "48.0"
+    },
+    {
+        "titulo": "Manufacturing PMI",
+        "activo": "CHF",
+        "fecha": "2023-07-03 02:30:00",
+        "impacto": "Low",
+        "pronostico": "42.8",
+        "anterior": "43.2",
+        "actual": "44.9"
+    },
+    {
+        "titulo": "Italian Manufacturing PMI",
+        "activo": "EUR",
+        "fecha": "2023-07-03 02:45:00",
+        "impacto": "Low",
+        "pronostico": "45.4",
+        "anterior": "45.9",
+        "actual": "43.8"
+    },
+    {
+        "titulo": "French Final Manufacturing PMI",
+        "activo": "EUR",
+        "fecha": "2023-07-03 02:50:00",
+        "impacto": "Low",
+        "pronostico": "45.5",
+        "anterior": "45.5",
+        "actual": "46.0"
+    },
+    {
+        "titulo": "German Final Manufacturing PMI",
+        "activo": "EUR",
+        "fecha": "2023-07-03 02:55:00",
+        "impacto": "Low",
+        "pronostico": "41.0",
+        "anterior": "41.0",
+        "actual": "40.6"
+    },
+    {
+        "titulo": "Final Manufacturing PMI",
+        "activo": "EUR",
+        "fecha": "2023-07-03 03:00:00",
+        "impacto": "Low",
+        "pronostico": "43.6",
+        "anterior": "43.6",
+        "actual": "43.4"
+    },
+    {
+        "titulo": "Final Manufacturing PMI",
+        "activo": "GBP",
+        "fecha": "2023-07-03 03:30:00",
+        "impacto": "Low",
+        "pronostico": "46.2",
+        "anterior": "46.2",
+        "actual": "46.5"
+    },
+    {
+        "titulo": "Bank Holiday",
+        "activo": "CAD",
+        "fecha": "2023-07-03 00:00:00",
+        "impacto": "Non",
+        "pronostico": "",
+        "anterior": "",
+        "actual": ""
+    },
+    {
+        "titulo": "Final Manufacturing PMI",
+        "activo": "USD",
+        "fecha": "2023-07-03 08:45:00",
+        "impacto": "Low",
+        "pronostico": "46.3",
+        "anterior": "46.3",
+        "actual": "46.3"
+    },
+    {
+        "titulo": "ISM Manufacturing PMI",
+        "activo": "USD",
+        "fecha": "2023-07-03 09:00:00",
+        "impacto": "High",
+        "pronostico": "47.2",
+        "anterior": "46.9",
+        "actual": "46.0"
+    },
+    {
+        "titulo": "ISM Manufacturing Prices",
+        "activo": "USD",
+        "fecha": "2023-07-03 09:00:00",
+        "impacto": "Medium",
+        "pronostico": "44.0",
+        "anterior": "44.2",
+        "actual": "41.8"
+    },
+    {
+        "titulo": "Construction Spending m/m",
+        "activo": "USD",
+        "fecha": "2023-07-03 09:00:00",
+        "impacto": "Low",
+        "pronostico": "0.4%",
+        "anterior": "0.4%",
+        "actual": "0.9%"
+    },
+    {
+        "titulo": "NZIER Business Confidence",
+        "activo": "NZD",
+        "fecha": "2023-07-03 17:00:00",
+        "impacto": "Low",
+        "pronostico": "",
+        "anterior": "-66",
+        "actual": "-63"
+    },
+    {
+        "titulo": "Monetary Base y/y",
+        "activo": "JPY",
+        "fecha": "2023-07-03 18:50:00",
+        "impacto": "Low",
+        "pronostico": "-0.7%",
+        "anterior": "-1.1%",
+        "actual": "-1.0%"
+    },
+    {
+        "titulo": "10-y Bond Auction",
+        "activo": "JPY",
+        "fecha": "2023-07-03 22:35:00",
+        "impacto": "Low",
+        "pronostico": "",
+        "anterior": "0.44|3.7",
+        "actual": "0.43|4.0"
+    },
+    {
+        "titulo": "Cash Rate",
+        "activo": "AUD",
+        "fecha": "2023-07-03 23:30:00",
+        "impacto": "High",
+        "pronostico": "4.10%",
+        "anterior": "4.10%",
+        "actual": "4.10%"
+    },
+    {
+        "titulo": "RBA Rate Statement",
+        "activo": "AUD",
+        "fecha": "2023-07-03 23:30:00",
+        "impacto": "High",
+        "pronostico": "",
+        "anterior": "",
+        "actual": ""
+    },
+    {
+        "titulo": "German Trade Balance",
+        "activo": "EUR",
+        "fecha": "2023-07-04 01:00:00",
+        "impacto": "Low",
+        "pronostico": "17.3B",
+        "anterior": "16.5B",
+        "actual": "14.4B"
+    },
+    {
+        "titulo": "Spanish Unemployment Change",
+        "activo": "EUR",
+        "fecha": "2023-07-04 02:00:00",
+        "impacto": "Low",
+        "pronostico": "-63.5K",
+        "anterior": "-49.3K",
+        "actual": "-50.3K"
+    },
+    {
+        "titulo": "30-y Bond Auction",
+        "activo": "GBP",
+        "fecha": "2023-07-04 04:03:00",
+        "impacto": "Low",
+        "pronostico": "",
+        "anterior": "4.48|2.6",
+        "actual": "4.39|2.6"
+    },
+    {
+        "titulo": "Bank Holiday",
+        "activo": "USD",
+        "fecha": "2023-07-04 00:00:00",
+        "impacto": "Non",
+        "pronostico": "",
+        "anterior": "",
+        "actual": ""
+    },
+    {
+        "titulo": "Manufacturing PMI",
+        "activo": "CAD",
+        "fecha": "2023-07-04 08:30:00",
+        "impacto": "Low",
+        "pronostico": "",
+        "anterior": "49.0",
+        "actual": "48.8"
+    },
+    {
+        "titulo": "GDT Price Index",
+        "activo": "NZD",
+        "fecha": "2023-07-04 09:15:00",
+        "impacto": "Low",
+        "pronostico": "",
+        "anterior": "0.0%",
+        "actual": "-3.3%"
+    },
+    {
+        "titulo": "ANZ Commodity Prices m/m",
+        "activo": "NZD",
+        "fecha": "2023-07-04 20:00:00",
+        "impacto": "Low",
+        "pronostico": "",
+        "anterior": "0.4%",
+        "actual": "-2.3%"
+    },
+    {
+        "titulo": "Caixin Services PMI",
+        "activo": "CNY",
+        "fecha": "2023-07-04 20:45:00",
+        "impacto": "Medium",
+        "pronostico": "56.2",
+        "anterior": "57.1",
+        "actual": "53.9"
+    },
+    {
+        "titulo": "French Industrial Production m/m",
+        "activo": "EUR",
+        "fecha": "2023-07-05 01:45:00",
+        "impacto": "Low",
+        "pronostico": "-0.3%",
+        "anterior": "0.8%",
+        "actual": "1.2%"
+    },
+    {
+        "titulo": "Spanish Services PMI",
+        "activo": "EUR",
+        "fecha": "2023-07-05 02:15:00",
+        "impacto": "Low",
+        "pronostico": "55.8",
+        "anterior": "56.7",
+        "actual": "53.4"
+    },
+    {
+        "titulo": "Italian Services PMI",
+        "activo": "EUR",
+        "fecha": "2023-07-05 02:45:00",
+        "impacto": "Low",
+        "pronostico": "53.0",
+        "anterior": "54.0",
+        "actual": "52.2"
+    },
+    {
+        "titulo": "French Final Services PMI",
+        "activo": "EUR",
+        "fecha": "2023-07-05 02:50:00",
+        "impacto": "Low",
+        "pronostico": "48.0",
+        "anterior": "48.0",
+        "actual": "48.0"
+    },
+    {
+        "titulo": "German Final Services PMI",
+        "activo": "EUR",
+        "fecha": "2023-07-05 02:55:00",
+        "impacto": "Low",
+        "pronostico": "54.1",
+        "anterior": "54.1",
+        "actual": "54.1"
+    },
+    {
+        "titulo": "Final Services PMI",
+        "activo": "EUR",
+        "fecha": "2023-07-05 03:00:00",
+        "impacto": "Low",
+        "pronostico": "52.4",
+        "anterior": "52.4",
+        "actual": "52.0"
+    },
+    {
+        "titulo": "Final Services PMI",
+        "activo": "GBP",
+        "fecha": "2023-07-05 03:30:00",
+        "impacto": "Low",
+        "pronostico": "53.7",
+        "anterior": "53.7",
+        "actual": "53.7"
+    },
+    {
+        "titulo": "PPI m/m",
+        "activo": "EUR",
+        "fecha": "2023-07-05 04:00:00",
+        "impacto": "Low",
+        "pronostico": "-1.7%",
+        "anterior": "-3.2%",
+        "actual": "-1.9%"
+    },
+    {
+        "titulo": "German 10-y Bond Auction",
+        "activo": "EUR",
+        "fecha": "2023-07-05 04:33:00",
+        "impacto": "Low",
+        "pronostico": "",
+        "anterior": "2.43|1.9",
+        "actual": "2.39|2.2"
+    },
+    {
+        "titulo": "OPEC Meetings",
+        "activo": "All",
+        "fecha": "2023-07-05 00:00:00",
+        "impacto": "High",
+        "pronostico": "",
+        "anterior": "",
+        "actual": ""
+    },
+    {
+        "titulo": "Factory Orders m/m",
+        "activo": "USD",
+        "fecha": "2023-07-05 09:00:00",
+        "impacto": "Low",
+        "pronostico": "0.7%",
+        "anterior": "0.3%",
+        "actual": "0.3%"
+    },
+    {
+        "titulo": "Wards Total Vehicle Sales",
+        "activo": "USD",
+        "fecha": "2023-07-05 00:00:00",
+        "impacto": "Low",
+        "pronostico": "15.3M",
+        "anterior": "15.1M",
+        "actual": "15.7M"
+    },
+    {
+        "titulo": "FOMC Meeting Minutes",
+        "activo": "USD",
+        "fecha": "2023-07-05 13:00:00",
+        "impacto": "High",
+        "pronostico": "",
+        "anterior": "",
+        "actual": ""
+    },
+    {
+        "titulo": "FOMC Member Williams Speaks",
+        "activo": "USD",
+        "fecha": "2023-07-05 15:00:00",
+        "impacto": "Low",
+        "pronostico": "",
+        "anterior": "",
+        "actual": ""
+    },
+    {
+        "titulo": "Goods Trade Balance",
+        "activo": "AUD",
+        "fecha": "2023-07-05 20:30:00",
+        "impacto": "Medium",
+        "pronostico": "10.85B",
+        "anterior": "10.45B",
+        "actual": "11.79B"
+    },
+    {
+        "titulo": "30-y Bond Auction",
+        "activo": "JPY",
+        "fecha": "2023-07-05 22:35:00",
+        "impacto": "Low",
+        "pronostico": "",
+        "anterior": "1.26|3.1",
+        "actual": "1.22|3.0"
+    },
+    {
+        "titulo": "German Factory Orders m/m",
+        "activo": "EUR",
+        "fecha": "2023-07-06 01:00:00",
+        "impacto": "Low",
+        "pronostico": "1.1%",
+        "anterior": "0.2%",
+        "actual": "6.4%"
+    },
+    {
+        "titulo": "Construction PMI",
+        "activo": "GBP",
+        "fecha": "2023-07-06 03:30:00",
+        "impacto": "Low",
+        "pronostico": "50.9",
+        "anterior": "51.6",
+        "actual": "48.9"
+    },
+    {
+        "titulo": "Housing Equity Withdrawal q/q",
+        "activo": "GBP",
+        "fecha": "2023-07-06 03:30:00",
+        "impacto": "Low",
+        "pronostico": "-10.7B",
+        "anterior": "-15.3B",
+        "actual": "-22.9B"
+    },
+    {
+        "titulo": "Spanish 10-y Bond Auction",
+        "activo": "EUR",
+        "fecha": "2023-07-06 03:47:00",
+        "impacto": "Low",
+        "pronostico": "",
+        "anterior": "3.51|1.4",
+        "actual": "3.55|1.5"
+    },
+    {
+        "titulo": "French 10-y Bond Auction",
+        "activo": "EUR",
+        "fecha": "2023-07-06 03:58:00",
+        "impacto": "Low",
+        "pronostico": "",
+        "anterior": "2.85|1.9",
+        "actual": "3.04|1.9"
+    },
+    {
+        "titulo": "Retail Sales m/m",
+        "activo": "EUR",
+        "fecha": "2023-07-06 04:00:00",
+        "impacto": "Low",
+        "pronostico": "0.2%",
+        "anterior": "0.0%",
+        "actual": "0.0%"
+    },
+    {
+        "titulo": "OPEC Meetings",
+        "activo": "All",
+        "fecha": "2023-07-06 00:00:00",
+        "impacto": "High",
+        "pronostico": "",
+        "anterior": "",
+        "actual": ""
+    },
+    {
+        "titulo": "Challenger Job Cuts y/y",
+        "activo": "USD",
+        "fecha": "2023-07-06 06:30:00",
+        "impacto": "Low",
+        "pronostico": "",
+        "anterior": "286.7%",
+        "actual": "25.2%"
+    },
+    {
+        "titulo": "ADP Non-Farm Employment Change",
+        "activo": "USD",
+        "fecha": "2023-07-06 07:15:00",
+        "impacto": "High",
+        "pronostico": "226K",
+        "anterior": "267K",
+        "actual": "497K"
+    },
+    {
+        "titulo": "Trade Balance",
+        "activo": "CAD",
+        "fecha": "2023-07-06 07:30:00",
+        "impacto": "Low",
+        "pronostico": "1.4B",
+        "anterior": "0.9B",
+        "actual": "-3.4B"
+    },
+    {
+        "titulo": "Unemployment Claims",
+        "activo": "USD",
+        "fecha": "2023-07-06 07:30:00",
+        "impacto": "High",
+        "pronostico": "247K",
+        "anterior": "236K",
+        "actual": "248K"
+    },
+    {
+        "titulo": "Trade Balance",
+        "activo": "USD",
+        "fecha": "2023-07-06 07:30:00",
+        "impacto": "Low",
+        "pronostico": "-68.9B",
+        "anterior": "-74.4B",
+        "actual": "-69.0B"
+    },
+    {
+        "titulo": "FOMC Member Logan Speaks",
+        "activo": "USD",
+        "fecha": "2023-07-06 07:45:00",
+        "impacto": "Low",
+        "pronostico": "",
+        "anterior": "",
+        "actual": ""
+    },
+    {
+        "titulo": "Final Services PMI",
+        "activo": "USD",
+        "fecha": "2023-07-06 08:45:00",
+        "impacto": "Low",
+        "pronostico": "54.1",
+        "anterior": "54.1",
+        "actual": "54.4"
+    },
+    {
+        "titulo": "ISM Services PMI",
+        "activo": "USD",
+        "fecha": "2023-07-06 09:00:00",
+        "impacto": "High",
+        "pronostico": "51.3",
+        "anterior": "50.3",
+        "actual": "53.9"
+    },
+    {
+        "titulo": "JOLTS Job Openings",
+        "activo": "USD",
+        "fecha": "2023-07-06 09:00:00",
+        "impacto": "High",
+        "pronostico": "9.93M",
+        "anterior": "10.32M",
+        "actual": "9.82M"
+    },
+    {
+        "titulo": "Crude Oil Inventories",
+        "activo": "USD",
+        "fecha": "2023-07-06 10:00:00",
+        "impacto": "Low",
+        "pronostico": "-2.0M",
+        "anterior": "-9.6M",
+        "actual": "-1.5M"
+    },
+    {
+        "titulo": "Average Cash Earnings y/y",
+        "activo": "JPY",
+        "fecha": "2023-07-06 18:30:00",
+        "impacto": "Low",
+        "pronostico": "1.2%",
+        "anterior": "0.8%",
+        "actual": "2.5%"
+    },
+    {
+        "titulo": "Household Spending y/y",
+        "activo": "JPY",
+        "fecha": "2023-07-06 18:30:00",
+        "impacto": "Low",
+        "pronostico": "-2.4%",
+        "anterior": "-4.4%",
+        "actual": "-4.0%"
+    },
+    {
+        "titulo": "Leading Indicators",
+        "activo": "JPY",
+        "fecha": "2023-07-07 00:00:00",
+        "impacto": "Low",
+        "pronostico": "97.5%",
+        "anterior": "96.8%",
+        "actual": "109.5%"
+    },
+    {
+        "titulo": "Unemployment Rate",
+        "activo": "CHF",
+        "fecha": "2023-07-07 00:45:00",
+        "impacto": "Low",
+        "pronostico": "2.0%",
+        "anterior": "2.0%",
+        "actual": "2.0%"
+    },
+    {
+        "titulo": "German Industrial Production m/m",
+        "activo": "EUR",
+        "fecha": "2023-07-07 01:00:00",
+        "impacto": "Low",
+        "pronostico": "0.0%",
+        "anterior": "0.3%",
+        "actual": "-0.2%"
+    },
+    {
+        "titulo": "Halifax HPI m/m",
+        "activo": "GBP",
+        "fecha": "2023-07-07 01:00:00",
+        "impacto": "Low",
+        "pronostico": "0.1%",
+        "anterior": "-0.2%",
+        "actual": "-0.1%"
+    },
+    {
+        "titulo": "French Trade Balance",
+        "activo": "EUR",
+        "fecha": "2023-07-07 01:45:00",
+        "impacto": "Low",
+        "pronostico": "-9.5B",
+        "anterior": "-10.6B",
+        "actual": "-8.4B"
+    },
+    {
+        "titulo": "Foreign Currency Reserves",
+        "activo": "CHF",
+        "fecha": "2023-07-07 02:00:00",
+        "impacto": "Medium",
+        "pronostico": "",
+        "anterior": "734B",
+        "actual": "725B"
+    },
+    {
+        "titulo": "Italian Retail Sales m/m",
+        "activo": "EUR",
+        "fecha": "2023-07-07 03:00:00",
+        "impacto": "Low",
+        "pronostico": "-0.2%",
+        "anterior": "0.2%",
+        "actual": "0.7%"
+    },
+    {
+        "titulo": "German Buba President Nagel Speaks",
+        "activo": "EUR",
+        "fecha": "2023-07-07 07:00:00",
+        "impacto": "Low",
+        "pronostico": "",
+        "anterior": "",
+        "actual": ""
+    },
+    {
+        "titulo": "Employment Change",
+        "activo": "CAD",
+        "fecha": "2023-07-07 07:30:00",
+        "impacto": "High",
+        "pronostico": "19.8K",
+        "anterior": "-17.3K",
+        "actual": "59.9K"
+    },
+    {
+        "titulo": "Unemployment Rate",
+        "activo": "CAD",
+        "fecha": "2023-07-07 07:30:00",
+        "impacto": "High",
+        "pronostico": "5.3%",
+        "anterior": "5.2%",
+        "actual": "5.4%"
+    },
+    {
+        "titulo": "Average Hourly Earnings m/m",
+        "activo": "USD",
+        "fecha": "2023-07-07 07:30:00",
+        "impacto": "High",
+        "pronostico": "0.3%",
+        "anterior": "0.4%",
+        "actual": "0.4%"
+    },
+    {
+        "titulo": "Non-Farm Employment Change",
+        "activo": "USD",
+        "fecha": "2023-07-07 07:30:00",
+        "impacto": "High",
+        "pronostico": "224K",
+        "anterior": "306K",
+        "actual": "209K"
+    },
+    {
+        "titulo": "Unemployment Rate",
+        "activo": "USD",
+        "fecha": "2023-07-07 07:30:00",
+        "impacto": "High",
+        "pronostico": "3.6%",
+        "anterior": "3.7%",
+        "actual": "3.6%"
+    },
+    {
+        "titulo": "Ivey PMI",
+        "activo": "CAD",
+        "fecha": "2023-07-07 09:00:00",
+        "impacto": "Medium",
+        "pronostico": "51.5",
+        "anterior": "53.5",
+        "actual": "50.2"
+    },
+    {
+        "titulo": "MPC Member Mann Speaks",
+        "activo": "GBP",
+        "fecha": "2023-07-07 09:30:00",
+        "impacto": "Low",
+        "pronostico": "",
+        "anterior": "",
+        "actual": ""
+    },
+    {
+        "titulo": "Natural Gas Storage",
+        "activo": "USD",
+        "fecha": "2023-07-07 09:30:00",
+        "impacto": "Low",
+        "pronostico": "65B",
+        "anterior": "76B",
+        "actual": "72B"
+    },
+    {
+        "titulo": "ECB President Lagarde Speaks",
+        "activo": "EUR",
+        "fecha": "2023-07-07 11:45:00",
+        "impacto": "Medium",
+        "pronostico": "",
+        "anterior": "",
+        "actual": ""
+    },
+    {
+        "titulo": "BOE Gov Bailey Speaks",
+        "activo": "GBP",
+        "fecha": "2023-07-09 02:30:00",
+        "impacto": "High",
+        "pronostico": "",
+        "anterior": "",
+        "actual": ""
+    },
+    {
+        "titulo": "Bank Lending y/y",
+        "activo": "JPY",
+        "fecha": "2023-07-09 18:50:00",
+        "impacto": "Low",
+        "pronostico": "3.5%",
+        "anterior": "3.4%",
+        "actual": "3.2%"
+    },
+    {
+        "titulo": "Current Account",
+        "activo": "JPY",
+        "fecha": "2023-07-09 18:50:00",
+        "impacto": "Low",
+        "pronostico": "1.87T",
+        "anterior": "1.90T",
+        "actual": "1.70T"
+    },
+    {
+        "titulo": "CPI y/y",
+        "activo": "CNY",
+        "fecha": "2023-07-09 20:30:00",
+        "impacto": "Medium",
+        "pronostico": "0.2%",
+        "anterior": "0.2%",
+        "actual": "0.0%"
+    },
+    {
+        "titulo": "PPI y/y",
+        "activo": "CNY",
+        "fecha": "2023-07-09 20:30:00",
+        "impacto": "Medium",
+        "pronostico": "-5.0%",
+        "anterior": "-4.6%",
+        "actual": "-5.4%"
+    },
+    {
+        "titulo": "Economy Watchers Sentiment",
+        "activo": "JPY",
+        "fecha": "2023-07-10 00:00:00",
+        "impacto": "Low",
+        "pronostico": "54.8",
+        "anterior": "55.0",
+        "actual": "53.6"
+    },
+    {
+        "titulo": "Sentix Investor Confidence",
+        "activo": "EUR",
+        "fecha": "2023-07-10 03:30:00",
+        "impacto": "Low",
+        "pronostico": "-18.0",
+        "anterior": "-17.0",
+        "actual": "-22.5"
+    },
+    {
+        "titulo": "Building Permits m/m",
+        "activo": "CAD",
+        "fecha": "2023-07-10 07:30:00",
+        "impacto": "Low",
+        "pronostico": "7.3%",
+        "anterior": "-21.0%",
+        "actual": "10.5%"
+    },
+    {
+        "titulo": "Final Wholesale Inventories m/m",
+        "activo": "USD",
+        "fecha": "2023-07-10 09:00:00",
+        "impacto": "Low",
+        "pronostico": "-0.1%",
+        "anterior": "-0.1%",
+        "actual": "0.0%"
+    },
+    {
+        "titulo": "FOMC Member Barr Speaks",
+        "activo": "USD",
+        "fecha": "2023-07-10 09:00:00",
+        "impacto": "Low",
+        "pronostico": "",
+        "anterior": "",
+        "actual": ""
+    },
+    {
+        "titulo": "BOE Gov Bailey Speaks",
+        "activo": "GBP",
+        "fecha": "2023-07-10 10:00:00",
+        "impacto": "High",
+        "pronostico": "",
+        "anterior": "",
+        "actual": ""
+    },
+    {
+        "titulo": "German Buba President Nagel Speaks",
+        "activo": "EUR",
+        "fecha": "2023-07-10 11:00:00",
+        "impacto": "Low",
+        "pronostico": "",
+        "anterior": "",
+        "actual": ""
+    },
+    {
+        "titulo": "Consumer Credit m/m",
+        "activo": "USD",
+        "fecha": "2023-07-10 14:00:00",
+        "impacto": "Low",
+        "pronostico": "21.1B",
+        "anterior": "20.3B",
+        "actual": "7.2B"
+    },
+    {
+        "titulo": "BRC Retail Sales Monitor y/y",
+        "activo": "GBP",
+        "fecha": "2023-07-10 18:01:00",
+        "impacto": "Low",
+        "pronostico": "4.6%",
+        "anterior": "3.7%",
+        "actual": "4.2%"
+    },
+    {
+        "titulo": "M2 Money Stock y/y",
+        "activo": "JPY",
+        "fecha": "2023-07-10 18:50:00",
+        "impacto": "Low",
+        "pronostico": "2.7%",
+        "anterior": "2.6%",
+        "actual": "2.6%"
+    },
+    {
+        "titulo": "Westpac Consumer Sentiment",
+        "activo": "AUD",
+        "fecha": "2023-07-10 19:30:00",
+        "impacto": "Low",
+        "pronostico": "",
+        "anterior": "0.2%",
+        "actual": "2.7%"
+    },
+    {
+        "titulo": "NAB Business Confidence",
+        "activo": "AUD",
+        "fecha": "2023-07-10 20:30:00",
+        "impacto": "Medium",
+        "pronostico": "",
+        "anterior": "-3",
+        "actual": "0"
+    },
+    {
+        "titulo": "Prelim Machine Tool Orders y/y",
+        "activo": "JPY",
+        "fecha": "2023-07-11 00:59:00",
+        "impacto": "Low",
+        "pronostico": "",
+        "anterior": "-22.1%",
+        "actual": "-21.7%"
+    },
+    {
+        "titulo": "German Final CPI m/m",
+        "activo": "EUR",
+        "fecha": "2023-07-11 01:00:00",
+        "impacto": "Low",
+        "pronostico": "0.3%",
+        "anterior": "0.3%",
+        "actual": "0.3%"
+    },
+    {
+        "titulo": "Claimant Count Change",
+        "activo": "GBP",
+        "fecha": "2023-07-11 01:00:00",
+        "impacto": "High",
+        "pronostico": "20.5K",
+        "anterior": "-22.5K",
+        "actual": "25.7K"
+    },
+    {
+        "titulo": "Average Earnings Index 3m/y",
+        "activo": "GBP",
+        "fecha": "2023-07-11 01:00:00",
+        "impacto": "Medium",
+        "pronostico": "6.8%",
+        "anterior": "6.7%",
+        "actual": "6.9%"
+    },
+    {
+        "titulo": "Unemployment Rate",
+        "activo": "GBP",
+        "fecha": "2023-07-11 01:00:00",
+        "impacto": "Low",
+        "pronostico": "3.8%",
+        "anterior": "3.8%",
+        "actual": "4.0%"
+    },
+    {
+        "titulo": "Italian Industrial Production m/m",
+        "activo": "EUR",
+        "fecha": "2023-07-11 03:00:00",
+        "impacto": "Low",
+        "pronostico": "0.6%",
+        "anterior": "-2.0%",
+        "actual": "1.6%"
+    },
+    {
+        "titulo": "German ZEW Economic Sentiment",
+        "activo": "EUR",
+        "fecha": "2023-07-11 04:00:00",
+        "impacto": "Medium",
+        "pronostico": "-10.7",
+        "anterior": "-8.5",
+        "actual": "-14.7"
+    },
+    {
+        "titulo": "ZEW Economic Sentiment",
+        "activo": "EUR",
+        "fecha": "2023-07-11 04:00:00",
+        "impacto": "Low",
+        "pronostico": "-10.2",
+        "anterior": "-10.0",
+        "actual": "-12.2"
+    },
+    {
+        "titulo": "New Loans",
+        "activo": "CNY",
+        "fecha": "2023-07-11 04:30:00",
+        "impacto": "Medium",
+        "pronostico": "2300B",
+        "anterior": "1360B",
+        "actual": "3050B"
+    },
+    {
+        "titulo": "M2 Money Supply y/y",
+        "activo": "CNY",
+        "fecha": "2023-07-11 04:30:00",
+        "impacto": "Low",
+        "pronostico": "11.2%",
+        "anterior": "11.6%",
+        "actual": "11.3%"
+    },
+    {
+        "titulo": "NFIB Small Business Index",
+        "activo": "USD",
+        "fecha": "2023-07-11 04:50:00",
+        "impacto": "Low",
+        "pronostico": "89.9",
+        "anterior": "89.4",
+        "actual": "91.0"
+    },
+    {
+        "titulo": "RCM/TIPP Economic Optimism",
+        "activo": "USD",
+        "fecha": "2023-07-11 09:00:00",
+        "impacto": "Low",
+        "pronostico": "45.3",
+        "anterior": "41.7",
+        "actual": "41.3"
+    },
+    {
+        "titulo": "Visitor Arrivals m/m",
+        "activo": "NZD",
+        "fecha": "2023-07-11 17:45:00",
+        "impacto": "Low",
+        "pronostico": "",
+        "anterior": "-16.9%",
+        "actual": "-27.5%"
+    },
+    {
+        "titulo": "Core Machinery Orders m/m",
+        "activo": "JPY",
+        "fecha": "2023-07-11 18:50:00",
+        "impacto": "Low",
+        "pronostico": "0.9%",
+        "anterior": "5.5%",
+        "actual": "-7.6%"
+    },
+    {
+        "titulo": "PPI y/y",
+        "activo": "JPY",
+        "fecha": "2023-07-11 18:50:00",
+        "impacto": "Low",
+        "pronostico": "4.3%",
+        "anterior": "5.2%",
+        "actual": "4.1%"
+    },
+    {
+        "titulo": "Official Cash Rate",
+        "activo": "NZD",
+        "fecha": "2023-07-11 21:00:00",
+        "impacto": "High",
+        "pronostico": "5.50%",
+        "anterior": "5.50%",
+        "actual": "5.50%"
+    },
+    {
+        "titulo": "RBNZ Rate Statement",
+        "activo": "NZD",
+        "fecha": "2023-07-11 21:00:00",
+        "impacto": "High",
+        "pronostico": "",
+        "anterior": "",
+        "actual": ""
+    },
+    {
+        "titulo": "RBA Gov Lowe Speaks",
+        "activo": "AUD",
+        "fecha": "2023-07-11 22:10:00",
+        "impacto": "High",
+        "pronostico": "",
+        "anterior": "",
+        "actual": ""
+    },
+    {
+        "titulo": "Bank Stress Test Results",
+        "activo": "GBP",
+        "fecha": "2023-07-12 01:00:00",
+        "impacto": "Low",
+        "pronostico": "",
+        "anterior": "",
+        "actual": ""
+    },
+    {
+        "titulo": "BOE Financial Stability Report",
+        "activo": "GBP",
+        "fecha": "2023-07-12 01:00:00",
+        "impacto": "Low",
+        "pronostico": "",
+        "anterior": "",
+        "actual": ""
+    },
+    {
+        "titulo": "FPC Meeting Minutes",
+        "activo": "GBP",
+        "fecha": "2023-07-12 01:00:00",
+        "impacto": "Low",
+        "pronostico": "",
+        "anterior": "",
+        "actual": ""
+    },
+    {
+        "titulo": "FPC Statement",
+        "activo": "GBP",
+        "fecha": "2023-07-12 01:00:00",
+        "impacto": "Low",
+        "pronostico": "",
+        "anterior": "",
+        "actual": ""
+    },
+    {
+        "titulo": "BOE Gov Bailey Speaks",
+        "activo": "GBP",
+        "fecha": "2023-07-12 03:00:00",
+        "impacto": "High",
+        "pronostico": "",
+        "anterior": "",
+        "actual": ""
+    },
+    {
+        "titulo": "10-y Bond Auction",
+        "activo": "GBP",
+        "fecha": "2023-07-12 04:03:00",
+        "impacto": "Low",
+        "pronostico": "",
+        "anterior": "4.35|2.3",
+        "actual": "4.60|2.7"
+    },
+    {
+        "titulo": "German 10-y Bond Auction",
+        "activo": "EUR",
+        "fecha": "2023-07-12 04:35:00",
+        "impacto": "Low",
+        "pronostico": "",
+        "anterior": "2.39|2.2",
+        "actual": "2.64|1.9"
+    },
+    {
+        "titulo": "Core CPI m/m",
+        "activo": "USD",
+        "fecha": "2023-07-12 07:30:00",
+        "impacto": "High",
+        "pronostico": "0.3%",
+        "anterior": "0.4%",
+        "actual": "0.2%"
+    },
+    {
+        "titulo": "CPI m/m",
+        "activo": "USD",
+        "fecha": "2023-07-12 07:30:00",
+        "impacto": "High",
+        "pronostico": "0.3%",
+        "anterior": "0.1%",
+        "actual": "0.2%"
+    },
+    {
+        "titulo": "CPI y/y",
+        "activo": "USD",
+        "fecha": "2023-07-12 07:30:00",
+        "impacto": "High",
+        "pronostico": "3.1%",
+        "anterior": "4.0%",
+        "actual": "3.0%"
+    },
+    {
+        "titulo": "CB Leading Index m/m",
+        "activo": "GBP",
+        "fecha": "2023-07-12 08:30:00",
+        "impacto": "Low",
+        "pronostico": "",
+        "anterior": "-0.6%",
+        "actual": "-0.4%"
+    },
+    {
+        "titulo": "FOMC Member Kashkari Speaks",
+        "activo": "USD",
+        "fecha": "2023-07-12 08:45:00",
+        "impacto": "Low",
+        "pronostico": "",
+        "anterior": "",
+        "actual": ""
+    },
+    {
+        "titulo": "BOC Monetary Policy Report",
+        "activo": "CAD",
+        "fecha": "2023-07-12 09:00:00",
+        "impacto": "High",
+        "pronostico": "",
+        "anterior": "",
+        "actual": ""
+    },
+    {
+        "titulo": "BOC Rate Statement",
+        "activo": "CAD",
+        "fecha": "2023-07-12 09:00:00",
+        "impacto": "High",
+        "pronostico": "",
+        "anterior": "",
+        "actual": ""
+    },
+    {
+        "titulo": "Overnight Rate",
+        "activo": "CAD",
+        "fecha": "2023-07-12 09:00:00",
+        "impacto": "High",
+        "pronostico": "5.00%",
+        "anterior": "4.75%",
+        "actual": "5.00%"
+    },
+    {
+        "titulo": "Crude Oil Inventories",
+        "activo": "USD",
+        "fecha": "2023-07-12 09:30:00",
+        "impacto": "Low",
+        "pronostico": "-1.1M",
+        "anterior": "-1.5M",
+        "actual": "5.9M"
+    },
+    {
+        "titulo": "BOC Press Conference",
+        "activo": "CAD",
+        "fecha": "2023-07-12 10:00:00",
+        "impacto": "High",
+        "pronostico": "",
+        "anterior": "",
+        "actual": ""
+    },
+    {
+        "titulo": "10-y Bond Auction",
+        "activo": "USD",
+        "fecha": "2023-07-12 12:01:00",
+        "impacto": "Medium",
+        "pronostico": "",
+        "anterior": "3.79|2.4",
+        "actual": "3.86|2.5"
+    },
+    {
+        "titulo": "Beige Book",
+        "activo": "USD",
+        "fecha": "2023-07-12 13:00:00",
+        "impacto": "Low",
+        "pronostico": "",
+        "anterior": "",
+        "actual": ""
+    },
+    {
+        "titulo": "BusinessNZ Manufacturing Index",
+        "activo": "NZD",
+        "fecha": "2023-07-12 17:30:00",
+        "impacto": "Low",
+        "pronostico": "",
+        "anterior": "48.7",
+        "actual": "47.5"
+    },
+    {
+        "titulo": "FPI m/m",
+        "activo": "NZD",
+        "fecha": "2023-07-12 17:45:00",
+        "impacto": "Low",
+        "pronostico": "",
+        "anterior": "0.3%",
+        "actual": "1.6%"
+    },
+    {
+        "titulo": "RICS House Price Balance",
+        "activo": "GBP",
+        "fecha": "2023-07-12 18:01:00",
+        "impacto": "Low",
+        "pronostico": "-35%",
+        "anterior": "-30%",
+        "actual": "-46%"
+    },
+    {
+        "titulo": "MI Inflation Expectations",
+        "activo": "AUD",
+        "fecha": "2023-07-12 20:00:00",
+        "impacto": "Low",
+        "pronostico": "",
+        "anterior": "5.2%",
+        "actual": "5.2%"
+    },
+    {
+        "titulo": "Trade Balance",
+        "activo": "CNY",
+        "fecha": "2023-07-12 22:49:00",
+        "impacto": "Low",
+        "pronostico": "470B",
+        "anterior": "452B",
+        "actual": "491B"
+    },
+    {
+        "titulo": "USD-Denominated Trade Balance",
+        "activo": "CNY",
+        "fecha": "2023-07-12 22:50:00",
+        "impacto": "Low",
+        "pronostico": "74.0B",
+        "anterior": "65.8B",
+        "actual": "70.6B"
+    },
+    {
+        "titulo": "GDP m/m",
+        "activo": "GBP",
+        "fecha": "2023-07-13 01:00:00",
+        "impacto": "High",
+        "pronostico": "-0.3%",
+        "anterior": "0.2%",
+        "actual": "-0.1%"
+    },
+    {
+        "titulo": "Construction Output m/m",
+        "activo": "GBP",
+        "fecha": "2023-07-13 01:00:00",
+        "impacto": "Low",
+        "pronostico": "-0.5%",
+        "anterior": "-0.9%",
+        "actual": "-0.2%"
+    },
+    {
+        "titulo": "Goods Trade Balance",
+        "activo": "GBP",
+        "fecha": "2023-07-13 01:00:00",
+        "impacto": "Low",
+        "pronostico": "-14.9B",
+        "anterior": "-14.6B",
+        "actual": "-18.7B"
+    },
+    {
+        "titulo": "Index of Services 3m/3m",
+        "activo": "GBP",
+        "fecha": "2023-07-13 01:00:00",
+        "impacto": "Low",
+        "pronostico": "-0.2%",
+        "anterior": "0.0%",
+        "actual": "0.0%"
+    },
+    {
+        "titulo": "Industrial Production m/m",
+        "activo": "GBP",
+        "fecha": "2023-07-13 01:00:00",
+        "impacto": "Low",
+        "pronostico": "-0.4%",
+        "anterior": "-0.2%",
+        "actual": "-0.6%"
+    },
+    {
+        "titulo": "Manufacturing Production m/m",
+        "activo": "GBP",
+        "fecha": "2023-07-13 01:00:00",
+        "impacto": "Low",
+        "pronostico": "-0.5%",
+        "anterior": "-0.1%",
+        "actual": "-0.2%"
+    },
+    {
+        "titulo": "French Final CPI m/m",
+        "activo": "EUR",
+        "fecha": "2023-07-13 01:45:00",
+        "impacto": "Low",
+        "pronostico": "0.2%",
+        "anterior": "0.2%",
+        "actual": "0.2%"
+    },
+    {
+        "titulo": "BOE Credit Conditions Survey",
+        "activo": "GBP",
+        "fecha": "2023-07-13 03:30:00",
+        "impacto": "Low",
+        "pronostico": "",
+        "anterior": "",
+        "actual": ""
+    },
+    {
+        "titulo": "Industrial Production m/m",
+        "activo": "EUR",
+        "fecha": "2023-07-13 04:00:00",
+        "impacto": "Low",
+        "pronostico": "0.3%",
+        "anterior": "1.0%",
+        "actual": "0.2%"
+    },
+    {
+        "titulo": "Eurogroup Meetings",
+        "activo": "EUR",
+        "fecha": "2023-07-13 00:00:00",
+        "impacto": "Low",
+        "pronostico": "",
+        "anterior": "",
+        "actual": ""
+    },
+    {
+        "titulo": "ECB Monetary Policy Meeting Accounts",
+        "activo": "EUR",
+        "fecha": "2023-07-13 06:30:00",
+        "impacto": "Low",
+        "pronostico": "",
+        "anterior": "",
+        "actual": ""
+    },
+    {
+        "titulo": "NIESR GDP Estimate",
+        "activo": "GBP",
+        "fecha": "2023-07-13 07:20:00",
+        "impacto": "Low",
+        "pronostico": "",
+        "anterior": "0.0%",
+        "actual": "0.0%"
+    },
+    {
+        "titulo": "Core PPI m/m",
+        "activo": "USD",
+        "fecha": "2023-07-13 07:30:00",
+        "impacto": "High",
+        "pronostico": "0.2%",
+        "anterior": "0.1%",
+        "actual": "0.1%"
+    },
+    {
+        "titulo": "PPI m/m",
+        "activo": "USD",
+        "fecha": "2023-07-13 07:30:00",
+        "impacto": "High",
+        "pronostico": "0.2%",
+        "anterior": "-0.4%",
+        "actual": "0.1%"
+    },
+    {
+        "titulo": "Unemployment Claims",
+        "activo": "USD",
+        "fecha": "2023-07-13 07:30:00",
+        "impacto": "High",
+        "pronostico": "251K",
+        "anterior": "249K",
+        "actual": "237K"
+    },
+    {
+        "titulo": "Natural Gas Storage",
+        "activo": "USD",
+        "fecha": "2023-07-13 09:30:00",
+        "impacto": "Low",
+        "pronostico": "49B",
+        "anterior": "72B",
+        "actual": "49B"
+    },
+    {
+        "titulo": "30-y Bond Auction",
+        "activo": "USD",
+        "fecha": "2023-07-13 12:01:00",
+        "impacto": "Low",
+        "pronostico": "",
+        "anterior": "3.91|2.5",
+        "actual": "3.91|2.4"
+    },
+    {
+        "titulo": "Federal Budget Balance",
+        "activo": "USD",
+        "fecha": "2023-07-13 13:00:00",
+        "impacto": "Low",
+        "pronostico": "-173.5B",
+        "anterior": "-240.3B",
+        "actual": "-227.8B"
+    },
+    {
+        "titulo": "Bank Holiday",
+        "activo": "NZD",
+        "fecha": "2023-07-13 00:00:00",
+        "impacto": "Non",
+        "pronostico": "",
+        "anterior": "",
+        "actual": ""
+    },
+    {
+        "titulo": "FOMC Member Waller Speaks",
+        "activo": "USD",
+        "fecha": "2023-07-13 17:45:00",
+        "impacto": "Medium",
+        "pronostico": "",
+        "anterior": "",
+        "actual": ""
+    },
+    {
+        "titulo": "Revised Industrial Production m/m",
+        "activo": "JPY",
+        "fecha": "2023-07-13 23:30:00",
+        "impacto": "Low",
+        "pronostico": "-1.6%",
+        "anterior": "-1.6%",
+        "actual": "-2.2%"
+    },
+    {
+        "titulo": "G20 Meetings",
+        "activo": "All",
+        "fecha": "2023-07-13 00:00:00",
+        "impacto": "Medium",
+        "pronostico": "",
+        "anterior": "",
+        "actual": ""
+    },
+    {
+        "titulo": "German WPI m/m",
+        "activo": "EUR",
+        "fecha": "2023-07-14 01:00:00",
+        "impacto": "Low",
+        "pronostico": "-0.5%",
+        "anterior": "-1.1%",
+        "actual": "-0.2%"
+    },
+    {
+        "titulo": "PPI m/m",
+        "activo": "CHF",
+        "fecha": "2023-07-14 01:30:00",
+        "impacto": "Low",
+        "pronostico": "0.2%",
+        "anterior": "-0.3%",
+        "actual": "0.0%"
+    },
+    {
+        "titulo": "French Bank Holiday",
+        "activo": "EUR",
+        "fecha": "2023-07-14 00:00:00",
+        "impacto": "Non",
+        "pronostico": "",
+        "anterior": "",
+        "actual": ""
+    },
+    {
+        "titulo": "Italian Trade Balance",
+        "activo": "EUR",
+        "fecha": "2023-07-14 03:00:00",
+        "impacto": "Low",
+        "pronostico": "1.45B",
+        "anterior": "0.36B",
+        "actual": "4.71B"
+    },
+    {
+        "titulo": "Trade Balance",
+        "activo": "EUR",
+        "fecha": "2023-07-14 04:00:00",
+        "impacto": "Low",
+        "pronostico": "-10.3B",
+        "anterior": "-8.0B",
+        "actual": "-0.9B"
+    },
+    {
+        "titulo": "ECOFIN Meetings",
+        "activo": "EUR",
+        "fecha": "2023-07-14 00:00:00",
+        "impacto": "Low",
+        "pronostico": "",
+        "anterior": "",
+        "actual": ""
+    },
+    {
+        "titulo": "Manufacturing Sales m/m",
+        "activo": "CAD",
+        "fecha": "2023-07-14 07:30:00",
+        "impacto": "Low",
+        "pronostico": "0.8%",
+        "anterior": "-0.1%",
+        "actual": "1.2%"
+    },
+    {
+        "titulo": "Import Prices m/m",
+        "activo": "USD",
+        "fecha": "2023-07-14 07:30:00",
+        "impacto": "Low",
+        "pronostico": "-0.1%",
+        "anterior": "-0.4%",
+        "actual": "-0.2%"
+    },
+    {
+        "titulo": "Prelim UoM Consumer Sentiment",
+        "activo": "USD",
+        "fecha": "2023-07-14 09:00:00",
+        "impacto": "High",
+        "pronostico": "65.5",
+        "anterior": "64.4",
+        "actual": "72.6"
+    },
+    {
+        "titulo": "Prelim UoM Inflation Expectations",
+        "activo": "USD",
+        "fecha": "2023-07-14 09:00:00",
+        "impacto": "Medium",
+        "pronostico": "",
+        "anterior": "3.3%",
+        "actual": "3.4%"
+    },
+    {
+        "titulo": "New Home Prices m/m",
+        "activo": "CNY",
+        "fecha": "2023-07-14 20:30:00",
+        "impacto": "Low",
+        "pronostico": "",
+        "anterior": "0.10%",
+        "actual": "-0.06%"
+    },
+    {
+        "titulo": "G20 Meetings",
+        "activo": "All",
+        "fecha": "2023-07-14 00:00:00",
+        "impacto": "Medium",
+        "pronostico": "",
+        "anterior": "",
+        "actual": ""
+    },
+    {
+        "titulo": "G20 Meetings",
+        "activo": "All",
+        "fecha": "2023-07-15 00:00:00",
+        "impacto": "Medium",
+        "pronostico": "",
+        "anterior": "",
+        "actual": ""
+    },
+    {
+        "titulo": "G7 Meetings",
+        "activo": "All",
+        "fecha": "2023-07-15 00:00:00",
+        "impacto": "Low",
+        "pronostico": "",
+        "anterior": "",
+        "actual": ""
+    },
+    {
+        "titulo": "BusinessNZ Services Index",
+        "activo": "NZD",
+        "fecha": "2023-07-16 17:30:00",
+        "impacto": "Low",
+        "pronostico": "",
+        "anterior": "53.1",
+        "actual": "50.1"
+    },
+    {
+        "titulo": "Rightmove HPI m/m",
+        "activo": "GBP",
+        "fecha": "2023-07-16 18:01:00",
+        "impacto": "Low",
+        "pronostico": "",
+        "anterior": "0.0%",
+        "actual": "-0.2%"
+    },
+    {
+        "titulo": "Bank Holiday",
+        "activo": "JPY",
+        "fecha": "2023-07-16 00:00:00",
+        "impacto": "Non",
+        "pronostico": "",
+        "anterior": "",
+        "actual": ""
+    },
+    {
+        "titulo": "GDP q/y",
+        "activo": "CNY",
+        "fecha": "2023-07-16 21:00:00",
+        "impacto": "High",
+        "pronostico": "7.1%",
+        "anterior": "4.5%",
+        "actual": "6.3%"
+    },
+    {
+        "titulo": "Industrial Production y/y",
+        "activo": "CNY",
+        "fecha": "2023-07-16 21:00:00",
+        "impacto": "High",
+        "pronostico": "2.5%",
+        "anterior": "3.5%",
+        "actual": "4.4%"
+    },
+    {
+        "titulo": "Retail Sales y/y",
+        "activo": "CNY",
+        "fecha": "2023-07-16 21:00:00",
+        "impacto": "Medium",
+        "pronostico": "3.4%",
+        "anterior": "12.7%",
+        "actual": "3.1%"
+    },
+    {
+        "titulo": "Fixed Asset Investment ytd/y",
+        "activo": "CNY",
+        "fecha": "2023-07-16 21:00:00",
+        "impacto": "Low",
+        "pronostico": "3.4%",
+        "anterior": "4.0%",
+        "actual": "3.8%"
+    },
+    {
+        "titulo": "NBS Press Conference",
+        "activo": "CNY",
+        "fecha": "2023-07-16 21:00:00",
+        "impacto": "Low",
+        "pronostico": "",
+        "anterior": "",
+        "actual": ""
+    },
+    {
+        "titulo": "Unemployment Rate",
+        "activo": "CNY",
+        "fecha": "2023-07-16 21:00:00",
+        "impacto": "Low",
+        "pronostico": "5.2%",
+        "anterior": "5.2%",
+        "actual": "5.2%"
+    },
+    {
+        "titulo": "G20 Meetings",
+        "activo": "All",
+        "fecha": "2023-07-16 00:00:00",
+        "impacto": "Medium",
+        "pronostico": "",
+        "anterior": "",
+        "actual": ""
+    },
+    {
+        "titulo": "ECB President Lagarde Speaks",
+        "activo": "EUR",
+        "fecha": "2023-07-17 03:15:00",
+        "impacto": "Medium",
+        "pronostico": "",
+        "anterior": "",
+        "actual": ""
+    },
+    {
+        "titulo": "German Buba Monthly Report",
+        "activo": "EUR",
+        "fecha": "2023-07-17 05:00:00",
+        "impacto": "Low",
+        "pronostico": "",
+        "anterior": "",
+        "actual": ""
+    },
+    {
+        "titulo": "Foreign Securities Purchases",
+        "activo": "CAD",
+        "fecha": "2023-07-17 07:30:00",
+        "impacto": "Low",
+        "pronostico": "9.95B",
+        "anterior": "12.78B",
+        "actual": "11.16B"
+    },
+    {
+        "titulo": "Wholesale Sales m/m",
+        "activo": "CAD",
+        "fecha": "2023-07-17 07:30:00",
+        "impacto": "Low",
+        "pronostico": "1.1%",
+        "anterior": "-1.4%",
+        "actual": "3.5%"
+    },
+    {
+        "titulo": "Empire State Manufacturing Index",
+        "activo": "USD",
+        "fecha": "2023-07-17 07:30:00",
+        "impacto": "High",
+        "pronostico": "-3.5",
+        "anterior": "6.6",
+        "actual": "1.1"
+    },
+    {
+        "titulo": "Monetary Policy Meeting Minutes",
+        "activo": "AUD",
+        "fecha": "2023-07-17 20:30:00",
+        "impacto": "High",
+        "pronostico": "",
+        "anterior": "",
+        "actual": ""
+    },
+    {
+        "titulo": "Tertiary Industry Activity m/m",
+        "activo": "JPY",
+        "fecha": "2023-07-17 23:30:00",
+        "impacto": "Low",
+        "pronostico": "0.4%",
+        "anterior": "0.9%",
+        "actual": "1.2%"
+    },
+    {
+        "titulo": "G20 Meetings",
+        "activo": "All",
+        "fecha": "2023-07-17 00:00:00",
+        "impacto": "Medium",
+        "pronostico": "",
+        "anterior": "",
+        "actual": ""
+    },
+    {
+        "titulo": "30-y Bond Auction",
+        "activo": "GBP",
+        "fecha": "2023-07-18 04:03:00",
+        "impacto": "Low",
+        "pronostico": "",
+        "anterior": "4.39|2.6",
+        "actual": "4.48|2.3"
+    },
+    {
+        "titulo": "Housing Starts",
+        "activo": "CAD",
+        "fecha": "2023-07-18 07:13:00",
+        "impacto": "Low",
+        "pronostico": "221K",
+        "anterior": "200K",
+        "actual": "281K"
+    },
+    {
+        "titulo": "CPI m/m",
+        "activo": "CAD",
+        "fecha": "2023-07-18 07:30:00",
+        "impacto": "High",
+        "pronostico": "0.3%",
+        "anterior": "0.4%",
+        "actual": "0.1%"
+    },
+    {
+        "titulo": "Median CPI y/y",
+        "activo": "CAD",
+        "fecha": "2023-07-18 07:30:00",
+        "impacto": "High",
+        "pronostico": "3.7%",
+        "anterior": "4.0%",
+        "actual": "3.9%"
+    },
+    {
+        "titulo": "Trimmed CPI y/y",
+        "activo": "CAD",
+        "fecha": "2023-07-18 07:30:00",
+        "impacto": "High",
+        "pronostico": "3.6%",
+        "anterior": "3.8%",
+        "actual": "3.7%"
+    },
+    {
+        "titulo": "Common CPI y/y",
+        "activo": "CAD",
+        "fecha": "2023-07-18 07:30:00",
+        "impacto": "Medium",
+        "pronostico": "5.0%",
+        "anterior": "5.2%",
+        "actual": "5.1%"
+    },
+    {
+        "titulo": "IPPI m/m",
+        "activo": "CAD",
+        "fecha": "2023-07-18 07:30:00",
+        "impacto": "Low",
+        "pronostico": "-0.2%",
+        "anterior": "-0.6%",
+        "actual": "-0.6%"
+    },
+    {
+        "titulo": "RMPI m/m",
+        "activo": "CAD",
+        "fecha": "2023-07-18 07:30:00",
+        "impacto": "Low",
+        "pronostico": "-0.3%",
+        "anterior": "-5.0%",
+        "actual": "-1.5%"
+    },
+    {
+        "titulo": "Core Retail Sales m/m",
+        "activo": "USD",
+        "fecha": "2023-07-18 07:30:00",
+        "impacto": "High",
+        "pronostico": "0.4%",
+        "anterior": "0.3%",
+        "actual": "0.2%"
+    },
+    {
+        "titulo": "Retail Sales m/m",
+        "activo": "USD",
+        "fecha": "2023-07-18 07:30:00",
+        "impacto": "High",
+        "pronostico": "0.5%",
+        "anterior": "0.5%",
+        "actual": "0.2%"
+    },
+    {
+        "titulo": "Core CPI m/m",
+        "activo": "CAD",
+        "fecha": "2023-07-18 07:32:00",
+        "impacto": "Low",
+        "pronostico": "",
+        "anterior": "0.4%",
+        "actual": "-0.1%"
+    },
+    {
+        "titulo": "Industrial Production m/m",
+        "activo": "USD",
+        "fecha": "2023-07-18 08:15:00",
+        "impacto": "Medium",
+        "pronostico": "0.0%",
+        "anterior": "-0.5%",
+        "actual": "-0.5%"
+    },
+    {
+        "titulo": "Capacity Utilization Rate",
+        "activo": "USD",
+        "fecha": "2023-07-18 08:15:00",
+        "impacto": "Low",
+        "pronostico": "79.5%",
+        "anterior": "79.4%",
+        "actual": "78.9%"
+    },
+    {
+        "titulo": "Business Inventories m/m",
+        "activo": "USD",
+        "fecha": "2023-07-18 09:00:00",
+        "impacto": "Low",
+        "pronostico": "0.2%",
+        "anterior": "0.1%",
+        "actual": "0.2%"
+    },
+    {
+        "titulo": "FOMC Member Barr Speaks",
+        "activo": "USD",
+        "fecha": "2023-07-18 09:00:00",
+        "impacto": "Low",
+        "pronostico": "",
+        "anterior": "",
+        "actual": ""
+    },
+    {
+        "titulo": "NAHB Housing Market Index",
+        "activo": "USD",
+        "fecha": "2023-07-18 09:00:00",
+        "impacto": "Low",
+        "pronostico": "56",
+        "anterior": "55",
+        "actual": "56"
+    },
+    {
+        "titulo": "GDT Price Index",
+        "activo": "NZD",
+        "fecha": "2023-07-18 09:17:00",
+        "impacto": "Low",
+        "pronostico": "",
+        "anterior": "-3.3%",
+        "actual": "-1.0%"
+    },
+    {
+        "titulo": "CB Leading Index m/m",
+        "activo": "AUD",
+        "fecha": "2023-07-18 09:30:00",
+        "impacto": "Low",
+        "pronostico": "",
+        "anterior": "-0.3%",
+        "actual": "0.1%"
+    },
+    {
+        "titulo": "TIC Long-Term Purchases",
+        "activo": "USD",
+        "fecha": "2023-07-18 15:00:00",
+        "impacto": "Low",
+        "pronostico": "110.7B",
+        "anterior": "127.8B",
+        "actual": "25.8B"
+    },
+    {
+        "titulo": "CPI q/q",
+        "activo": "NZD",
+        "fecha": "2023-07-18 17:45:00",
+        "impacto": "High",
+        "pronostico": "0.9%",
+        "anterior": "1.2%",
+        "actual": "1.1%"
+    },
+    {
+        "titulo": "MI Leading Index m/m",
+        "activo": "AUD",
+        "fecha": "2023-07-18 19:33:00",
+        "impacto": "Low",
+        "pronostico": "",
+        "anterior": "-0.3%",
+        "actual": "0.1%"
+    },
+    {
+        "titulo": "Foreign Direct Investment ytd/y",
+        "activo": "CNY",
+        "fecha": "2023-07-19 00:06:00",
+        "impacto": "Low",
+        "pronostico": "",
+        "anterior": "0.1%",
+        "actual": "-2.7%"
+    },
+    {
+        "titulo": "CPI y/y",
+        "activo": "GBP",
+        "fecha": "2023-07-19 01:00:00",
+        "impacto": "High",
+        "pronostico": "8.2%",
+        "anterior": "8.7%",
+        "actual": "7.9%"
+    },
+    {
+        "titulo": "Core CPI y/y",
+        "activo": "GBP",
+        "fecha": "2023-07-19 01:00:00",
+        "impacto": "Low",
+        "pronostico": "7.1%",
+        "anterior": "7.1%",
+        "actual": "6.9%"
+    },
+    {
+        "titulo": "PPI Input m/m",
+        "activo": "GBP",
+        "fecha": "2023-07-19 01:00:00",
+        "impacto": "Low",
+        "pronostico": "-0.3%",
+        "anterior": "-1.2%",
+        "actual": "-1.3%"
+    },
+    {
+        "titulo": "PPI Output m/m",
+        "activo": "GBP",
+        "fecha": "2023-07-19 01:00:00",
+        "impacto": "Low",
+        "pronostico": "-0.3%",
+        "anterior": "-0.6%",
+        "actual": "-0.3%"
+    },
+    {
+        "titulo": "RPI y/y",
+        "activo": "GBP",
+        "fecha": "2023-07-19 01:00:00",
+        "impacto": "Low",
+        "pronostico": "10.9%",
+        "anterior": "11.3%",
+        "actual": "10.7%"
+    },
+    {
+        "titulo": "HPI y/y",
+        "activo": "GBP",
+        "fecha": "2023-07-19 03:30:00",
+        "impacto": "Low",
+        "pronostico": "3.3%",
+        "anterior": "3.2%",
+        "actual": "1.9%"
+    },
+    {
+        "titulo": "Final Core CPI y/y",
+        "activo": "EUR",
+        "fecha": "2023-07-19 04:00:00",
+        "impacto": "Low",
+        "pronostico": "5.4%",
+        "anterior": "5.4%",
+        "actual": "5.5%"
+    },
+    {
+        "titulo": "Final CPI y/y",
+        "activo": "EUR",
+        "fecha": "2023-07-19 04:00:00",
+        "impacto": "Low",
+        "pronostico": "5.5%",
+        "anterior": "5.5%",
+        "actual": "5.5%"
+    },
+    {
+        "titulo": "German 30-y Bond Auction",
+        "activo": "EUR",
+        "fecha": "2023-07-19 04:47:00",
+        "impacto": "Low",
+        "pronostico": "",
+        "anterior": "2.37|2.3",
+        "actual": "2.40|2.0"
+    },
+    {
+        "titulo": "Housing Starts",
+        "activo": "USD",
+        "fecha": "2023-07-19 07:30:00",
+        "impacto": "High",
+        "pronostico": "1.48M",
+        "anterior": "1.56M",
+        "actual": "1.43M"
+    },
+    {
+        "titulo": "Building Permits",
+        "activo": "USD",
+        "fecha": "2023-07-19 07:30:00",
+        "impacto": "Medium",
+        "pronostico": "1.49M",
+        "anterior": "1.50M",
+        "actual": "1.44M"
+    },
+    {
+        "titulo": "Crude Oil Inventories",
+        "activo": "USD",
+        "fecha": "2023-07-19 09:30:00",
+        "impacto": "Low",
+        "pronostico": "-2.0M",
+        "anterior": "5.9M",
+        "actual": "-0.7M"
+    },
+    {
+        "titulo": "MPC Member Ramsden Speaks",
+        "activo": "GBP",
+        "fecha": "2023-07-19 11:00:00",
+        "impacto": "Low",
+        "pronostico": "",
+        "anterior": "",
+        "actual": ""
+    },
+    {
+        "titulo": "Trade Balance",
+        "activo": "JPY",
+        "fecha": "2023-07-19 19:05:00",
+        "impacto": "Low",
+        "pronostico": "-0.66T",
+        "anterior": "-0.77T",
+        "actual": "-0.55T"
+    },
+    {
+        "titulo": "1-y Loan Prime Rate",
+        "activo": "CNY",
+        "fecha": "2023-07-19 20:15:00",
+        "impacto": "Medium",
+        "pronostico": "3.55%",
+        "anterior": "3.55%",
+        "actual": "3.55%"
+    },
+    {
+        "titulo": "5-y Loan Prime Rate",
+        "activo": "CNY",
+        "fecha": "2023-07-19 20:15:00",
+        "impacto": "Medium",
+        "pronostico": "4.20%",
+        "anterior": "4.20%",
+        "actual": "4.20%"
+    },
+    {
+        "titulo": "Employment Change",
+        "activo": "AUD",
+        "fecha": "2023-07-19 20:30:00",
+        "impacto": "High",
+        "pronostico": "15.4K",
+        "anterior": "76.5K",
+        "actual": "32.6K"
+    },
+    {
+        "titulo": "Unemployment Rate",
+        "activo": "AUD",
+        "fecha": "2023-07-19 20:30:00",
+        "impacto": "High",
+        "pronostico": "3.6%",
+        "anterior": "3.5%",
+        "actual": "3.5%"
+    },
+    {
+        "titulo": "NAB Quarterly Business Confidence",
+        "activo": "AUD",
+        "fecha": "2023-07-19 20:30:00",
+        "impacto": "Low",
+        "pronostico": "",
+        "anterior": "-4",
+        "actual": "-3"
+    },
+    {
+        "titulo": "Trade Balance",
+        "activo": "CHF",
+        "fecha": "2023-07-20 01:00:00",
+        "impacto": "Low",
+        "pronostico": "4.23B",
+        "anterior": "5.44B",
+        "actual": "4.82B"
+    },
+    {
+        "titulo": "German PPI m/m",
+        "activo": "EUR",
+        "fecha": "2023-07-20 01:00:00",
+        "impacto": "Low",
+        "pronostico": "-0.4%",
+        "anterior": "-1.4%",
+        "actual": "-0.3%"
+    },
+    {
+        "titulo": "Current Account",
+        "activo": "EUR",
+        "fecha": "2023-07-20 03:00:00",
+        "impacto": "Low",
+        "pronostico": "2.5B",
+        "anterior": "3.8B",
+        "actual": "9.1B"
+    },
+    {
+        "titulo": "Unemployment Claims",
+        "activo": "USD",
+        "fecha": "2023-07-20 07:30:00",
+        "impacto": "High",
+        "pronostico": "239K",
+        "anterior": "237K",
+        "actual": "228K"
+    },
+    {
+        "titulo": "Philly Fed Manufacturing Index",
+        "activo": "USD",
+        "fecha": "2023-07-20 07:30:00",
+        "impacto": "Medium",
+        "pronostico": "-10.1",
+        "anterior": "-13.7",
+        "actual": "-13.5"
+    },
+    {
+        "titulo": "Existing Home Sales",
+        "activo": "USD",
+        "fecha": "2023-07-20 09:00:00",
+        "impacto": "Medium",
+        "pronostico": "4.21M",
+        "anterior": "4.30M",
+        "actual": "4.16M"
+    },
+    {
+        "titulo": "CB Leading Index m/m",
+        "activo": "USD",
+        "fecha": "2023-07-20 09:00:00",
+        "impacto": "Low",
+        "pronostico": "-0.6%",
+        "anterior": "-0.6%",
+        "actual": "-0.7%"
+    },
+    {
+        "titulo": "Consumer Confidence",
+        "activo": "EUR",
+        "fecha": "2023-07-20 09:02:00",
+        "impacto": "Low",
+        "pronostico": "-16",
+        "anterior": "-16",
+        "actual": "-15"
+    },
+    {
+        "titulo": "Natural Gas Storage",
+        "activo": "USD",
+        "fecha": "2023-07-20 09:30:00",
+        "impacto": "Low",
+        "pronostico": "45B",
+        "anterior": "49B",
+        "actual": "41B"
+    },
+    {
+        "titulo": "GfK Consumer Confidence",
+        "activo": "GBP",
+        "fecha": "2023-07-20 18:01:00",
+        "impacto": "Low",
+        "pronostico": "-25",
+        "anterior": "-24",
+        "actual": "-30"
+    },
+    {
+        "titulo": "National Core CPI y/y",
+        "activo": "JPY",
+        "fecha": "2023-07-20 18:30:00",
+        "impacto": "Medium",
+        "pronostico": "3.3%",
+        "anterior": "3.2%",
+        "actual": "3.3%"
+    },
+    {
+        "titulo": "Retail Sales m/m",
+        "activo": "GBP",
+        "fecha": "2023-07-21 01:00:00",
+        "impacto": "Medium",
+        "pronostico": "0.2%",
+        "anterior": "0.1%",
+        "actual": "0.7%"
+    },
+    {
+        "titulo": "Public Sector Net Borrowing",
+        "activo": "GBP",
+        "fecha": "2023-07-21 01:00:00",
+        "impacto": "Low",
+        "pronostico": "20.7B",
+        "anterior": "15.8B",
+        "actual": "17.7B"
+    },
+    {
+        "titulo": "Core Retail Sales m/m",
+        "activo": "CAD",
+        "fecha": "2023-07-21 07:30:00",
+        "impacto": "Medium",
+        "pronostico": "0.2%",
+        "anterior": "1.2%",
+        "actual": "0.0%"
+    },
+    {
+        "titulo": "Retail Sales m/m",
+        "activo": "CAD",
+        "fecha": "2023-07-21 07:30:00",
+        "impacto": "Medium",
+        "pronostico": "0.5%",
+        "anterior": "1.0%",
+        "actual": "0.2%"
+    },
+    {
+        "titulo": "NHPI m/m",
+        "activo": "CAD",
+        "fecha": "2023-07-21 07:30:00",
+        "impacto": "Low",
+        "pronostico": "0.0%",
+        "anterior": "0.1%",
+        "actual": "0.1%"
+    },
+    {
+        "titulo": "Spanish Parliamentary Election",
+        "activo": "EUR",
+        "fecha": "2023-07-23 00:00:00",
+        "impacto": "Medium",
+        "pronostico": "",
+        "anterior": "",
+        "actual": ""
+    },
+    {
+        "titulo": "Trade Balance",
+        "activo": "NZD",
+        "fecha": "2023-07-23 17:45:00",
+        "impacto": "Low",
+        "pronostico": "235M",
+        "anterior": "52M",
+        "actual": "9M"
+    },
+    {
+        "titulo": "Flash Manufacturing PMI",
+        "activo": "AUD",
+        "fecha": "2023-07-23 18:00:00",
+        "impacto": "Low",
+        "pronostico": "",
+        "anterior": "48.2",
+        "actual": "49.6"
+    },
+    {
+        "titulo": "Flash Services PMI",
+        "activo": "AUD",
+        "fecha": "2023-07-23 18:00:00",
+        "impacto": "Low",
+        "pronostico": "",
+        "anterior": "50.3",
+        "actual": "48.0"
+    },
+    {
+        "titulo": "Flash Manufacturing PMI",
+        "activo": "JPY",
+        "fecha": "2023-07-23 19:30:00",
+        "impacto": "Low",
+        "pronostico": "50.1",
+        "anterior": "49.8",
+        "actual": "49.4"
+    },
+    {
+        "titulo": "Credit Card Spending y/y",
+        "activo": "NZD",
+        "fecha": "2023-07-23 22:00:00",
+        "impacto": "Low",
+        "pronostico": "",
+        "anterior": "3.4%",
+        "actual": "5.0%"
+    },
+    {
+        "titulo": "French Flash Manufacturing PMI",
+        "activo": "EUR",
+        "fecha": "2023-07-24 02:15:00",
+        "impacto": "High",
+        "pronostico": "46.1",
+        "anterior": "46.0",
+        "actual": "44.5"
+    },
+    {
+        "titulo": "French Flash Services PMI",
+        "activo": "EUR",
+        "fecha": "2023-07-24 02:15:00",
+        "impacto": "High",
+        "pronostico": "48.5",
+        "anterior": "48.0",
+        "actual": "47.4"
+    },
+    {
+        "titulo": "German Flash Manufacturing PMI",
+        "activo": "EUR",
+        "fecha": "2023-07-24 02:30:00",
+        "impacto": "High",
+        "pronostico": "40.9",
+        "anterior": "40.6",
+        "actual": "38.8"
+    },
+    {
+        "titulo": "German Flash Services PMI",
+        "activo": "EUR",
+        "fecha": "2023-07-24 02:30:00",
+        "impacto": "High",
+        "pronostico": "53.2",
+        "anterior": "54.1",
+        "actual": "52.0"
+    },
+    {
+        "titulo": "Flash Manufacturing PMI",
+        "activo": "EUR",
+        "fecha": "2023-07-24 03:00:00",
+        "impacto": "Medium",
+        "pronostico": "43.5",
+        "anterior": "43.4",
+        "actual": "42.7"
+    },
+    {
+        "titulo": "Flash Services PMI",
+        "activo": "EUR",
+        "fecha": "2023-07-24 03:00:00",
+        "impacto": "Medium",
+        "pronostico": "51.7",
+        "anterior": "52.0",
+        "actual": "51.1"
+    },
+    {
+        "titulo": "Flash Manufacturing PMI",
+        "activo": "GBP",
+        "fecha": "2023-07-24 03:30:00",
+        "impacto": "High",
+        "pronostico": "46.1",
+        "anterior": "46.5",
+        "actual": "45.0"
+    },
+    {
+        "titulo": "Flash Services PMI",
+        "activo": "GBP",
+        "fecha": "2023-07-24 03:30:00",
+        "impacto": "High",
+        "pronostico": "53.1",
+        "anterior": "53.7",
+        "actual": "51.5"
+    },
+    {
+        "titulo": "Flash Manufacturing PMI",
+        "activo": "USD",
+        "fecha": "2023-07-24 08:45:00",
+        "impacto": "High",
+        "pronostico": "46.1",
+        "anterior": "46.3",
+        "actual": "49.0"
+    },
+    {
+        "titulo": "Flash Services PMI",
+        "activo": "USD",
+        "fecha": "2023-07-24 08:45:00",
+        "impacto": "High",
+        "pronostico": "54.0",
+        "anterior": "54.4",
+        "actual": "52.4"
+    },
+    {
+        "titulo": "BOJ Core CPI y/y",
+        "activo": "JPY",
+        "fecha": "2023-07-25 00:00:00",
+        "impacto": "Low",
+        "pronostico": "3.0%",
+        "anterior": "3.1%",
+        "actual": "3.0%"
+    },
+    {
+        "titulo": "German ifo Business Climate",
+        "activo": "EUR",
+        "fecha": "2023-07-25 03:00:00",
+        "impacto": "Medium",
+        "pronostico": "88.0",
+        "anterior": "88.6",
+        "actual": "87.3"
+    },
+    {
+        "titulo": "CBI Industrial Order Expectations",
+        "activo": "GBP",
+        "fecha": "2023-07-25 05:00:00",
+        "impacto": "Low",
+        "pronostico": "-17",
+        "anterior": "-15",
+        "actual": "-9"
+    },
+    {
+        "titulo": "Belgian NBB Business Climate",
+        "activo": "EUR",
+        "fecha": "2023-07-25 07:58:00",
+        "impacto": "Low",
+        "pronostico": "-10.0",
+        "anterior": "-12.1",
+        "actual": "-14.8"
+    },
+    {
+        "titulo": "HPI m/m",
+        "activo": "USD",
+        "fecha": "2023-07-25 08:00:00",
+        "impacto": "Low",
+        "pronostico": "0.6%",
+        "anterior": "0.7%",
+        "actual": "0.7%"
+    },
+    {
+        "titulo": "S&P/CS Composite-20 HPI y/y",
+        "activo": "USD",
+        "fecha": "2023-07-25 08:00:00",
+        "impacto": "Low",
+        "pronostico": "-2.3%",
+        "anterior": "-1.7%",
+        "actual": "-1.7%"
+    },
+    {
+        "titulo": "CB Consumer Confidence",
+        "activo": "USD",
+        "fecha": "2023-07-25 09:00:00",
+        "impacto": "High",
+        "pronostico": "112.1",
+        "anterior": "110.1",
+        "actual": "117.0"
+    },
+    {
+        "titulo": "Richmond Manufacturing Index",
+        "activo": "USD",
+        "fecha": "2023-07-25 09:00:00",
+        "impacto": "Medium",
+        "pronostico": "-9",
+        "anterior": "-7",
+        "actual": "-9"
+    },
+    {
+        "titulo": "SPPI y/y",
+        "activo": "JPY",
+        "fecha": "2023-07-25 18:50:00",
+        "impacto": "Low",
+        "pronostico": "1.5%",
+        "anterior": "1.7%",
+        "actual": "1.2%"
+    },
+    {
+        "titulo": "CPI q/q",
+        "activo": "AUD",
+        "fecha": "2023-07-25 20:30:00",
+        "impacto": "High",
+        "pronostico": "1.0%",
+        "anterior": "1.4%",
+        "actual": "0.8%"
+    },
+    {
+        "titulo": "CPI y/y",
+        "activo": "AUD",
+        "fecha": "2023-07-25 20:30:00",
+        "impacto": "High",
+        "pronostico": "5.4%",
+        "anterior": "5.6%",
+        "actual": "5.4%"
+    },
+    {
+        "titulo": "Trimmed Mean CPI q/q",
+        "activo": "AUD",
+        "fecha": "2023-07-25 20:30:00",
+        "impacto": "High",
+        "pronostico": "1.1%",
+        "anterior": "1.2%",
+        "actual": "0.9%"
+    },
+    {
+        "titulo": "UBS Economic Expectations",
+        "activo": "CHF",
+        "fecha": "2023-07-26 03:00:00",
+        "impacto": "Low",
+        "pronostico": "",
+        "anterior": "-30.8",
+        "actual": "-32.6"
+    },
+    {
+        "titulo": "M3 Money Supply y/y",
+        "activo": "EUR",
+        "fecha": "2023-07-26 03:00:00",
+        "impacto": "Low",
+        "pronostico": "0.9%",
+        "anterior": "1.4%",
+        "actual": "0.6%"
+    },
+    {
+        "titulo": "Private Loans y/y",
+        "activo": "EUR",
+        "fecha": "2023-07-26 03:00:00",
+        "impacto": "Low",
+        "pronostico": "2.0%",
+        "anterior": "2.1%",
+        "actual": "1.7%"
+    },
+    {
+        "titulo": "CB Leading Index m/m",
+        "activo": "CNY",
+        "fecha": "2023-07-26 08:00:00",
+        "impacto": "Low",
+        "pronostico": "",
+        "anterior": "0.0%",
+        "actual": "0.1%"
+    },
+    {
+        "titulo": "New Home Sales",
+        "activo": "USD",
+        "fecha": "2023-07-26 09:00:00",
+        "impacto": "Medium",
+        "pronostico": "726K",
+        "anterior": "715K",
+        "actual": "697K"
+    },
+    {
+        "titulo": "Crude Oil Inventories",
+        "activo": "USD",
+        "fecha": "2023-07-26 09:30:00",
+        "impacto": "Low",
+        "pronostico": "-2.2M",
+        "anterior": "-0.7M",
+        "actual": "-0.6M"
+    },
+    {
+        "titulo": "BOC Summary of Deliberations",
+        "activo": "CAD",
+        "fecha": "2023-07-26 12:30:00",
+        "impacto": "Low",
+        "pronostico": "",
+        "anterior": "",
+        "actual": ""
+    },
+    {
+        "titulo": "Federal Funds Rate",
+        "activo": "USD",
+        "fecha": "2023-07-26 13:00:00",
+        "impacto": "High",
+        "pronostico": "5.50%",
+        "anterior": "5.25%",
+        "actual": "5.50%"
+    },
+    {
+        "titulo": "FOMC Statement",
+        "activo": "USD",
+        "fecha": "2023-07-26 13:00:00",
+        "impacto": "High",
+        "pronostico": "",
+        "anterior": "",
+        "actual": ""
+    },
+    {
+        "titulo": "FOMC Press Conference",
+        "activo": "USD",
+        "fecha": "2023-07-26 13:30:00",
+        "impacto": "High",
+        "pronostico": "",
+        "anterior": "",
+        "actual": ""
+    },
+    {
+        "titulo": "Import Prices q/q",
+        "activo": "AUD",
+        "fecha": "2023-07-26 20:30:00",
+        "impacto": "Low",
+        "pronostico": "-0.8%",
+        "anterior": "-4.2%",
+        "actual": "-0.8%"
+    },
+    {
+        "titulo": "German GfK Consumer Climate",
+        "activo": "EUR",
+        "fecha": "2023-07-27 01:00:00",
+        "impacto": "Low",
+        "pronostico": "-24.8",
+        "anterior": "-25.2",
+        "actual": "-24.4"
+    },
+    {
+        "titulo": "Spanish Unemployment Rate",
+        "activo": "EUR",
+        "fecha": "2023-07-27 02:00:00",
+        "impacto": "Low",
+        "pronostico": "13.0%",
+        "anterior": "13.3%",
+        "actual": "11.6%"
+    },
+    {
+        "titulo": "Italian 10-y Bond Auction",
+        "activo": "EUR",
+        "fecha": "2023-07-27 04:13:00",
+        "impacto": "Low",
+        "pronostico": "",
+        "anterior": "4.13|1.4",
+        "actual": "4.10|1.4"
+    },
+    {
+        "titulo": "CBI Realized Sales",
+        "activo": "GBP",
+        "fecha": "2023-07-27 05:00:00",
+        "impacto": "Low",
+        "pronostico": "-9",
+        "anterior": "-9",
+        "actual": "-25"
+    },
+    {
+        "titulo": "Main Refinancing Rate",
+        "activo": "EUR",
+        "fecha": "2023-07-27 07:15:00",
+        "impacto": "High",
+        "pronostico": "4.25%",
+        "anterior": "4.00%",
+        "actual": "4.25%"
+    },
+    {
+        "titulo": "Monetary Policy Statement",
+        "activo": "EUR",
+        "fecha": "2023-07-27 07:15:00",
+        "impacto": "High",
+        "pronostico": "",
+        "anterior": "",
+        "actual": ""
+    },
+    {
+        "titulo": "Advance GDP q/q",
+        "activo": "USD",
+        "fecha": "2023-07-27 07:30:00",
+        "impacto": "High",
+        "pronostico": "1.8%",
+        "anterior": "2.0%",
+        "actual": "2.4%"
+    },
+    {
+        "titulo": "Unemployment Claims",
+        "activo": "USD",
+        "fecha": "2023-07-27 07:30:00",
+        "impacto": "High",
+        "pronostico": "234K",
+        "anterior": "228K",
+        "actual": "221K"
+    },
+    {
+        "titulo": "Advance GDP Price Index q/q",
+        "activo": "USD",
+        "fecha": "2023-07-27 07:30:00",
+        "impacto": "Medium",
+        "pronostico": "3.0%",
+        "anterior": "4.1%",
+        "actual": "2.2%"
+    },
+    {
+        "titulo": "Core Durable Goods Orders m/m",
+        "activo": "USD",
+        "fecha": "2023-07-27 07:30:00",
+        "impacto": "Medium",
+        "pronostico": "0.1%",
+        "anterior": "0.7%",
+        "actual": "0.6%"
+    },
+    {
+        "titulo": "Durable Goods Orders m/m",
+        "activo": "USD",
+        "fecha": "2023-07-27 07:30:00",
+        "impacto": "Medium",
+        "pronostico": "1.3%",
+        "anterior": "1.8%",
+        "actual": "4.7%"
+    },
+    {
+        "titulo": "Goods Trade Balance",
+        "activo": "USD",
+        "fecha": "2023-07-27 07:30:00",
+        "impacto": "Low",
+        "pronostico": "-91.8B",
+        "anterior": "-91.9B",
+        "actual": "-87.8B"
+    },
+    {
+        "titulo": "Prelim Wholesale Inventories m/m",
+        "activo": "USD",
+        "fecha": "2023-07-27 07:30:00",
+        "impacto": "Low",
+        "pronostico": "-0.1%",
+        "anterior": "0.0%",
+        "actual": "-0.3%"
+    },
+    {
+        "titulo": "ECB Press Conference",
+        "activo": "EUR",
+        "fecha": "2023-07-27 07:45:00",
+        "impacto": "High",
+        "pronostico": "",
+        "anterior": "",
+        "actual": ""
+    },
+    {
+        "titulo": "Pending Home Sales m/m",
+        "activo": "USD",
+        "fecha": "2023-07-27 09:00:00",
+        "impacto": "Medium",
+        "pronostico": "-0.5%",
+        "anterior": "-2.5%",
+        "actual": "0.3%"
+    },
+    {
+        "titulo": "Natural Gas Storage",
+        "activo": "USD",
+        "fecha": "2023-07-27 09:30:00",
+        "impacto": "Low",
+        "pronostico": "12B",
+        "anterior": "41B",
+        "actual": "16B"
+    },
+    {
+        "titulo": "Tokyo Core CPI y/y",
+        "activo": "JPY",
+        "fecha": "2023-07-27 18:30:00",
+        "impacto": "Medium",
+        "pronostico": "2.9%",
+        "anterior": "3.2%",
+        "actual": "3.0%"
+    },
+    {
+        "titulo": "PPI q/q",
+        "activo": "AUD",
+        "fecha": "2023-07-27 20:30:00",
+        "impacto": "Low",
+        "pronostico": "0.9%",
+        "anterior": "1.0%",
+        "actual": "0.5%"
+    },
+    {
+        "titulo": "Retail Sales m/m",
+        "activo": "AUD",
+        "fecha": "2023-07-27 20:30:00",
+        "impacto": "Low",
+        "pronostico": "0.0%",
+        "anterior": "0.8%",
+        "actual": "-0.8%"
+    },
+    {
+        "titulo": "BOJ Outlook Report",
+        "activo": "JPY",
+        "fecha": "2023-07-27 22:28:00",
+        "impacto": "High",
+        "pronostico": "",
+        "anterior": "",
+        "actual": ""
+    },
+    {
+        "titulo": "Monetary Policy Statement",
+        "activo": "JPY",
+        "fecha": "2023-07-27 22:28:00",
+        "impacto": "High",
+        "pronostico": "",
+        "anterior": "",
+        "actual": ""
+    },
+    {
+        "titulo": "BOJ Policy Rate",
+        "activo": "JPY",
+        "fecha": "2023-07-27 22:28:00",
+        "impacto": "Medium",
+        "pronostico": "-0.10%",
+        "anterior": "-0.10%",
+        "actual": "-0.10%"
+    },
+    {
+        "titulo": "French Consumer Spending m/m",
+        "activo": "EUR",
+        "fecha": "2023-07-28 00:30:00",
+        "impacto": "Low",
+        "pronostico": "-0.7%",
+        "anterior": "0.6%",
+        "actual": "0.9%"
+    },
+    {
+        "titulo": "French Flash GDP q/q",
+        "activo": "EUR",
+        "fecha": "2023-07-28 00:30:00",
+        "impacto": "Low",
+        "pronostico": "0.1%",
+        "anterior": "0.1%",
+        "actual": "0.5%"
+    },
+    {
+        "titulo": "German Prelim CPI m/m",
+        "activo": "EUR",
+        "fecha": "2023-07-28 00:00:00",
+        "impacto": "High",
+        "pronostico": "0.3%",
+        "anterior": "0.3%",
+        "actual": "0.3%"
+    },
+    {
+        "titulo": "Retail Sales y/y",
+        "activo": "CHF",
+        "fecha": "2023-07-28 01:30:00",
+        "impacto": "Low",
+        "pronostico": "-0.7%",
+        "anterior": "-0.9%",
+        "actual": "1.8%"
+    },
+    {
+        "titulo": "BOJ Press Conference",
+        "activo": "JPY",
+        "fecha": "2023-07-28 01:30:00",
+        "impacto": "High",
+        "pronostico": "",
+        "anterior": "",
+        "actual": ""
+    },
+    {
+        "titulo": "French Prelim CPI m/m",
+        "activo": "EUR",
+        "fecha": "2023-07-28 01:45:00",
+        "impacto": "Low",
+        "pronostico": "0.0%",
+        "anterior": "0.2%",
+        "actual": "0.0%"
+    },
+    {
+        "titulo": "KOF Economic Barometer",
+        "activo": "CHF",
+        "fecha": "2023-07-28 02:00:00",
+        "impacto": "Low",
+        "pronostico": "90.0",
+        "anterior": "90.7",
+        "actual": "92.2"
+    },
+    {
+        "titulo": "Spanish Flash CPI y/y",
+        "activo": "EUR",
+        "fecha": "2023-07-28 02:00:00",
+        "impacto": "Medium",
+        "pronostico": "1.7%",
+        "anterior": "1.9%",
+        "actual": "2.3%"
+    },
+    {
+        "titulo": "Spanish Flash GDP q/q",
+        "activo": "EUR",
+        "fecha": "2023-07-28 02:00:00",
+        "impacto": "Low",
+        "pronostico": "0.4%",
+        "anterior": "0.6%",
+        "actual": "0.4%"
+    },
+    {
+        "titulo": "German Prelim GDP q/q",
+        "activo": "EUR",
+        "fecha": "2023-07-28 03:00:00",
+        "impacto": "Low",
+        "pronostico": "0.1%",
+        "anterior": "-0.3%",
+        "actual": "0.0%"
+    },
+    {
+        "titulo": "GDP m/m",
+        "activo": "CAD",
+        "fecha": "2023-07-28 07:30:00",
+        "impacto": "High",
+        "pronostico": "0.3%",
+        "anterior": "0.1%",
+        "actual": "0.3%"
+    },
+    {
+        "titulo": "Core PCE Price Index m/m",
+        "activo": "USD",
+        "fecha": "2023-07-28 07:30:00",
+        "impacto": "High",
+        "pronostico": "0.2%",
+        "anterior": "0.3%",
+        "actual": "0.2%"
+    },
+    {
+        "titulo": "Employment Cost Index q/q",
+        "activo": "USD",
+        "fecha": "2023-07-28 07:30:00",
+        "impacto": "High",
+        "pronostico": "1.1%",
+        "anterior": "1.2%",
+        "actual": "1.0%"
+    },
+    {
+        "titulo": "Personal Income m/m",
+        "activo": "USD",
+        "fecha": "2023-07-28 07:30:00",
+        "impacto": "Low",
+        "pronostico": "0.5%",
+        "anterior": "0.5%",
+        "actual": "0.3%"
+    },
+    {
+        "titulo": "Personal Spending m/m",
+        "activo": "USD",
+        "fecha": "2023-07-28 07:30:00",
+        "impacto": "Low",
+        "pronostico": "0.4%",
+        "anterior": "0.2%",
+        "actual": "0.5%"
+    },
+    {
+        "titulo": "Revised UoM Consumer Sentiment",
+        "activo": "USD",
+        "fecha": "2023-07-28 09:00:00",
+        "impacto": "High",
+        "pronostico": "72.6",
+        "anterior": "72.6",
+        "actual": "71.6"
+    },
+    {
+        "titulo": "Revised UoM Inflation Expectations",
+        "activo": "USD",
+        "fecha": "2023-07-28 09:00:00",
+        "impacto": "Low",
+        "pronostico": "",
+        "anterior": "3.4%",
+        "actual": "3.4%"
+    },
+    {
+        "titulo": "Prelim Industrial Production m/m",
+        "activo": "JPY",
+        "fecha": "2023-07-30 18:50:00",
+        "impacto": "Low",
+        "pronostico": "2.5%",
+        "anterior": "-2.2%",
+        "actual": "2.0%"
+    },
+    {
+        "titulo": "Retail Sales y/y",
+        "activo": "JPY",
+        "fecha": "2023-07-30 18:50:00",
+        "impacto": "Low",
+        "pronostico": "5.4%",
+        "anterior": "5.8%",
+        "actual": "5.9%"
+    },
+    {
+        "titulo": "MI Inflation Gauge m/m",
+        "activo": "AUD",
+        "fecha": "2023-07-30 20:00:00",
+        "impacto": "Low",
+        "pronostico": "",
+        "anterior": "0.1%",
+        "actual": "0.8%"
+    },
+    {
+        "titulo": "ANZ Business Confidence",
+        "activo": "NZD",
+        "fecha": "2023-07-30 20:00:00",
+        "impacto": "Low",
+        "pronostico": "",
+        "anterior": "-18.0",
+        "actual": "-13.1"
+    },
+    {
+        "titulo": "Private Sector Credit m/m",
+        "activo": "AUD",
+        "fecha": "2023-07-30 20:30:00",
+        "impacto": "Low",
+        "pronostico": "0.4%",
+        "anterior": "0.4%",
+        "actual": "0.2%"
+    },
+    {
+        "titulo": "Manufacturing PMI",
+        "activo": "CNY",
+        "fecha": "2023-07-30 20:30:00",
+        "impacto": "High",
+        "pronostico": "48.9",
+        "anterior": "49.0",
+        "actual": "49.3"
+    },
+    {
+        "titulo": "Non-Manufacturing PMI",
+        "activo": "CNY",
+        "fecha": "2023-07-30 20:30:00",
+        "impacto": "Medium",
+        "pronostico": "52.9",
+        "anterior": "53.2",
+        "actual": "51.5"
+    },
+    {
+        "titulo": "Consumer Confidence",
+        "activo": "JPY",
+        "fecha": "2023-07-31 00:00:00",
+        "impacto": "Low",
+        "pronostico": "36.1",
+        "anterior": "36.2",
+        "actual": "37.1"
+    },
+    {
+        "titulo": "Housing Starts y/y",
+        "activo": "JPY",
+        "fecha": "2023-07-31 00:00:00",
+        "impacto": "Low",
+        "pronostico": "-0.4%",
+        "anterior": "3.5%",
+        "actual": "-4.8%"
+    },
+    {
+        "titulo": "German Import Prices m/m",
+        "activo": "EUR",
+        "fecha": "2023-07-31 01:00:00",
+        "impacto": "Low",
+        "pronostico": "-0.8%",
+        "anterior": "-1.4%",
+        "actual": "-1.6%"
+    },
+    {
+        "titulo": "German Retail Sales m/m",
+        "activo": "EUR",
+        "fecha": "2023-07-31 01:00:00",
+        "impacto": "Low",
+        "pronostico": "-0.3%",
+        "anterior": "1.9%",
+        "actual": "-0.8%"
+    },
+    {
+        "titulo": "Italian Prelim GDP q/q",
+        "activo": "EUR",
+        "fecha": "2023-07-31 03:00:00",
+        "impacto": "Low",
+        "pronostico": "0.0%",
+        "anterior": "0.6%",
+        "actual": "-0.3%"
+    },
+    {
+        "titulo": "M4 Money Supply m/m",
+        "activo": "GBP",
+        "fecha": "2023-07-31 03:30:00",
+        "impacto": "Low",
+        "pronostico": "0.5%",
+        "anterior": "0.3%",
+        "actual": "-0.1%"
+    },
+    {
+        "titulo": "Mortgage Approvals",
+        "activo": "GBP",
+        "fecha": "2023-07-31 03:30:00",
+        "impacto": "Low",
+        "pronostico": "49K",
+        "anterior": "51K",
+        "actual": "55K"
+    },
+    {
+        "titulo": "Net Lending to Individuals m/m",
+        "activo": "GBP",
+        "fecha": "2023-07-31 03:30:00",
+        "impacto": "Low",
+        "pronostico": "1.3B",
+        "anterior": "1.0B",
+        "actual": "1.8B"
+    },
+    {
+        "titulo": "Core CPI Flash Estimate y/y",
+        "activo": "EUR",
+        "fecha": "2023-07-31 04:00:00",
+        "impacto": "Medium",
+        "pronostico": "5.4%",
+        "anterior": "5.5%",
+        "actual": "5.5%"
+    },
+    {
+        "titulo": "CPI Flash Estimate y/y",
+        "activo": "EUR",
+        "fecha": "2023-07-31 04:00:00",
+        "impacto": "Medium",
+        "pronostico": "5.3%",
+        "anterior": "5.5%",
+        "actual": "5.3%"
+    },
+    {
+        "titulo": "Italian Prelim CPI m/m",
+        "activo": "EUR",
+        "fecha": "2023-07-31 04:00:00",
+        "impacto": "Low",
+        "pronostico": "-0.1%",
+        "anterior": "0.0%",
+        "actual": "0.1%"
+    },
+    {
+        "titulo": "Prelim Flash GDP q/q",
+        "activo": "EUR",
+        "fecha": "2023-07-31 04:00:00",
+        "impacto": "Low",
+        "pronostico": "0.2%",
+        "anterior": "-0.1%",
+        "actual": "0.3%"
+    },
+    {
+        "titulo": "Chicago PMI",
+        "activo": "USD",
+        "fecha": "2023-07-31 08:45:00",
+        "impacto": "Low",
+        "pronostico": "43.3",
+        "anterior": "41.5",
+        "actual": "42.8"
+    },
+    {
+        "titulo": "Loan Officer Survey",
+        "activo": "USD",
+        "fecha": "2023-07-31 13:00:00",
+        "impacto": "Low",
+        "pronostico": "",
+        "anterior": "",
+        "actual": ""
+    },
+    {
+        "titulo": "Building Consents m/m",
+        "activo": "NZD",
+        "fecha": "2023-07-31 17:45:00",
+        "impacto": "Low",
+        "pronostico": "",
+        "anterior": "-2.3%",
+        "actual": "3.5%"
+    },
+    {
+        "titulo": "BRC Shop Price Index y/y",
+        "activo": "GBP",
+        "fecha": "2023-07-31 18:01:00",
+        "impacto": "Low",
+        "pronostico": "",
+        "anterior": "8.4%",
+        "actual": "7.6%"
+    },
+    {
+        "titulo": "Unemployment Rate",
+        "activo": "JPY",
+        "fecha": "2023-07-31 18:30:00",
+        "impacto": "Low",
+        "pronostico": "2.6%",
+        "anterior": "2.6%",
+        "actual": "2.5%"
+    },
+    {
+        "titulo": "Final Manufacturing PMI",
+        "activo": "JPY",
+        "fecha": "2023-07-31 19:30:00",
+        "impacto": "Low",
+        "pronostico": "49.4",
+        "anterior": "49.4",
+        "actual": "49.6"
+    },
+    {
+        "titulo": "Building Approvals m/m",
+        "activo": "AUD",
+        "fecha": "2023-07-31 20:30:00",
+        "impacto": "Low",
+        "pronostico": "-7.9%",
+        "anterior": "20.6%",
+        "actual": "-7.7%"
+    },
+    {
+        "titulo": "Caixin Manufacturing PMI",
+        "activo": "CNY",
+        "fecha": "2023-07-31 20:45:00",
+        "impacto": "Medium",
+        "pronostico": "50.1",
+        "anterior": "50.5",
+        "actual": "49.2"
+    },
+    {
+        "titulo": "10-y Bond Auction",
+        "activo": "JPY",
+        "fecha": "2023-07-31 22:35:00",
+        "impacto": "Low",
+        "pronostico": "",
+        "anterior": "0.43|4.0",
+        "actual": "0.59|3.6"
+    },
+    {
+        "titulo": "Cash Rate",
+        "activo": "AUD",
+        "fecha": "2023-07-31 23:30:00",
+        "impacto": "High",
+        "pronostico": "4.35%",
+        "anterior": "4.10%",
+        "actual": "4.10%"
+    },
+    {
+        "titulo": "RBA Rate Statement",
+        "activo": "AUD",
+        "fecha": "2023-07-31 23:30:00",
+        "impacto": "High",
+        "pronostico": "",
+        "anterior": "",
+        "actual": ""
+    },
+    {
+        "titulo": "Nationwide HPI m/m",
+        "activo": "GBP",
+        "fecha": "2023-08-01 01:00:00",
+        "impacto": "Low",
+        "pronostico": "-0.5%",
+        "anterior": "0.1%",
+        "actual": "-0.2%"
+    },
+    {
+        "titulo": "Bank Holiday",
+        "activo": "CHF",
+        "fecha": "2023-08-01 00:00:00",
+        "impacto": "Non",
+        "pronostico": "",
+        "anterior": "",
+        "actual": ""
+    },
+    {
+        "titulo": "Commodity Prices y/y",
+        "activo": "AUD",
+        "fecha": "2023-08-01 01:30:00",
+        "impacto": "Low",
+        "pronostico": "",
+        "anterior": "-23.9%",
+        "actual": "-23.5%"
+    },
+    {
+        "titulo": "Spanish Manufacturing PMI",
+        "activo": "EUR",
+        "fecha": "2023-08-01 02:15:00",
+        "impacto": "Low",
+        "pronostico": "48.2",
+        "anterior": "48.0",
+        "actual": "47.8"
+    },
+    {
+        "titulo": "Italian Manufacturing PMI",
+        "activo": "EUR",
+        "fecha": "2023-08-01 02:45:00",
+        "impacto": "Low",
+        "pronostico": "44.4",
+        "anterior": "43.8",
+        "actual": "44.5"
+    },
+    {
+        "titulo": "French Final Manufacturing PMI",
+        "activo": "EUR",
+        "fecha": "2023-08-01 02:50:00",
+        "impacto": "Low",
+        "pronostico": "44.5",
+        "anterior": "44.5",
+        "actual": "45.1"
+    },
+    {
+        "titulo": "German Final Manufacturing PMI",
+        "activo": "EUR",
+        "fecha": "2023-08-01 02:55:00",
+        "impacto": "Low",
+        "pronostico": "38.8",
+        "anterior": "38.8",
+        "actual": "38.8"
+    },
+    {
+        "titulo": "German Unemployment Change",
+        "activo": "EUR",
+        "fecha": "2023-08-01 02:55:00",
+        "impacto": "Low",
+        "pronostico": "19K",
+        "anterior": "30K",
+        "actual": "-4K"
+    },
+    {
+        "titulo": "Final Manufacturing PMI",
+        "activo": "EUR",
+        "fecha": "2023-08-01 03:00:00",
+        "impacto": "Low",
+        "pronostico": "42.7",
+        "anterior": "42.7",
+        "actual": "42.7"
+    },
+    {
+        "titulo": "Italian Monthly Unemployment Rate",
+        "activo": "EUR",
+        "fecha": "2023-08-01 03:00:00",
+        "impacto": "Low",
+        "pronostico": "7.7%",
+        "anterior": "7.6%",
+        "actual": "7.4%"
+    },
+    {
+        "titulo": "Final Manufacturing PMI",
+        "activo": "GBP",
+        "fecha": "2023-08-01 03:30:00",
+        "impacto": "Low",
+        "pronostico": "45.0",
+        "anterior": "45.0",
+        "actual": "45.3"
+    },
+    {
+        "titulo": "Unemployment Rate",
+        "activo": "EUR",
+        "fecha": "2023-08-01 04:00:00",
+        "impacto": "Low",
+        "pronostico": "6.5%",
+        "anterior": "6.5%",
+        "actual": "6.4%"
+    },
+    {
+        "titulo": "Manufacturing PMI",
+        "activo": "CAD",
+        "fecha": "2023-08-01 08:30:00",
+        "impacto": "Low",
+        "pronostico": "",
+        "anterior": "48.8",
+        "actual": "49.6"
+    },
+    {
+        "titulo": "Final Manufacturing PMI",
+        "activo": "USD",
+        "fecha": "2023-08-01 08:45:00",
+        "impacto": "Low",
+        "pronostico": "49.0",
+        "anterior": "49.0",
+        "actual": "49.0"
+    },
+    {
+        "titulo": "ISM Manufacturing PMI",
+        "activo": "USD",
+        "fecha": "2023-08-01 09:00:00",
+        "impacto": "High",
+        "pronostico": "46.9",
+        "anterior": "46.0",
+        "actual": "46.4"
+    },
+    {
+        "titulo": "JOLTS Job Openings",
+        "activo": "USD",
+        "fecha": "2023-08-01 09:00:00",
+        "impacto": "High",
+        "pronostico": "9.61M",
+        "anterior": "9.62M",
+        "actual": "9.58M"
+    },
+    {
+        "titulo": "ISM Manufacturing Prices",
+        "activo": "USD",
+        "fecha": "2023-08-01 09:00:00",
+        "impacto": "Medium",
+        "pronostico": "43.8",
+        "anterior": "41.8",
+        "actual": "42.6"
+    },
+    {
+        "titulo": "Construction Spending m/m",
+        "activo": "USD",
+        "fecha": "2023-08-01 09:00:00",
+        "impacto": "Low",
+        "pronostico": "0.6%",
+        "anterior": "1.1%",
+        "actual": "0.5%"
+    },
+    {
+        "titulo": "FOMC Member Goolsbee Speaks",
+        "activo": "USD",
+        "fecha": "2023-08-01 09:00:00",
+        "impacto": "Low",
+        "pronostico": "",
+        "anterior": "",
+        "actual": ""
+    },
+    {
+        "titulo": "Wards Total Vehicle Sales",
+        "activo": "USD",
+        "fecha": "2023-08-01 00:00:00",
+        "impacto": "Low",
+        "pronostico": "15.7M",
+        "anterior": "15.7M",
+        "actual": "15.7M"
+    },
+    {
+        "titulo": "GDT Price Index",
+        "activo": "NZD",
+        "fecha": "2023-08-01 09:42:00",
+        "impacto": "Low",
+        "pronostico": "",
+        "anterior": "-1.0%",
+        "actual": "-4.3%"
+    },
+    {
+        "titulo": "Employment Change q/q",
+        "activo": "NZD",
+        "fecha": "2023-08-01 17:45:00",
+        "impacto": "High",
+        "pronostico": "0.6%",
+        "anterior": "1.1%",
+        "actual": "1.0%"
+    },
+    {
+        "titulo": "Unemployment Rate",
+        "activo": "NZD",
+        "fecha": "2023-08-01 17:45:00",
+        "impacto": "High",
+        "pronostico": "3.5%",
+        "anterior": "3.4%",
+        "actual": "3.6%"
+    },
+    {
+        "titulo": "Labor Cost Index q/q",
+        "activo": "NZD",
+        "fecha": "2023-08-01 17:45:00",
+        "impacto": "Low",
+        "pronostico": "1.2%",
+        "anterior": "0.9%",
+        "actual": "1.1%"
+    },
+    {
+        "titulo": "Monetary Base y/y",
+        "activo": "JPY",
+        "fecha": "2023-08-01 18:50:00",
+        "impacto": "Low",
+        "pronostico": "-0.7%",
+        "anterior": "-1.0%",
+        "actual": "-1.3%"
+    },
+    {
+        "titulo": "Monetary Policy Meeting Minutes",
+        "activo": "JPY",
+        "fecha": "2023-08-01 18:50:00",
+        "impacto": "Low",
+        "pronostico": "",
+        "anterior": "",
+        "actual": ""
+    },
+    {
+        "titulo": "SECO Consumer Climate",
+        "activo": "CHF",
+        "fecha": "2023-08-02 02:00:00",
+        "impacto": "Low",
+        "pronostico": "-25",
+        "anterior": "-30",
+        "actual": "-27"
+    },
+    {
+        "titulo": "Spanish Unemployment Change",
+        "activo": "EUR",
+        "fecha": "2023-08-02 02:00:00",
+        "impacto": "Low",
+        "pronostico": "-38.2K",
+        "anterior": "-50.3K",
+        "actual": "-11.0K"
+    },
+    {
+        "titulo": "Manufacturing PMI",
+        "activo": "CHF",
+        "fecha": "2023-08-02 02:30:00",
+        "impacto": "Low",
+        "pronostico": "43.8",
+        "anterior": "44.9",
+        "actual": "38.5"
+    },
+    {
+        "titulo": "ADP Non-Farm Employment Change",
+        "activo": "USD",
+        "fecha": "2023-08-02 07:15:00",
+        "impacto": "High",
+        "pronostico": "191K",
+        "anterior": "455K",
+        "actual": "324K"
+    },
+    {
+        "titulo": "Crude Oil Inventories",
+        "activo": "USD",
+        "fecha": "2023-08-02 09:30:00",
+        "impacto": "Low",
+        "pronostico": "-0.9M",
+        "anterior": "-0.6M",
+        "actual": "-17.0M"
+    },
+    {
+        "titulo": "ANZ Commodity Prices m/m",
+        "activo": "NZD",
+        "fecha": "2023-08-02 20:00:00",
+        "impacto": "Low",
+        "pronostico": "",
+        "anterior": "-1.7%",
+        "actual": "-2.6%"
+    },
+    {
+        "titulo": "Goods Trade Balance",
+        "activo": "AUD",
+        "fecha": "2023-08-02 20:30:00",
+        "impacto": "Medium",
+        "pronostico": "10.87B",
+        "anterior": "10.50B",
+        "actual": "11.32B"
+    },
+    {
+        "titulo": "Caixin Services PMI",
+        "activo": "CNY",
+        "fecha": "2023-08-02 20:45:00",
+        "impacto": "Medium",
+        "pronostico": "52.5",
+        "anterior": "53.9",
+        "actual": "54.1"
+    },
+    {
+        "titulo": "German Trade Balance",
+        "activo": "EUR",
+        "fecha": "2023-08-03 01:00:00",
+        "impacto": "Low",
+        "pronostico": "15.0B",
+        "anterior": "14.6B",
+        "actual": "18.7B"
+    },
+    {
+        "titulo": "CPI m/m",
+        "activo": "CHF",
+        "fecha": "2023-08-03 01:30:00",
+        "impacto": "High",
+        "pronostico": "-0.1%",
+        "anterior": "0.1%",
+        "actual": "-0.1%"
+    },
+    {
+        "titulo": "French Gov Budget Balance",
+        "activo": "EUR",
+        "fecha": "2023-08-03 01:45:00",
+        "impacto": "Low",
+        "pronostico": "",
+        "anterior": "-107.2B",
+        "actual": "-116.2B"
+    },
+    {
+        "titulo": "Spanish Services PMI",
+        "activo": "EUR",
+        "fecha": "2023-08-03 02:15:00",
+        "impacto": "Low",
+        "pronostico": "53.5",
+        "anterior": "53.4",
+        "actual": "52.8"
+    },
+    {
+        "titulo": "Italian Services PMI",
+        "activo": "EUR",
+        "fecha": "2023-08-03 02:45:00",
+        "impacto": "Low",
+        "pronostico": "52.2",
+        "anterior": "52.2",
+        "actual": "51.5"
+    },
+    {
+        "titulo": "French Final Services PMI",
+        "activo": "EUR",
+        "fecha": "2023-08-03 02:50:00",
+        "impacto": "Low",
+        "pronostico": "47.4",
+        "anterior": "47.4",
+        "actual": "47.1"
+    },
+    {
+        "titulo": "German Final Services PMI",
+        "activo": "EUR",
+        "fecha": "2023-08-03 02:55:00",
+        "impacto": "Low",
+        "pronostico": "52.0",
+        "anterior": "52.0",
+        "actual": "52.3"
+    },
+    {
+        "titulo": "Final Services PMI",
+        "activo": "EUR",
+        "fecha": "2023-08-03 03:00:00",
+        "impacto": "Low",
+        "pronostico": "51.1",
+        "anterior": "51.1",
+        "actual": "50.9"
+    },
+    {
+        "titulo": "Italian Retail Sales m/m",
+        "activo": "EUR",
+        "fecha": "2023-08-03 03:00:00",
+        "impacto": "Low",
+        "pronostico": "0.2%",
+        "anterior": "0.6%",
+        "actual": "-0.2%"
+    },
+    {
+        "titulo": "Final Services PMI",
+        "activo": "GBP",
+        "fecha": "2023-08-03 03:30:00",
+        "impacto": "Low",
+        "pronostico": "51.5",
+        "anterior": "51.5",
+        "actual": "51.5"
+    },
+    {
+        "titulo": "Spanish 10-y Bond Auction",
+        "activo": "EUR",
+        "fecha": "2023-08-03 03:44:00",
+        "impacto": "Low",
+        "pronostico": "",
+        "anterior": "3.55|1.5",
+        "actual": "3.61|1.5"
+    },
+    {
+        "titulo": "French 10-y Bond Auction",
+        "activo": "EUR",
+        "fecha": "2023-08-03 03:58:00",
+        "impacto": "Low",
+        "pronostico": "",
+        "anterior": "3.04|1.9",
+        "actual": "3.09|1.8"
+    },
+    {
+        "titulo": "PPI m/m",
+        "activo": "EUR",
+        "fecha": "2023-08-03 04:00:00",
+        "impacto": "Low",
+        "pronostico": "-0.3%",
+        "anterior": "-1.9%",
+        "actual": "-0.4%"
+    },
+    {
+        "titulo": "OPEC-JMMC Meetings",
+        "activo": "All",
+        "fecha": "2023-08-03 00:00:00",
+        "impacto": "Medium",
+        "pronostico": "",
+        "anterior": "",
+        "actual": ""
+    },
+    {
+        "titulo": "BOE Monetary Policy Report",
+        "activo": "GBP",
+        "fecha": "2023-08-03 06:00:00",
+        "impacto": "High",
+        "pronostico": "",
+        "anterior": "",
+        "actual": ""
+    },
+    {
+        "titulo": "Monetary Policy Summary",
+        "activo": "GBP",
+        "fecha": "2023-08-03 06:00:00",
+        "impacto": "High",
+        "pronostico": "",
+        "anterior": "",
+        "actual": ""
+    },
+    {
+        "titulo": "MPC Official Bank Rate Votes",
+        "activo": "GBP",
+        "fecha": "2023-08-03 06:00:00",
+        "impacto": "High",
+        "pronostico": "7-0-2",
+        "anterior": "7-0-2",
+        "actual": "8-0-1"
+    },
+    {
+        "titulo": "Official Bank Rate",
+        "activo": "GBP",
+        "fecha": "2023-08-03 06:00:00",
+        "impacto": "High",
+        "pronostico": "5.25%",
+        "anterior": "5.00%",
+        "actual": "5.25%"
+    },
+    {
+        "titulo": "BOE Gov Bailey Speaks",
+        "activo": "GBP",
+        "fecha": "2023-08-03 06:30:00",
+        "impacto": "High",
+        "pronostico": "",
+        "anterior": "",
+        "actual": ""
+    },
+    {
+        "titulo": "Challenger Job Cuts y/y",
+        "activo": "USD",
+        "fecha": "2023-08-03 06:30:00",
+        "impacto": "Low",
+        "pronostico": "",
+        "anterior": "25.2%",
+        "actual": "-8.2%"
+    },
+    {
+        "titulo": "Unemployment Claims",
+        "activo": "USD",
+        "fecha": "2023-08-03 07:30:00",
+        "impacto": "High",
+        "pronostico": "226K",
+        "anterior": "221K",
+        "actual": "227K"
+    },
+    {
+        "titulo": "Prelim Nonfarm Productivity q/q",
+        "activo": "USD",
+        "fecha": "2023-08-03 07:30:00",
+        "impacto": "Low",
+        "pronostico": "2.1%",
+        "anterior": "-2.1%",
+        "actual": "3.7%"
+    },
+    {
+        "titulo": "Prelim Unit Labor Costs q/q",
+        "activo": "USD",
+        "fecha": "2023-08-03 07:30:00",
+        "impacto": "Low",
+        "pronostico": "2.5%",
+        "anterior": "4.2%",
+        "actual": "1.6%"
+    },
+    {
+        "titulo": "Final Services PMI",
+        "activo": "USD",
+        "fecha": "2023-08-03 08:45:00",
+        "impacto": "Low",
+        "pronostico": "52.4",
+        "anterior": "52.4",
+        "actual": "52.3"
+    },
+    {
+        "titulo": "ISM Services PMI",
+        "activo": "USD",
+        "fecha": "2023-08-03 09:00:00",
+        "impacto": "High",
+        "pronostico": "53.1",
+        "anterior": "53.9",
+        "actual": "52.7"
+    },
+    {
+        "titulo": "Factory Orders m/m",
+        "activo": "USD",
+        "fecha": "2023-08-03 09:00:00",
+        "impacto": "Low",
+        "pronostico": "2.0%",
+        "anterior": "0.4%",
+        "actual": "2.3%"
+    },
+    {
+        "titulo": "Natural Gas Storage",
+        "activo": "USD",
+        "fecha": "2023-08-03 09:30:00",
+        "impacto": "Low",
+        "pronostico": "18B",
+        "anterior": "16B",
+        "actual": "14B"
+    },
+    {
+        "titulo": "RBA Monetary Policy Statement",
+        "activo": "AUD",
+        "fecha": "2023-08-03 20:30:00",
+        "impacto": "Medium",
+        "pronostico": "",
+        "anterior": "",
+        "actual": ""
+    },
+    {
+        "titulo": "German Factory Orders m/m",
+        "activo": "EUR",
+        "fecha": "2023-08-04 01:00:00",
+        "impacto": "Low",
+        "pronostico": "-2.1%",
+        "anterior": "6.2%",
+        "actual": "7.0%"
+    },
+    {
+        "titulo": "French Industrial Production m/m",
+        "activo": "EUR",
+        "fecha": "2023-08-04 01:45:00",
+        "impacto": "Low",
+        "pronostico": "-0.3%",
+        "anterior": "1.1%",
+        "actual": "-0.9%"
+    },
+    {
+        "titulo": "French Prelim Private Payrolls q/q",
+        "activo": "EUR",
+        "fecha": "2023-08-04 01:45:00",
+        "impacto": "Low",
+        "pronostico": "0.2%",
+        "anterior": "0.4%",
+        "actual": "0.1%"
+    },
+    {
+        "titulo": "Italian Industrial Production m/m",
+        "activo": "EUR",
+        "fecha": "2023-08-04 03:00:00",
+        "impacto": "Low",
+        "pronostico": "-0.3%",
+        "anterior": "1.7%",
+        "actual": "0.5%"
+    },
+    {
+        "titulo": "Construction PMI",
+        "activo": "GBP",
+        "fecha": "2023-08-04 03:30:00",
+        "impacto": "Low",
+        "pronostico": "48.1",
+        "anterior": "48.9",
+        "actual": "51.7"
+    },
+    {
+        "titulo": "Retail Sales m/m",
+        "activo": "EUR",
+        "fecha": "2023-08-04 04:00:00",
+        "impacto": "Low",
+        "pronostico": "0.3%",
+        "anterior": "0.6%",
+        "actual": "-0.3%"
+    },
+    {
+        "titulo": "MPC Member Pill Speaks",
+        "activo": "GBP",
+        "fecha": "2023-08-04 06:15:00",
+        "impacto": "Low",
+        "pronostico": "",
+        "anterior": "",
+        "actual": ""
+    },
+    {
+        "titulo": "Employment Change",
+        "activo": "CAD",
+        "fecha": "2023-08-04 07:30:00",
+        "impacto": "High",
+        "pronostico": "24.6K",
+        "anterior": "59.9K",
+        "actual": "-6.4K"
+    },
+    {
+        "titulo": "Unemployment Rate",
+        "activo": "CAD",
+        "fecha": "2023-08-04 07:30:00",
+        "impacto": "High",
+        "pronostico": "5.5%",
+        "anterior": "5.4%",
+        "actual": "5.5%"
+    },
+    {
+        "titulo": "Average Hourly Earnings m/m",
+        "activo": "USD",
+        "fecha": "2023-08-04 07:30:00",
+        "impacto": "High",
+        "pronostico": "0.3%",
+        "anterior": "0.4%",
+        "actual": "0.4%"
+    },
+    {
+        "titulo": "Non-Farm Employment Change",
+        "activo": "USD",
+        "fecha": "2023-08-04 07:30:00",
+        "impacto": "High",
+        "pronostico": "205K",
+        "anterior": "185K",
+        "actual": "187K"
+    },
+    {
+        "titulo": "Unemployment Rate",
+        "activo": "USD",
+        "fecha": "2023-08-04 07:30:00",
+        "impacto": "High",
+        "pronostico": "3.6%",
+        "anterior": "3.6%",
+        "actual": "3.5%"
+    },
+    {
+        "titulo": "Ivey PMI",
+        "activo": "CAD",
+        "fecha": "2023-08-04 09:00:00",
+        "impacto": "Medium",
+        "pronostico": "49.1",
+        "anterior": "50.2",
+        "actual": "48.6"
+    },
+    {
+        "titulo": "Bank Holiday",
+        "activo": "AUD",
+        "fecha": "2023-08-06 00:00:00",
+        "impacto": "Non",
+        "pronostico": "",
+        "anterior": "",
+        "actual": ""
+    },
+    {
+        "titulo": "BOJ Summary of Opinions",
+        "activo": "JPY",
+        "fecha": "2023-08-06 18:50:00",
+        "impacto": "Low",
+        "pronostico": "",
+        "anterior": "",
+        "actual": ""
+    },
+    {
+        "titulo": "ANZ Job Advertisements m/m",
+        "activo": "AUD",
+        "fecha": "2023-08-06 20:30:00",
+        "impacto": "Low",
+        "pronostico": "",
+        "anterior": "-2.7%",
+        "actual": "0.4%"
+    },
+    {
+        "titulo": "Leading Indicators",
+        "activo": "JPY",
+        "fecha": "2023-08-07 00:00:00",
+        "impacto": "Low",
+        "pronostico": "108.9%",
+        "anterior": "109.2%",
+        "actual": "108.9%"
+    },
+    {
+        "titulo": "Unemployment Rate",
+        "activo": "CHF",
+        "fecha": "2023-08-07 00:45:00",
+        "impacto": "Low",
+        "pronostico": "2.0%",
+        "anterior": "2.0%",
+        "actual": "2.1%"
+    },
+    {
+        "titulo": "German Industrial Production m/m",
+        "activo": "EUR",
+        "fecha": "2023-08-07 01:00:00",
+        "impacto": "Low",
+        "pronostico": "-0.4%",
+        "anterior": "-0.1%",
+        "actual": "-1.5%"
+    },
+    {
+        "titulo": "Halifax HPI m/m",
+        "activo": "GBP",
+        "fecha": "2023-08-07 01:00:00",
+        "impacto": "Low",
+        "pronostico": "0.0%",
+        "anterior": "-0.1%",
+        "actual": "-0.3%"
+    },
+    {
+        "titulo": "Foreign Currency Reserves",
+        "activo": "CHF",
+        "fecha": "2023-08-07 02:00:00",
+        "impacto": "Medium",
+        "pronostico": "",
+        "anterior": "725B",
+        "actual": "698B"
+    },
+    {
+        "titulo": "Sentix Investor Confidence",
+        "activo": "EUR",
+        "fecha": "2023-08-07 03:30:00",
+        "impacto": "Low",
+        "pronostico": "-24.3",
+        "anterior": "-22.5",
+        "actual": "-18.9"
+    },
+    {
+        "titulo": "Bank Holiday",
+        "activo": "CAD",
+        "fecha": "2023-08-07 00:00:00",
+        "impacto": "Non",
+        "pronostico": "",
+        "anterior": "",
+        "actual": ""
+    },
+    {
+        "titulo": "FOMC Member Bowman Speaks",
+        "activo": "USD",
+        "fecha": "2023-08-07 07:30:00",
+        "impacto": "Low",
+        "pronostico": "",
+        "anterior": "",
+        "actual": ""
+    },
+    {
+        "titulo": "MPC Member Pill Speaks",
+        "activo": "GBP",
+        "fecha": "2023-08-07 11:00:00",
+        "impacto": "Low",
+        "pronostico": "",
+        "anterior": "",
+        "actual": ""
+    },
+    {
+        "titulo": "Consumer Credit m/m",
+        "activo": "USD",
+        "fecha": "2023-08-07 14:00:00",
+        "impacto": "Low",
+        "pronostico": "13.8B",
+        "anterior": "9.5B",
+        "actual": "17.8B"
+    },
+    {
+        "titulo": "BRC Retail Sales Monitor y/y",
+        "activo": "GBP",
+        "fecha": "2023-08-07 18:01:00",
+        "impacto": "Low",
+        "pronostico": "3.0%",
+        "anterior": "4.2%",
+        "actual": "1.8%"
+    },
+    {
+        "titulo": "Average Cash Earnings y/y",
+        "activo": "JPY",
+        "fecha": "2023-08-07 18:30:00",
+        "impacto": "Low",
+        "pronostico": "3.0%",
+        "anterior": "2.9%",
+        "actual": "2.3%"
+    },
+    {
+        "titulo": "Household Spending y/y",
+        "activo": "JPY",
+        "fecha": "2023-08-07 18:30:00",
+        "impacto": "Low",
+        "pronostico": "-3.9%",
+        "anterior": "-4.0%",
+        "actual": "-4.2%"
+    },
+    {
+        "titulo": "Bank Lending y/y",
+        "activo": "JPY",
+        "fecha": "2023-08-07 18:50:00",
+        "impacto": "Low",
+        "pronostico": "3.0%",
+        "anterior": "3.1%",
+        "actual": "2.9%"
+    },
+    {
+        "titulo": "Current Account",
+        "activo": "JPY",
+        "fecha": "2023-08-07 18:50:00",
+        "impacto": "Low",
+        "pronostico": "2.24T",
+        "anterior": "1.70T",
+        "actual": "2.35T"
+    },
+    {
+        "titulo": "Westpac Consumer Sentiment",
+        "activo": "AUD",
+        "fecha": "2023-08-07 19:30:00",
+        "impacto": "Low",
+        "pronostico": "",
+        "anterior": "2.7%",
+        "actual": "-0.4%"
+    },
+    {
+        "titulo": "NAB Business Confidence",
+        "activo": "AUD",
+        "fecha": "2023-08-07 20:30:00",
+        "impacto": "Medium",
+        "pronostico": "",
+        "anterior": "-1",
+        "actual": "2"
+    },
+    {
+        "titulo": "Trade Balance",
+        "activo": "CNY",
+        "fecha": "2023-08-07 22:08:00",
+        "impacto": "Low",
+        "pronostico": "495B",
+        "anterior": "491B",
+        "actual": "576B"
+    },
+    {
+        "titulo": "USD-Denominated Trade Balance",
+        "activo": "CNY",
+        "fecha": "2023-08-07 22:09:00",
+        "impacto": "Low",
+        "pronostico": "70.8B",
+        "anterior": "70.6B",
+        "actual": "80.6B"
+    },
+    {
+        "titulo": "30-y Bond Auction",
+        "activo": "JPY",
+        "fecha": "2023-08-07 22:35:00",
+        "impacto": "Low",
+        "pronostico": "",
+        "anterior": "1.22|3.0",
+        "actual": "1.59|3.5"
+    },
+    {
+        "titulo": "Economy Watchers Sentiment",
+        "activo": "JPY",
+        "fecha": "2023-08-08 00:00:00",
+        "impacto": "Low",
+        "pronostico": "54.0",
+        "anterior": "53.6",
+        "actual": "54.4"
+    },
+    {
+        "titulo": "German Final CPI m/m",
+        "activo": "EUR",
+        "fecha": "2023-08-08 01:00:00",
+        "impacto": "Low",
+        "pronostico": "0.3%",
+        "anterior": "0.3%",
+        "actual": "0.3%"
+    },
+    {
+        "titulo": "French Trade Balance",
+        "activo": "EUR",
+        "fecha": "2023-08-08 01:45:00",
+        "impacto": "Low",
+        "pronostico": "-8.0B",
+        "anterior": "-7.9B",
+        "actual": "-6.7B"
+    },
+    {
+        "titulo": "NFIB Small Business Index",
+        "activo": "USD",
+        "fecha": "2023-08-08 05:00:00",
+        "impacto": "Low",
+        "pronostico": "91.2",
+        "anterior": "91.0",
+        "actual": "91.9"
+    },
+    {
+        "titulo": "FOMC Member Harker Speaks",
+        "activo": "USD",
+        "fecha": "2023-08-08 07:15:00",
+        "impacto": "Medium",
+        "pronostico": "",
+        "anterior": "",
+        "actual": ""
+    },
+    {
+        "titulo": "Trade Balance",
+        "activo": "CAD",
+        "fecha": "2023-08-08 07:30:00",
+        "impacto": "Low",
+        "pronostico": "-2.8B",
+        "anterior": "-2.7B",
+        "actual": "-3.7B"
+    },
+    {
+        "titulo": "Trade Balance",
+        "activo": "USD",
+        "fecha": "2023-08-08 07:30:00",
+        "impacto": "Low",
+        "pronostico": "-65.1B",
+        "anterior": "-68.3B",
+        "actual": "-65.5B"
+    },
+    {
+        "titulo": "Final Wholesale Inventories m/m",
+        "activo": "USD",
+        "fecha": "2023-08-08 09:00:00",
+        "impacto": "Low",
+        "pronostico": "-0.3%",
+        "anterior": "-0.3%",
+        "actual": "-0.5%"
+    },
+    {
+        "titulo": "RCM/TIPP Economic Optimism",
+        "activo": "USD",
+        "fecha": "2023-08-08 09:00:00",
+        "impacto": "Low",
+        "pronostico": "43.0",
+        "anterior": "41.3",
+        "actual": "40.3"
+    },
+    {
+        "titulo": "M2 Money Stock y/y",
+        "activo": "JPY",
+        "fecha": "2023-08-08 18:50:00",
+        "impacto": "Low",
+        "pronostico": "2.6%",
+        "anterior": "2.6%",
+        "actual": "2.4%"
+    },
+    {
+        "titulo": "CPI y/y",
+        "activo": "CNY",
+        "fecha": "2023-08-08 20:30:00",
+        "impacto": "High",
+        "pronostico": "-0.4%",
+        "anterior": "0.0%",
+        "actual": "-0.3%"
+    },
+    {
+        "titulo": "PPI y/y",
+        "activo": "CNY",
+        "fecha": "2023-08-08 20:30:00",
+        "impacto": "Medium",
+        "pronostico": "-4.0%",
+        "anterior": "-5.4%",
+        "actual": "-4.4%"
+    },
+    {
+        "titulo": "Inflation Expectations q/q",
+        "activo": "NZD",
+        "fecha": "2023-08-08 22:00:00",
+        "impacto": "High",
+        "pronostico": "",
+        "anterior": "2.79%",
+        "actual": "2.83%"
+    },
+    {
+        "titulo": "Prelim Machine Tool Orders y/y",
+        "activo": "JPY",
+        "fecha": "2023-08-09 00:58:00",
+        "impacto": "Low",
+        "pronostico": "",
+        "anterior": "-21.1%",
+        "actual": "-19.8%"
+    },
+    {
+        "titulo": "10-y Bond Auction",
+        "activo": "GBP",
+        "fecha": "2023-08-09 04:02:00",
+        "impacto": "Low",
+        "pronostico": "",
+        "anterior": "4.60|2.7",
+        "actual": "4.35|2.6"
+    },
+    {
+        "titulo": "German 10-y Bond Auction",
+        "activo": "EUR",
+        "fecha": "2023-08-09 04:34:00",
+        "impacto": "Low",
+        "pronostico": "",
+        "anterior": "2.64|1.9",
+        "actual": "2.46|1.6"
+    },
+    {
+        "titulo": "Building Permits m/m",
+        "activo": "CAD",
+        "fecha": "2023-08-09 07:30:00",
+        "impacto": "Low",
+        "pronostico": "-2.1%",
+        "anterior": "12.6%",
+        "actual": "6.1%"
+    },
+    {
+        "titulo": "Crude Oil Inventories",
+        "activo": "USD",
+        "fecha": "2023-08-09 09:30:00",
+        "impacto": "Low",
+        "pronostico": "2.1M",
+        "anterior": "-17.0M",
+        "actual": "5.9M"
+    },
+    {
+        "titulo": "10-y Bond Auction",
+        "activo": "USD",
+        "fecha": "2023-08-09 12:01:00",
+        "impacto": "Medium",
+        "pronostico": "",
+        "anterior": "3.86|2.5",
+        "actual": "4.00|2.6"
+    },
+    {
+        "titulo": "RICS House Price Balance",
+        "activo": "GBP",
+        "fecha": "2023-08-09 18:01:00",
+        "impacto": "Low",
+        "pronostico": "-50%",
+        "anterior": "-48%",
+        "actual": "-53%"
+    },
+    {
+        "titulo": "PPI y/y",
+        "activo": "JPY",
+        "fecha": "2023-08-09 18:50:00",
+        "impacto": "Low",
+        "pronostico": "3.5%",
+        "anterior": "4.3%",
+        "actual": "3.6%"
+    },
+    {
+        "titulo": "MI Inflation Expectations",
+        "activo": "AUD",
+        "fecha": "2023-08-09 20:00:00",
+        "impacto": "Low",
+        "pronostico": "",
+        "anterior": "5.2%",
+        "actual": "4.9%"
+    },
+    {
+        "titulo": "ECB Economic Bulletin",
+        "activo": "EUR",
+        "fecha": "2023-08-10 03:00:00",
+        "impacto": "Low",
+        "pronostico": "",
+        "anterior": "",
+        "actual": ""
+    },
+    {
+        "titulo": "Core CPI m/m",
+        "activo": "USD",
+        "fecha": "2023-08-10 07:30:00",
+        "impacto": "High",
+        "pronostico": "0.2%",
+        "anterior": "0.2%",
+        "actual": "0.2%"
+    },
+    {
+        "titulo": "CPI m/m",
+        "activo": "USD",
+        "fecha": "2023-08-10 07:30:00",
+        "impacto": "High",
+        "pronostico": "0.2%",
+        "anterior": "0.2%",
+        "actual": "0.2%"
+    },
+    {
+        "titulo": "CPI y/y",
+        "activo": "USD",
+        "fecha": "2023-08-10 07:30:00",
+        "impacto": "High",
+        "pronostico": "3.3%",
+        "anterior": "3.0%",
+        "actual": "3.2%"
+    },
+    {
+        "titulo": "Unemployment Claims",
+        "activo": "USD",
+        "fecha": "2023-08-10 07:30:00",
+        "impacto": "High",
+        "pronostico": "231K",
+        "anterior": "227K",
+        "actual": "248K"
+    },
+    {
+        "titulo": "Mortgage Delinquencies",
+        "activo": "USD",
+        "fecha": "2023-08-10 09:00:00",
+        "impacto": "Low",
+        "pronostico": "",
+        "anterior": "3.56%",
+        "actual": "3.37%"
+    },
+    {
+        "titulo": "Natural Gas Storage",
+        "activo": "USD",
+        "fecha": "2023-08-10 09:30:00",
+        "impacto": "Low",
+        "pronostico": "24B",
+        "anterior": "14B",
+        "actual": "29B"
+    },
+    {
+        "titulo": "30-y Bond Auction",
+        "activo": "USD",
+        "fecha": "2023-08-10 12:01:00",
+        "impacto": "Low",
+        "pronostico": "",
+        "anterior": "3.91|2.4",
+        "actual": "4.19|2.4"
+    },
+    {
+        "titulo": "Federal Budget Balance",
+        "activo": "USD",
+        "fecha": "2023-08-10 13:00:00",
+        "impacto": "Low",
+        "pronostico": "-107.5B",
+        "anterior": "-227.8B",
+        "actual": "-220.8B"
+    },
+    {
+        "titulo": "FOMC Member Harker Speaks",
+        "activo": "USD",
+        "fecha": "2023-08-10 15:15:00",
+        "impacto": "Medium",
+        "pronostico": "",
+        "anterior": "",
+        "actual": ""
+    },
+    {
+        "titulo": "BusinessNZ Manufacturing Index",
+        "activo": "NZD",
+        "fecha": "2023-08-10 17:30:00",
+        "impacto": "Low",
+        "pronostico": "",
+        "anterior": "47.4",
+        "actual": "46.3"
+    },
+    {
+        "titulo": "FPI m/m",
+        "activo": "NZD",
+        "fecha": "2023-08-10 17:45:00",
+        "impacto": "Low",
+        "pronostico": "",
+        "anterior": "1.6%",
+        "actual": "-0.5%"
+    },
+    {
+        "titulo": "RBA Gov Lowe Speaks",
+        "activo": "AUD",
+        "fecha": "2023-08-10 18:30:00",
+        "impacto": "High",
+        "pronostico": "",
+        "anterior": "",
+        "actual": ""
+    },
+    {
+        "titulo": "Bank Holiday",
+        "activo": "JPY",
+        "fecha": "2023-08-10 00:00:00",
+        "impacto": "Non",
+        "pronostico": "",
+        "anterior": "",
+        "actual": ""
+    },
+    {
+        "titulo": "GDP m/m",
+        "activo": "GBP",
+        "fecha": "2023-08-11 01:00:00",
+        "impacto": "High",
+        "pronostico": "0.2%",
+        "anterior": "-0.1%",
+        "actual": "0.5%"
+    },
+    {
+        "titulo": "Prelim GDP q/q",
+        "activo": "GBP",
+        "fecha": "2023-08-11 01:00:00",
+        "impacto": "Medium",
+        "pronostico": "0.0%",
+        "anterior": "0.1%",
+        "actual": "0.2%"
+    },
+    {
+        "titulo": "Construction Output m/m",
+        "activo": "GBP",
+        "fecha": "2023-08-11 01:00:00",
+        "impacto": "Low",
+        "pronostico": "0.0%",
+        "anterior": "-0.3%",
+        "actual": "1.6%"
+    },
+    {
+        "titulo": "Goods Trade Balance",
+        "activo": "GBP",
+        "fecha": "2023-08-11 01:00:00",
+        "impacto": "Low",
+        "pronostico": "-16.6B",
+        "anterior": "-18.4B",
+        "actual": "-15.5B"
+    },
+    {
+        "titulo": "Index of Services 3m/3m",
+        "activo": "GBP",
+        "fecha": "2023-08-11 01:00:00",
+        "impacto": "Low",
+        "pronostico": "0.0%",
+        "anterior": "0.0%",
+        "actual": "0.1%"
+    },
+    {
+        "titulo": "Industrial Production m/m",
+        "activo": "GBP",
+        "fecha": "2023-08-11 01:00:00",
+        "impacto": "Low",
+        "pronostico": "0.2%",
+        "anterior": "-0.6%",
+        "actual": "1.8%"
+    },
+    {
+        "titulo": "Manufacturing Production m/m",
+        "activo": "GBP",
+        "fecha": "2023-08-11 01:00:00",
+        "impacto": "Low",
+        "pronostico": "0.2%",
+        "anterior": "-0.1%",
+        "actual": "2.4%"
+    },
+    {
+        "titulo": "Prelim Business Investment q/q",
+        "activo": "GBP",
+        "fecha": "2023-08-11 01:00:00",
+        "impacto": "Low",
+        "pronostico": "-1.0%",
+        "anterior": "3.3%",
+        "actual": "3.4%"
+    },
+    {
+        "titulo": "French Final CPI m/m",
+        "activo": "EUR",
+        "fecha": "2023-08-11 01:45:00",
+        "impacto": "Low",
+        "pronostico": "0.0%",
+        "anterior": "0.0%",
+        "actual": "0.1%"
+    },
+    {
+        "titulo": "Italian Trade Balance",
+        "activo": "EUR",
+        "fecha": "2023-08-11 03:00:00",
+        "impacto": "Low",
+        "pronostico": "4.23B",
+        "anterior": "4.77B",
+        "actual": "7.72B"
+    },
+    {
+        "titulo": "New Loans",
+        "activo": "CNY",
+        "fecha": "2023-08-11 03:33:00",
+        "impacto": "Medium",
+        "pronostico": "790B",
+        "anterior": "3050B",
+        "actual": "346B"
+    },
+    {
+        "titulo": "M2 Money Supply y/y",
+        "activo": "CNY",
+        "fecha": "2023-08-11 03:33:00",
+        "impacto": "Low",
+        "pronostico": "11.0%",
+        "anterior": "11.3%",
+        "actual": "10.7%"
+    },
+    {
+        "titulo": "NIESR GDP Estimate",
+        "activo": "GBP",
+        "fecha": "2023-08-11 07:01:00",
+        "impacto": "Low",
+        "pronostico": "",
+        "anterior": "0.2%",
+        "actual": "0.3%"
+    },
+    {
+        "titulo": "Core PPI m/m",
+        "activo": "USD",
+        "fecha": "2023-08-11 07:30:00",
+        "impacto": "High",
+        "pronostico": "0.2%",
+        "anterior": "-0.1%",
+        "actual": "0.3%"
+    },
+    {
+        "titulo": "PPI m/m",
+        "activo": "USD",
+        "fecha": "2023-08-11 07:30:00",
+        "impacto": "High",
+        "pronostico": "0.2%",
+        "anterior": "0.0%",
+        "actual": "0.3%"
+    },
+    {
+        "titulo": "Prelim UoM Consumer Sentiment",
+        "activo": "USD",
+        "fecha": "2023-08-11 09:00:00",
+        "impacto": "High",
+        "pronostico": "71.4",
+        "anterior": "71.6",
+        "actual": "71.2"
+    },
+    {
+        "titulo": "Prelim UoM Inflation Expectations",
+        "activo": "USD",
+        "fecha": "2023-08-11 09:00:00",
+        "impacto": "Medium",
+        "pronostico": "",
+        "anterior": "3.4%",
+        "actual": "3.3%"
+    },
+    {
+        "titulo": "BusinessNZ Services Index",
+        "activo": "NZD",
+        "fecha": "2023-08-13 17:30:00",
+        "impacto": "Low",
+        "pronostico": "",
+        "anterior": "49.6",
+        "actual": "47.8"
+    },
+    {
+        "titulo": "Visitor Arrivals m/m",
+        "activo": "NZD",
+        "fecha": "2023-08-13 17:45:00",
+        "impacto": "Low",
+        "pronostico": "",
+        "anterior": "-27.5%",
+        "actual": "11.3%"
+    },
+    {
+        "titulo": "German WPI m/m",
+        "activo": "EUR",
+        "fecha": "2023-08-14 01:00:00",
+        "impacto": "Low",
+        "pronostico": "-0.1%",
+        "anterior": "-0.2%",
+        "actual": "-0.2%"
+    },
+    {
+        "titulo": "Cleveland Fed Inflation Expectations",
+        "activo": "USD",
+        "fecha": "2023-08-14 08:45:00",
+        "impacto": "Low",
+        "pronostico": "",
+        "anterior": "5.0%",
+        "actual": "4.3%"
+    },
+    {
+        "titulo": "Prelim GDP Price Index y/y",
+        "activo": "JPY",
+        "fecha": "2023-08-14 18:50:00",
+        "impacto": "Low",
+        "pronostico": "3.8%",
+        "anterior": "2.0%",
+        "actual": "3.4%"
+    },
+    {
+        "titulo": "Prelim GDP q/q",
+        "activo": "JPY",
+        "fecha": "2023-08-14 18:50:00",
+        "impacto": "Low",
+        "pronostico": "0.8%",
+        "anterior": "0.7%",
+        "actual": "1.5%"
+    },
+    {
+        "titulo": "Monetary Policy Meeting Minutes",
+        "activo": "AUD",
+        "fecha": "2023-08-14 20:30:00",
+        "impacto": "High",
+        "pronostico": "",
+        "anterior": "",
+        "actual": ""
+    },
+    {
+        "titulo": "Wage Price Index q/q",
+        "activo": "AUD",
+        "fecha": "2023-08-14 20:30:00",
+        "impacto": "High",
+        "pronostico": "0.9%",
+        "anterior": "0.8%",
+        "actual": "0.8%"
+    },
+    {
+        "titulo": "Industrial Production y/y",
+        "activo": "CNY",
+        "fecha": "2023-08-14 21:00:00",
+        "impacto": "High",
+        "pronostico": "4.3%",
+        "anterior": "4.4%",
+        "actual": "3.7%"
+    },
+    {
+        "titulo": "Retail Sales y/y",
+        "activo": "CNY",
+        "fecha": "2023-08-14 21:00:00",
+        "impacto": "Medium",
+        "pronostico": "4.2%",
+        "anterior": "3.1%",
+        "actual": "2.5%"
+    },
+    {
+        "titulo": "Fixed Asset Investment ytd/y",
+        "activo": "CNY",
+        "fecha": "2023-08-14 21:00:00",
+        "impacto": "Low",
+        "pronostico": "3.8%",
+        "anterior": "3.8%",
+        "actual": "3.4%"
+    },
+    {
+        "titulo": "NBS Press Conference",
+        "activo": "CNY",
+        "fecha": "2023-08-14 21:00:00",
+        "impacto": "Low",
+        "pronostico": "",
+        "anterior": "",
+        "actual": ""
+    },
+    {
+        "titulo": "Unemployment Rate",
+        "activo": "CNY",
+        "fecha": "2023-08-14 21:00:00",
+        "impacto": "Low",
+        "pronostico": "5.2%",
+        "anterior": "5.2%",
+        "actual": "5.3%"
+    },
+    {
+        "titulo": "Revised Industrial Production m/m",
+        "activo": "JPY",
+        "fecha": "2023-08-14 23:30:00",
+        "impacto": "Low",
+        "pronostico": "2.0%",
+        "anterior": "2.0%",
+        "actual": "2.4%"
+    },
+    {
+        "titulo": "Claimant Count Change",
+        "activo": "GBP",
+        "fecha": "2023-08-15 01:00:00",
+        "impacto": "High",
+        "pronostico": "19.6K",
+        "anterior": "16.2K",
+        "actual": "29.0K"
+    },
+    {
+        "titulo": "Average Earnings Index 3m/y",
+        "activo": "GBP",
+        "fecha": "2023-08-15 01:00:00",
+        "impacto": "Medium",
+        "pronostico": "7.3%",
+        "anterior": "7.2%",
+        "actual": "8.2%"
+    },
+    {
+        "titulo": "Unemployment Rate",
+        "activo": "GBP",
+        "fecha": "2023-08-15 01:00:00",
+        "impacto": "Low",
+        "pronostico": "4.0%",
+        "anterior": "4.0%",
+        "actual": "4.2%"
+    },
+    {
+        "titulo": "PPI m/m",
+        "activo": "CHF",
+        "fecha": "2023-08-15 01:30:00",
+        "impacto": "Low",
+        "pronostico": "0.2%",
+        "anterior": "0.0%",
+        "actual": "-0.1%"
+    },
+    {
+        "titulo": "French Bank Holiday",
+        "activo": "EUR",
+        "fecha": "2023-08-15 00:00:00",
+        "impacto": "Non",
+        "pronostico": "",
+        "anterior": "",
+        "actual": ""
+    },
+    {
+        "titulo": "Italian Bank Holiday",
+        "activo": "EUR",
+        "fecha": "2023-08-15 00:00:00",
+        "impacto": "Non",
+        "pronostico": "",
+        "anterior": "",
+        "actual": ""
+    },
+    {
+        "titulo": "German ZEW Economic Sentiment",
+        "activo": "EUR",
+        "fecha": "2023-08-15 04:00:00",
+        "impacto": "Medium",
+        "pronostico": "-15.0",
+        "anterior": "-14.7",
+        "actual": "-12.3"
+    },
+    {
+        "titulo": "ZEW Economic Sentiment",
+        "activo": "EUR",
+        "fecha": "2023-08-15 04:00:00",
+        "impacto": "Low",
+        "pronostico": "-12.0",
+        "anterior": "-12.2",
+        "actual": "-5.5"
+    },
+    {
+        "titulo": "CPI m/m",
+        "activo": "CAD",
+        "fecha": "2023-08-15 07:30:00",
+        "impacto": "High",
+        "pronostico": "0.3%",
+        "anterior": "0.1%",
+        "actual": "0.6%"
+    },
+    {
+        "titulo": "Median CPI y/y",
+        "activo": "CAD",
+        "fecha": "2023-08-15 07:30:00",
+        "impacto": "High",
+        "pronostico": "3.7%",
+        "anterior": "3.7%",
+        "actual": "3.7%"
+    },
+    {
+        "titulo": "Trimmed CPI y/y",
+        "activo": "CAD",
+        "fecha": "2023-08-15 07:30:00",
+        "impacto": "High",
+        "pronostico": "3.6%",
+        "anterior": "3.7%",
+        "actual": "3.6%"
+    },
+    {
+        "titulo": "Common CPI y/y",
+        "activo": "CAD",
+        "fecha": "2023-08-15 07:30:00",
+        "impacto": "Medium",
+        "pronostico": "5.0%",
+        "anterior": "5.1%",
+        "actual": "4.8%"
+    },
+    {
+        "titulo": "Manufacturing Sales m/m",
+        "activo": "CAD",
+        "fecha": "2023-08-15 07:30:00",
+        "impacto": "Low",
+        "pronostico": "-2.1%",
+        "anterior": "1.2%",
+        "actual": "-1.7%"
+    },
+    {
+        "titulo": "Core Retail Sales m/m",
+        "activo": "USD",
+        "fecha": "2023-08-15 07:30:00",
+        "impacto": "High",
+        "pronostico": "0.4%",
+        "anterior": "0.2%",
+        "actual": "1.0%"
+    },
+    {
+        "titulo": "Empire State Manufacturing Index",
+        "activo": "USD",
+        "fecha": "2023-08-15 07:30:00",
+        "impacto": "High",
+        "pronostico": "-0.9",
+        "anterior": "1.1",
+        "actual": "-19.0"
+    },
+    {
+        "titulo": "Retail Sales m/m",
+        "activo": "USD",
+        "fecha": "2023-08-15 07:30:00",
+        "impacto": "High",
+        "pronostico": "0.4%",
+        "anterior": "0.3%",
+        "actual": "0.7%"
+    },
+    {
+        "titulo": "Import Prices m/m",
+        "activo": "USD",
+        "fecha": "2023-08-15 07:30:00",
+        "impacto": "Low",
+        "pronostico": "0.2%",
+        "anterior": "-0.1%",
+        "actual": "0.4%"
+    },
+    {
+        "titulo": "Core CPI m/m",
+        "activo": "CAD",
+        "fecha": "2023-08-15 07:32:00",
+        "impacto": "Low",
+        "pronostico": "",
+        "anterior": "-0.1%",
+        "actual": "0.5%"
+    },
+    {
+        "titulo": "CB Leading Index m/m",
+        "activo": "GBP",
+        "fecha": "2023-08-15 08:30:00",
+        "impacto": "Low",
+        "pronostico": "",
+        "anterior": "-0.8%",
+        "actual": "-0.8%"
+    },
+    {
+        "titulo": "Business Inventories m/m",
+        "activo": "USD",
+        "fecha": "2023-08-15 09:00:00",
+        "impacto": "Low",
+        "pronostico": "0.2%",
+        "anterior": "0.0%",
+        "actual": "0.0%"
+    },
+    {
+        "titulo": "NAHB Housing Market Index",
+        "activo": "USD",
+        "fecha": "2023-08-15 09:00:00",
+        "impacto": "Low",
+        "pronostico": "56",
+        "anterior": "56",
+        "actual": "50"
+    },
+    {
+        "titulo": "GDT Price Index",
+        "activo": "NZD",
+        "fecha": "2023-08-15 09:45:00",
+        "impacto": "Low",
+        "pronostico": "",
+        "anterior": "-4.3%",
+        "actual": "-7.4%"
+    },
+    {
+        "titulo": "FOMC Member Kashkari Speaks",
+        "activo": "USD",
+        "fecha": "2023-08-15 10:00:00",
+        "impacto": "Low",
+        "pronostico": "",
+        "anterior": "",
+        "actual": ""
+    },
+    {
+        "titulo": "TIC Long-Term Purchases",
+        "activo": "USD",
+        "fecha": "2023-08-15 15:00:00",
+        "impacto": "Low",
+        "pronostico": "50.0B",
+        "anterior": "23.6B",
+        "actual": "195.9B"
+    },
+    {
+        "titulo": "MI Leading Index m/m",
+        "activo": "AUD",
+        "fecha": "2023-08-15 19:30:00",
+        "impacto": "Low",
+        "pronostico": "",
+        "anterior": "0.1%",
+        "actual": "0.0%"
+    },
+    {
+        "titulo": "New Home Prices m/m",
+        "activo": "CNY",
+        "fecha": "2023-08-15 20:30:00",
+        "impacto": "Low",
+        "pronostico": "",
+        "anterior": "-0.06%",
+        "actual": "-0.23%"
+    },
+    {
+        "titulo": "Official Cash Rate",
+        "activo": "NZD",
+        "fecha": "2023-08-15 21:00:00",
+        "impacto": "High",
+        "pronostico": "5.50%",
+        "anterior": "5.50%",
+        "actual": "5.50%"
+    },
+    {
+        "titulo": "RBNZ Monetary Policy Statement",
+        "activo": "NZD",
+        "fecha": "2023-08-15 21:00:00",
+        "impacto": "High",
+        "pronostico": "",
+        "anterior": "",
+        "actual": ""
+    },
+    {
+        "titulo": "RBNZ Rate Statement",
+        "activo": "NZD",
+        "fecha": "2023-08-15 21:00:00",
+        "impacto": "High",
+        "pronostico": "",
+        "anterior": "",
+        "actual": ""
+    },
+    {
+        "titulo": "RBNZ Press Conference",
+        "activo": "NZD",
+        "fecha": "2023-08-15 22:00:00",
+        "impacto": "High",
+        "pronostico": "",
+        "anterior": "",
+        "actual": ""
+    },
+    {
+        "titulo": "CPI y/y",
+        "activo": "GBP",
+        "fecha": "2023-08-16 01:00:00",
+        "impacto": "High",
+        "pronostico": "6.7%",
+        "anterior": "7.9%",
+        "actual": "6.8%"
+    },
+    {
+        "titulo": "Core CPI y/y",
+        "activo": "GBP",
+        "fecha": "2023-08-16 01:00:00",
+        "impacto": "Low",
+        "pronostico": "6.8%",
+        "anterior": "6.9%",
+        "actual": "6.9%"
+    },
+    {
+        "titulo": "PPI Input m/m",
+        "activo": "GBP",
+        "fecha": "2023-08-16 01:00:00",
+        "impacto": "Low",
+        "pronostico": "-0.1%",
+        "anterior": "-1.3%",
+        "actual": "-0.4%"
+    },
+    {
+        "titulo": "PPI Output m/m",
+        "activo": "GBP",
+        "fecha": "2023-08-16 01:00:00",
+        "impacto": "Low",
+        "pronostico": "-0.2%",
+        "anterior": "-0.2%",
+        "actual": "0.1%"
+    },
+    {
+        "titulo": "RPI y/y",
+        "activo": "GBP",
+        "fecha": "2023-08-16 01:00:00",
+        "impacto": "Low",
+        "pronostico": "9.1%",
+        "anterior": "10.7%",
+        "actual": "9.0%"
+    },
+    {
+        "titulo": "HPI y/y",
+        "activo": "GBP",
+        "fecha": "2023-08-16 03:30:00",
+        "impacto": "Low",
+        "pronostico": "1.8%",
+        "anterior": "1.8%",
+        "actual": "1.7%"
+    },
+    {
+        "titulo": "Flash Employment Change q/q",
+        "activo": "EUR",
+        "fecha": "2023-08-16 04:00:00",
+        "impacto": "Low",
+        "pronostico": "0.4%",
+        "anterior": "0.5%",
+        "actual": "0.2%"
+    },
+    {
+        "titulo": "Flash GDP q/q",
+        "activo": "EUR",
+        "fecha": "2023-08-16 04:00:00",
+        "impacto": "Low",
+        "pronostico": "0.3%",
+        "anterior": "0.3%",
+        "actual": "0.3%"
+    },
+    {
+        "titulo": "Industrial Production m/m",
+        "activo": "EUR",
+        "fecha": "2023-08-16 04:00:00",
+        "impacto": "Low",
+        "pronostico": "-0.1%",
+        "anterior": "0.0%",
+        "actual": "0.5%"
+    },
+    {
+        "titulo": "German 30-y Bond Auction",
+        "activo": "EUR",
+        "fecha": "2023-08-16 04:36:00",
+        "impacto": "Low",
+        "pronostico": "",
+        "anterior": "2.40|2.0",
+        "actual": "2.68|2.2"
+    },
+    {
+        "titulo": "Housing Starts",
+        "activo": "CAD",
+        "fecha": "2023-08-16 07:15:00",
+        "impacto": "Low",
+        "pronostico": "245K",
+        "anterior": "283K",
+        "actual": "255K"
+    },
+    {
+        "titulo": "Wholesale Sales m/m",
+        "activo": "CAD",
+        "fecha": "2023-08-16 07:30:00",
+        "impacto": "Low",
+        "pronostico": "-4.2%",
+        "anterior": "2.9%",
+        "actual": "-2.8%"
+    },
+    {
+        "titulo": "Building Permits",
+        "activo": "USD",
+        "fecha": "2023-08-16 07:30:00",
+        "impacto": "Medium",
+        "pronostico": "1.47M",
+        "anterior": "1.44M",
+        "actual": "1.44M"
+    },
+    {
+        "titulo": "Housing Starts",
+        "activo": "USD",
+        "fecha": "2023-08-16 07:30:00",
+        "impacto": "Low",
+        "pronostico": "1.45M",
+        "anterior": "1.40M",
+        "actual": "1.45M"
+    },
+    {
+        "titulo": "Industrial Production m/m",
+        "activo": "USD",
+        "fecha": "2023-08-16 08:15:00",
+        "impacto": "Medium",
+        "pronostico": "0.3%",
+        "anterior": "-0.8%",
+        "actual": "1.0%"
+    },
+    {
+        "titulo": "Capacity Utilization Rate",
+        "activo": "USD",
+        "fecha": "2023-08-16 08:15:00",
+        "impacto": "Low",
+        "pronostico": "79.1%",
+        "anterior": "78.6%",
+        "actual": "79.3%"
+    },
+    {
+        "titulo": "Crude Oil Inventories",
+        "activo": "USD",
+        "fecha": "2023-08-16 09:30:00",
+        "impacto": "Low",
+        "pronostico": "-2.4M",
+        "anterior": "5.9M",
+        "actual": "-6.0M"
+    },
+    {
+        "titulo": "FOMC Meeting Minutes",
+        "activo": "USD",
+        "fecha": "2023-08-16 13:00:00",
+        "impacto": "High",
+        "pronostico": "",
+        "anterior": "",
+        "actual": ""
+    },
+    {
+        "titulo": "RBNZ Gov Orr Speaks",
+        "activo": "NZD",
+        "fecha": "2023-08-16 15:10:00",
+        "impacto": "Medium",
+        "pronostico": "",
+        "anterior": "",
+        "actual": ""
+    },
+    {
+        "titulo": "PPI Input q/q",
+        "activo": "NZD",
+        "fecha": "2023-08-16 17:45:00",
+        "impacto": "Low",
+        "pronostico": "0.4%",
+        "anterior": "0.0%",
+        "actual": "-0.2%"
+    },
+    {
+        "titulo": "PPI Output q/q",
+        "activo": "NZD",
+        "fecha": "2023-08-16 17:45:00",
+        "impacto": "Low",
+        "pronostico": "0.8%",
+        "anterior": "0.2%",
+        "actual": "0.2%"
+    },
+    {
+        "titulo": "Core Machinery Orders m/m",
+        "activo": "JPY",
+        "fecha": "2023-08-16 18:50:00",
+        "impacto": "Low",
+        "pronostico": "3.6%",
+        "anterior": "-7.6%",
+        "actual": "2.7%"
+    },
+    {
+        "titulo": "Trade Balance",
+        "activo": "JPY",
+        "fecha": "2023-08-16 18:50:00",
+        "impacto": "Low",
+        "pronostico": "-0.44T",
+        "anterior": "-0.54T",
+        "actual": "-0.56T"
+    },
+    {
+        "titulo": "Employment Change",
+        "activo": "AUD",
+        "fecha": "2023-08-16 20:30:00",
+        "impacto": "High",
+        "pronostico": "14.6K",
+        "anterior": "31.6K",
+        "actual": "-14.6K"
+    },
+    {
+        "titulo": "Unemployment Rate",
+        "activo": "AUD",
+        "fecha": "2023-08-16 20:30:00",
+        "impacto": "High",
+        "pronostico": "3.6%",
+        "anterior": "3.5%",
+        "actual": "3.7%"
+    },
+    {
+        "titulo": "Tertiary Industry Activity m/m",
+        "activo": "JPY",
+        "fecha": "2023-08-16 23:30:00",
+        "impacto": "Low",
+        "pronostico": "-0.1%",
+        "anterior": "1.0%",
+        "actual": "-0.4%"
+    },
+    {
+        "titulo": "Trade Balance",
+        "activo": "EUR",
+        "fecha": "2023-08-17 04:00:00",
+        "impacto": "Low",
+        "pronostico": "3.8B",
+        "anterior": "0.2B",
+        "actual": "12.5B"
+    },
+    {
+        "titulo": "Foreign Securities Purchases",
+        "activo": "CAD",
+        "fecha": "2023-08-17 07:30:00",
+        "impacto": "Low",
+        "pronostico": "13.20B",
+        "anterior": "10.21B",
+        "actual": "12.56B"
+    },
+    {
+        "titulo": "Unemployment Claims",
+        "activo": "USD",
+        "fecha": "2023-08-17 07:30:00",
+        "impacto": "High",
+        "pronostico": "240K",
+        "anterior": "250K",
+        "actual": "239K"
+    },
+    {
+        "titulo": "Philly Fed Manufacturing Index",
+        "activo": "USD",
+        "fecha": "2023-08-17 07:30:00",
+        "impacto": "Medium",
+        "pronostico": "-9.8",
+        "anterior": "-13.5",
+        "actual": "12.0"
+    },
+    {
+        "titulo": "CB Leading Index m/m",
+        "activo": "USD",
+        "fecha": "2023-08-17 09:00:00",
+        "impacto": "Low",
+        "pronostico": "-0.4%",
+        "anterior": "-0.7%",
+        "actual": "-0.4%"
+    },
+    {
+        "titulo": "Natural Gas Storage",
+        "activo": "USD",
+        "fecha": "2023-08-17 09:30:00",
+        "impacto": "Low",
+        "pronostico": "35B",
+        "anterior": "29B",
+        "actual": "35B"
+    },
+    {
+        "titulo": "National Core CPI y/y",
+        "activo": "JPY",
+        "fecha": "2023-08-17 18:30:00",
+        "impacto": "Low",
+        "pronostico": "3.1%",
+        "anterior": "3.3%",
+        "actual": "3.1%"
+    },
+    {
+        "titulo": "Retail Sales m/m",
+        "activo": "GBP",
+        "fecha": "2023-08-18 01:00:00",
+        "impacto": "Medium",
+        "pronostico": "-0.6%",
+        "anterior": "0.6%",
+        "actual": "-1.2%"
+    },
+    {
+        "titulo": "Foreign Direct Investment ytd/y",
+        "activo": "CNY",
+        "fecha": "2023-08-18 03:34:00",
+        "impacto": "Low",
+        "pronostico": "",
+        "anterior": "-2.7%",
+        "actual": "-4.0%"
+    },
+    {
+        "titulo": "Final Core CPI y/y",
+        "activo": "EUR",
+        "fecha": "2023-08-18 04:00:00",
+        "impacto": "Low",
+        "pronostico": "5.5%",
+        "anterior": "5.5%",
+        "actual": "5.5%"
+    },
+    {
+        "titulo": "Final CPI y/y",
+        "activo": "EUR",
+        "fecha": "2023-08-18 04:00:00",
+        "impacto": "Low",
+        "pronostico": "5.3%",
+        "anterior": "5.3%",
+        "actual": "5.3%"
+    },
+    {
+        "titulo": "IPPI m/m",
+        "activo": "CAD",
+        "fecha": "2023-08-18 07:30:00",
+        "impacto": "Low",
+        "pronostico": "0.2%",
+        "anterior": "-0.6%",
+        "actual": "0.4%"
+    },
+    {
+        "titulo": "RMPI m/m",
+        "activo": "CAD",
+        "fecha": "2023-08-18 07:30:00",
+        "impacto": "Low",
+        "pronostico": "2.1%",
+        "anterior": "-2.0%",
+        "actual": "3.5%"
+    },
+    {
+        "titulo": "Trade Balance",
+        "activo": "NZD",
+        "fecha": "2023-08-20 17:45:00",
+        "impacto": "Low",
+        "pronostico": "-50M",
+        "anterior": "-111M",
+        "actual": "-1107M"
+    },
+    {
+        "titulo": "Rightmove HPI m/m",
+        "activo": "GBP",
+        "fecha": "2023-08-20 18:01:00",
+        "impacto": "Low",
+        "pronostico": "",
+        "anterior": "-0.2%",
+        "actual": "-1.9%"
+    },
+    {
+        "titulo": "1-y Loan Prime Rate",
+        "activo": "CNY",
+        "fecha": "2023-08-20 20:15:00",
+        "impacto": "High",
+        "pronostico": "3.40%",
+        "anterior": "3.55%",
+        "actual": "3.45%"
+    },
+    {
+        "titulo": "5-y Loan Prime Rate",
+        "activo": "CNY",
+        "fecha": "2023-08-20 20:15:00",
+        "impacto": "Medium",
+        "pronostico": "4.05%",
+        "anterior": "4.20%",
+        "actual": "4.20%"
+    },
+    {
+        "titulo": "Credit Card Spending y/y",
+        "activo": "NZD",
+        "fecha": "2023-08-20 22:00:00",
+        "impacto": "Low",
+        "pronostico": "",
+        "anterior": "5.1%",
+        "actual": "3.6%"
+    },
+    {
+        "titulo": "German PPI m/m",
+        "activo": "EUR",
+        "fecha": "2023-08-21 01:00:00",
+        "impacto": "Low",
+        "pronostico": "-0.1%",
+        "anterior": "-0.3%",
+        "actual": "-1.1%"
+    },
+    {
+        "titulo": "German Buba Monthly Report",
+        "activo": "EUR",
+        "fecha": "2023-08-21 05:00:00",
+        "impacto": "Low",
+        "pronostico": "",
+        "anterior": "",
+        "actual": ""
+    },
+    {
+        "titulo": "NHPI m/m",
+        "activo": "CAD",
+        "fecha": "2023-08-21 07:30:00",
+        "impacto": "Low",
+        "pronostico": "0.0%",
+        "anterior": "0.1%",
+        "actual": "-0.1%"
+    },
+    {
+        "titulo": "BOJ Core CPI y/y",
+        "activo": "JPY",
+        "fecha": "2023-08-22 00:00:00",
+        "impacto": "Low",
+        "pronostico": "2.9%",
+        "anterior": "3.0%",
+        "actual": "3.3%"
+    },
+    {
+        "titulo": "Trade Balance",
+        "activo": "CHF",
+        "fecha": "2023-08-22 01:00:00",
+        "impacto": "Low",
+        "pronostico": "4.50B",
+        "anterior": "4.79B",
+        "actual": "3.13B"
+    },
+    {
+        "titulo": "Public Sector Net Borrowing",
+        "activo": "GBP",
+        "fecha": "2023-08-22 01:00:00",
+        "impacto": "Low",
+        "pronostico": "3.8B",
+        "anterior": "17.1B",
+        "actual": "3.5B"
+    },
+    {
+        "titulo": "Current Account",
+        "activo": "EUR",
+        "fecha": "2023-08-22 03:00:00",
+        "impacto": "Low",
+        "pronostico": "10.2B",
+        "anterior": "7.9B",
+        "actual": "35.8B"
+    },
+    {
+        "titulo": "BRICS Summit",
+        "activo": "All",
+        "fecha": "2023-08-22 00:00:00",
+        "impacto": "Medium",
+        "pronostico": "",
+        "anterior": "",
+        "actual": ""
+    },
+    {
+        "titulo": "CBI Industrial Order Expectations",
+        "activo": "GBP",
+        "fecha": "2023-08-22 05:00:00",
+        "impacto": "Low",
+        "pronostico": "-11",
+        "anterior": "-9",
+        "actual": "-15"
+    },
+    {
+        "titulo": "Richmond Manufacturing Index",
+        "activo": "USD",
+        "fecha": "2023-08-22 08:59:00",
+        "impacto": "Medium",
+        "pronostico": "-10",
+        "anterior": "-9",
+        "actual": "-7"
+    },
+    {
+        "titulo": "Existing Home Sales",
+        "activo": "USD",
+        "fecha": "2023-08-22 09:00:00",
+        "impacto": "Medium",
+        "pronostico": "4.15M",
+        "anterior": "4.16M",
+        "actual": "4.07M"
+    },
+    {
+        "titulo": "CB Leading Index m/m",
+        "activo": "AUD",
+        "fecha": "2023-08-22 09:30:00",
+        "impacto": "Low",
+        "pronostico": "",
+        "anterior": "0.0%",
+        "actual": "0.0%"
+    },
+    {
+        "titulo": "FOMC Member Goolsbee Speaks",
+        "activo": "USD",
+        "fecha": "2023-08-22 13:30:00",
+        "impacto": "Low",
+        "pronostico": "",
+        "anterior": "",
+        "actual": ""
+    },
+    {
+        "titulo": "FOMC Member Bowman Speaks",
+        "activo": "USD",
+        "fecha": "2023-08-22 13:32:00",
+        "impacto": "Low",
+        "pronostico": "",
+        "anterior": "",
+        "actual": ""
+    },
+    {
+        "titulo": "FOMC Member Goolsbee Speaks",
+        "activo": "USD",
+        "fecha": "2023-08-22 14:30:00",
+        "impacto": "Low",
+        "pronostico": "",
+        "anterior": "",
+        "actual": ""
+    },
+    {
+        "titulo": "Retail Sales q/q",
+        "activo": "NZD",
+        "fecha": "2023-08-22 17:45:00",
+        "impacto": "Medium",
+        "pronostico": "-0.4%",
+        "anterior": "-1.6%",
+        "actual": "-1.0%"
+    },
+    {
+        "titulo": "Core Retail Sales q/q",
+        "activo": "NZD",
+        "fecha": "2023-08-22 17:45:00",
+        "impacto": "Low",
+        "pronostico": "-0.2%",
+        "anterior": "-1.6%",
+        "actual": "-1.8%"
+    },
+    {
+        "titulo": "Flash Manufacturing PMI",
+        "activo": "AUD",
+        "fecha": "2023-08-22 18:00:00",
+        "impacto": "Low",
+        "pronostico": "",
+        "anterior": "49.6",
+        "actual": "49.4"
+    },
+    {
+        "titulo": "Flash Services PMI",
+        "activo": "AUD",
+        "fecha": "2023-08-22 18:00:00",
+        "impacto": "Low",
+        "pronostico": "",
+        "anterior": "47.9",
+        "actual": "46.7"
+    },
+    {
+        "titulo": "Flash Manufacturing PMI",
+        "activo": "JPY",
+        "fecha": "2023-08-22 19:30:00",
+        "impacto": "Low",
+        "pronostico": "49.6",
+        "anterior": "49.6",
+        "actual": "49.7"
+    },
+    {
+        "titulo": "French Flash Manufacturing PMI",
+        "activo": "EUR",
+        "fecha": "2023-08-23 02:15:00",
+        "impacto": "High",
+        "pronostico": "45.1",
+        "anterior": "45.1",
+        "actual": "46.4"
+    },
+    {
+        "titulo": "French Flash Services PMI",
+        "activo": "EUR",
+        "fecha": "2023-08-23 02:15:00",
+        "impacto": "High",
+        "pronostico": "47.5",
+        "anterior": "47.1",
+        "actual": "46.7"
+    },
+    {
+        "titulo": "German Flash Manufacturing PMI",
+        "activo": "EUR",
+        "fecha": "2023-08-23 02:30:00",
+        "impacto": "High",
+        "pronostico": "38.9",
+        "anterior": "38.8",
+        "actual": "39.1"
+    },
+    {
+        "titulo": "German Flash Services PMI",
+        "activo": "EUR",
+        "fecha": "2023-08-23 02:30:00",
+        "impacto": "High",
+        "pronostico": "51.5",
+        "anterior": "52.3",
+        "actual": "47.3"
+    },
+    {
+        "titulo": "Flash Manufacturing PMI",
+        "activo": "EUR",
+        "fecha": "2023-08-23 03:00:00",
+        "impacto": "Medium",
+        "pronostico": "42.8",
+        "anterior": "42.7",
+        "actual": "43.7"
+    },
+    {
+        "titulo": "Flash Services PMI",
+        "activo": "EUR",
+        "fecha": "2023-08-23 03:00:00",
+        "impacto": "Medium",
+        "pronostico": "50.6",
+        "anterior": "50.9",
+        "actual": "48.3"
+    },
+    {
+        "titulo": "BRICS Summit",
+        "activo": "All",
+        "fecha": "2023-08-23 00:00:00",
+        "impacto": "Medium",
+        "pronostico": "",
+        "anterior": "",
+        "actual": ""
+    },
+    {
+        "titulo": "Flash Manufacturing PMI",
+        "activo": "GBP",
+        "fecha": "2023-08-23 03:30:00",
+        "impacto": "High",
+        "pronostico": "45.1",
+        "anterior": "45.3",
+        "actual": "42.5"
+    },
+    {
+        "titulo": "Flash Services PMI",
+        "activo": "GBP",
+        "fecha": "2023-08-23 03:30:00",
+        "impacto": "High",
+        "pronostico": "50.9",
+        "anterior": "51.5",
+        "actual": "48.7"
+    },
+    {
+        "titulo": "Core Retail Sales m/m",
+        "activo": "CAD",
+        "fecha": "2023-08-23 07:30:00",
+        "impacto": "Medium",
+        "pronostico": "0.3%",
+        "anterior": "-0.3%",
+        "actual": "-0.8%"
+    },
+    {
+        "titulo": "Retail Sales m/m",
+        "activo": "CAD",
+        "fecha": "2023-08-23 07:30:00",
+        "impacto": "Medium",
+        "pronostico": "0.0%",
+        "anterior": "0.1%",
+        "actual": "0.1%"
+    },
+    {
+        "titulo": "Flash Manufacturing PMI",
+        "activo": "USD",
+        "fecha": "2023-08-23 08:45:00",
+        "impacto": "High",
+        "pronostico": "48.9",
+        "anterior": "49.0",
+        "actual": "47.0"
+    },
+    {
+        "titulo": "Flash Services PMI",
+        "activo": "USD",
+        "fecha": "2023-08-23 08:45:00",
+        "impacto": "High",
+        "pronostico": "52.1",
+        "anterior": "52.3",
+        "actual": "51.0"
+    },
+    {
+        "titulo": "Consumer Confidence",
+        "activo": "EUR",
+        "fecha": "2023-08-23 09:00:00",
+        "impacto": "Low",
+        "pronostico": "-15",
+        "anterior": "-15",
+        "actual": "-16"
+    },
+    {
+        "titulo": "New Home Sales",
+        "activo": "USD",
+        "fecha": "2023-08-23 09:00:00",
+        "impacto": "Medium",
+        "pronostico": "705K",
+        "anterior": "684K",
+        "actual": "714K"
+    },
+    {
+        "titulo": "Crude Oil Inventories",
+        "activo": "USD",
+        "fecha": "2023-08-23 09:30:00",
+        "impacto": "Low",
+        "pronostico": "-2.9M",
+        "anterior": "-6.0M",
+        "actual": "-6.1M"
+    },
+    {
+        "titulo": "BRICS Summit",
+        "activo": "All",
+        "fecha": "2023-08-24 00:00:00",
+        "impacto": "Medium",
+        "pronostico": "",
+        "anterior": "",
+        "actual": ""
+    },
+    {
+        "titulo": "CBI Realized Sales",
+        "activo": "GBP",
+        "fecha": "2023-08-24 05:00:00",
+        "impacto": "Low",
+        "pronostico": "-14",
+        "anterior": "-25",
+        "actual": "-44"
+    },
+    {
+        "titulo": "BOE Quarterly Bulletin",
+        "activo": "GBP",
+        "fecha": "2023-08-24 06:00:00",
+        "impacto": "Low",
+        "pronostico": "",
+        "anterior": "",
+        "actual": ""
+    },
+    {
+        "titulo": "Corporate Profits q/q",
+        "activo": "CAD",
+        "fecha": "2023-08-24 07:30:00",
+        "impacto": "Low",
+        "pronostico": "",
+        "anterior": "-5.6%",
+        "actual": "-2.0%"
+    },
+    {
+        "titulo": "Unemployment Claims",
+        "activo": "USD",
+        "fecha": "2023-08-24 07:30:00",
+        "impacto": "High",
+        "pronostico": "239K",
+        "anterior": "240K",
+        "actual": "230K"
+    },
+    {
+        "titulo": "Core Durable Goods Orders m/m",
+        "activo": "USD",
+        "fecha": "2023-08-24 07:30:00",
+        "impacto": "Medium",
+        "pronostico": "0.2%",
+        "anterior": "0.5%",
+        "actual": "0.5%"
+    },
+    {
+        "titulo": "Durable Goods Orders m/m",
+        "activo": "USD",
+        "fecha": "2023-08-24 07:30:00",
+        "impacto": "Medium",
+        "pronostico": "-4.1%",
+        "anterior": "4.6%",
+        "actual": "-5.2%"
+    },
+    {
+        "titulo": "Natural Gas Storage",
+        "activo": "USD",
+        "fecha": "2023-08-24 09:30:00",
+        "impacto": "Low",
+        "pronostico": "36B",
+        "anterior": "35B",
+        "actual": "18B"
+    },
+    {
+        "titulo": "FOMC Member Harker Speaks",
+        "activo": "USD",
+        "fecha": "2023-08-24 11:00:00",
+        "impacto": "Medium",
+        "pronostico": "",
+        "anterior": "",
+        "actual": ""
+    },
+    {
+        "titulo": "Jackson Hole Symposium",
+        "activo": "All",
+        "fecha": "2023-08-24 00:00:00",
+        "impacto": "Medium",
+        "pronostico": "",
+        "anterior": "",
+        "actual": ""
+    },
+    {
+        "titulo": "GfK Consumer Confidence",
+        "activo": "GBP",
+        "fecha": "2023-08-24 18:01:00",
+        "impacto": "Low",
+        "pronostico": "-29",
+        "anterior": "-30",
+        "actual": "-25"
+    },
+    {
+        "titulo": "Tokyo Core CPI y/y",
+        "activo": "JPY",
+        "fecha": "2023-08-24 18:30:00",
+        "impacto": "Medium",
+        "pronostico": "2.9%",
+        "anterior": "3.0%",
+        "actual": "2.8%"
+    },
+    {
+        "titulo": "SPPI y/y",
+        "activo": "JPY",
+        "fecha": "2023-08-24 18:50:00",
+        "impacto": "Low",
+        "pronostico": "1.2%",
+        "anterior": "1.4%",
+        "actual": "1.7%"
+    }
+]

@@ -1,0 +1,695 @@
+[
+    {
+        "titulo": "German PPI m/m",
+        "activo": "EUR",
+        "fecha": "2024-12-20 02:00:00",
+        "impacto": "Low",
+        "pronostico": "0.3%",
+        "anterior": "0.2%",
+        "actual": "0.5%"
+    },
+    {
+        "titulo": "Retail Sales m/m",
+        "activo": "GBP",
+        "fecha": "2024-12-20 02:00:00",
+        "impacto": "High",
+        "pronostico": "0.5%",
+        "anterior": "-0.7%",
+        "actual": "0.2%"
+    },
+    {
+        "titulo": "Public Sector Net Borrowing",
+        "activo": "GBP",
+        "fecha": "2024-12-20 02:00:00",
+        "impacto": "Low",
+        "pronostico": "15.5B",
+        "anterior": "18.2B",
+        "actual": "11.2B"
+    },
+    {
+        "titulo": "CBI Realized Sales",
+        "activo": "GBP",
+        "fecha": "2024-12-20 06:00:00",
+        "impacto": "Low",
+        "pronostico": "-9",
+        "anterior": "-18",
+        "actual": "-15"
+    },
+    {
+        "titulo": "FOMC Member Daly Speaks",
+        "activo": "USD",
+        "fecha": "2024-12-20 07:30:00",
+        "impacto": "Low",
+        "pronostico": "",
+        "anterior": "",
+        "actual": ""
+    },
+    {
+        "titulo": "Core Retail Sales m/m",
+        "activo": "CAD",
+        "fecha": "2024-12-20 08:30:00",
+        "impacto": "High",
+        "pronostico": "0.2%",
+        "anterior": "1.1%",
+        "actual": "0.1%"
+    },
+    {
+        "titulo": "Retail Sales m/m",
+        "activo": "CAD",
+        "fecha": "2024-12-20 08:30:00",
+        "impacto": "High",
+        "pronostico": "0.7%",
+        "anterior": "0.6%",
+        "actual": "0.6%"
+    },
+    {
+        "titulo": "Core PCE Price Index m/m",
+        "activo": "USD",
+        "fecha": "2024-12-20 08:30:00",
+        "impacto": "High",
+        "pronostico": "0.2%",
+        "anterior": "0.3%",
+        "actual": "0.1%"
+    },
+    {
+        "titulo": "Personal Income m/m",
+        "activo": "USD",
+        "fecha": "2024-12-20 08:30:00",
+        "impacto": "Low",
+        "pronostico": "0.4%",
+        "anterior": "0.7%",
+        "actual": "0.3%"
+    },
+    {
+        "titulo": "Personal Spending m/m",
+        "activo": "USD",
+        "fecha": "2024-12-20 08:30:00",
+        "impacto": "Low",
+        "pronostico": "0.5%",
+        "anterior": "0.3%",
+        "actual": "0.4%"
+    },
+    {
+        "titulo": "Belgian NBB Business Climate",
+        "activo": "EUR",
+        "fecha": "2024-12-20 08:48:00",
+        "impacto": "Low",
+        "pronostico": "-11.7",
+        "anterior": "-11.1",
+        "actual": "-13.8"
+    },
+    {
+        "titulo": "Consumer Confidence",
+        "activo": "EUR",
+        "fecha": "2024-12-20 10:00:00",
+        "impacto": "Low",
+        "pronostico": "-14",
+        "anterior": "-14",
+        "actual": "-15"
+    },
+    {
+        "titulo": "Revised UoM Consumer Sentiment",
+        "activo": "USD",
+        "fecha": "2024-12-20 10:00:00",
+        "impacto": "Medium",
+        "pronostico": "74.1",
+        "anterior": "74.0",
+        "actual": "74.0"
+    },
+    {
+        "titulo": "Revised UoM Inflation Expectations",
+        "activo": "USD",
+        "fecha": "2024-12-20 10:00:00",
+        "impacto": "Low",
+        "pronostico": "",
+        "anterior": "2.9%",
+        "actual": "2.8%"
+    },
+    {
+        "titulo": "CB Leading Index m/m",
+        "activo": "AUD",
+        "fecha": "2024-12-20 11:30:00",
+        "impacto": "Low",
+        "pronostico": "",
+        "anterior": "0.2%",
+        "actual": "0.2%"
+    },
+    {
+        "titulo": "German Import Prices m/m",
+        "activo": "EUR",
+        "fecha": "2024-12-23 02:00:00",
+        "impacto": "Low",
+        "pronostico": "0.5%",
+        "anterior": "0.6%",
+        "actual": "0.9%"
+    },
+    {
+        "titulo": "Current Account",
+        "activo": "GBP",
+        "fecha": "2024-12-23 02:00:00",
+        "impacto": "Low",
+        "pronostico": "-22.9B",
+        "anterior": "-24.0B",
+        "actual": "-18.1B"
+    },
+    {
+        "titulo": "Final GDP q/q",
+        "activo": "GBP",
+        "fecha": "2024-12-23 02:00:00",
+        "impacto": "Low",
+        "pronostico": "0.1%",
+        "anterior": "0.1%",
+        "actual": "0.0%"
+    },
+    {
+        "titulo": "Revised Business Investment q/q",
+        "activo": "GBP",
+        "fecha": "2024-12-23 02:00:00",
+        "impacto": "Low",
+        "pronostico": "1.2%",
+        "anterior": "1.2%",
+        "actual": "1.9%"
+    },
+    {
+        "titulo": "UBS Economic Expectations",
+        "activo": "CHF",
+        "fecha": "2024-12-23 04:00:00",
+        "impacto": "Low",
+        "pronostico": "",
+        "anterior": "-12.4",
+        "actual": "-20.0"
+    },
+    {
+        "titulo": "GDP m/m",
+        "activo": "CAD",
+        "fecha": "2024-12-23 08:30:00",
+        "impacto": "High",
+        "pronostico": "0.2%",
+        "anterior": "0.2%",
+        "actual": "0.3%"
+    },
+    {
+        "titulo": "IPPI m/m",
+        "activo": "CAD",
+        "fecha": "2024-12-23 08:30:00",
+        "impacto": "Low",
+        "pronostico": "0.3%",
+        "anterior": "1.2%",
+        "actual": "0.6%"
+    },
+    {
+        "titulo": "RMPI m/m",
+        "activo": "CAD",
+        "fecha": "2024-12-23 08:30:00",
+        "impacto": "Low",
+        "pronostico": "0.4%",
+        "anterior": "4.0%",
+        "actual": "-0.5%"
+    },
+    {
+        "titulo": "Core Durable Goods Orders m/m",
+        "activo": "USD",
+        "fecha": "2024-12-23 08:30:00",
+        "impacto": "Medium",
+        "pronostico": "0.3%",
+        "anterior": "0.2%",
+        "actual": "-0.1%"
+    },
+    {
+        "titulo": "Durable Goods Orders m/m",
+        "activo": "USD",
+        "fecha": "2024-12-23 08:30:00",
+        "impacto": "Medium",
+        "pronostico": "-0.3%",
+        "anterior": "0.3%",
+        "actual": "-1.1%"
+    },
+    {
+        "titulo": "CB Consumer Confidence",
+        "activo": "USD",
+        "fecha": "2024-12-23 10:00:00",
+        "impacto": "Medium",
+        "pronostico": "112.9",
+        "anterior": "112.8",
+        "actual": "104.7"
+    },
+    {
+        "titulo": "New Home Sales",
+        "activo": "USD",
+        "fecha": "2024-12-23 10:00:00",
+        "impacto": "Medium",
+        "pronostico": "666K",
+        "anterior": "627K",
+        "actual": "664K"
+    },
+    {
+        "titulo": "BOC Summary of Deliberations",
+        "activo": "CAD",
+        "fecha": "2024-12-23 13:30:00",
+        "impacto": "Low",
+        "pronostico": "",
+        "anterior": "",
+        "actual": ""
+    },
+    {
+        "titulo": "Monetary Policy Meeting Minutes",
+        "activo": "JPY",
+        "fecha": "2024-12-23 18:50:00",
+        "impacto": "Low",
+        "pronostico": "",
+        "anterior": "",
+        "actual": ""
+    },
+    {
+        "titulo": "Monetary Policy Meeting Minutes",
+        "activo": "AUD",
+        "fecha": "2024-12-23 19:30:00",
+        "impacto": "Medium",
+        "pronostico": "",
+        "anterior": "",
+        "actual": ""
+    },
+    {
+        "titulo": "BOJ Core CPI y/y",
+        "activo": "JPY",
+        "fecha": "2024-12-23 23:59:00",
+        "impacto": "Low",
+        "pronostico": "1.5%",
+        "anterior": "1.5%",
+        "actual": "1.7%"
+    },
+    {
+        "titulo": "German Bank Holiday",
+        "activo": "EUR",
+        "fecha": "2024-12-24 00:00:00",
+        "impacto": "Non",
+        "pronostico": "",
+        "anterior": "",
+        "actual": ""
+    },
+    {
+        "titulo": "Richmond Manufacturing Index",
+        "activo": "USD",
+        "fecha": "2024-12-24 09:59:00",
+        "impacto": "Medium",
+        "pronostico": "-10",
+        "anterior": "-14",
+        "actual": "-10"
+    },
+    {
+        "titulo": "Bank Holiday",
+        "activo": "NZD",
+        "fecha": "2024-12-24 00:00:00",
+        "impacto": "Non",
+        "pronostico": "",
+        "anterior": "",
+        "actual": ""
+    },
+    {
+        "titulo": "Bank Holiday",
+        "activo": "AUD",
+        "fecha": "2024-12-24 00:00:00",
+        "impacto": "Non",
+        "pronostico": "",
+        "anterior": "",
+        "actual": ""
+    },
+    {
+        "titulo": "SPPI y/y",
+        "activo": "JPY",
+        "fecha": "2024-12-24 18:50:00",
+        "impacto": "Low",
+        "pronostico": "3.0%",
+        "anterior": "2.9%",
+        "actual": "3.0%"
+    },
+    {
+        "titulo": "BOJ Gov Ueda Speaks",
+        "activo": "JPY",
+        "fecha": "2024-12-24 23:17:00",
+        "impacto": "Low",
+        "pronostico": "",
+        "anterior": "",
+        "actual": ""
+    },
+    {
+        "titulo": "Bank Holiday",
+        "activo": "CHF",
+        "fecha": "2024-12-25 00:00:00",
+        "impacto": "Non",
+        "pronostico": "",
+        "anterior": "",
+        "actual": ""
+    },
+    {
+        "titulo": "French Bank Holiday",
+        "activo": "EUR",
+        "fecha": "2024-12-25 00:00:00",
+        "impacto": "Non",
+        "pronostico": "",
+        "anterior": "",
+        "actual": ""
+    },
+    {
+        "titulo": "German Bank Holiday",
+        "activo": "EUR",
+        "fecha": "2024-12-25 00:00:00",
+        "impacto": "Non",
+        "pronostico": "",
+        "anterior": "",
+        "actual": ""
+    },
+    {
+        "titulo": "Italian Bank Holiday",
+        "activo": "EUR",
+        "fecha": "2024-12-25 00:00:00",
+        "impacto": "Non",
+        "pronostico": "",
+        "anterior": "",
+        "actual": ""
+    },
+    {
+        "titulo": "Bank Holiday",
+        "activo": "GBP",
+        "fecha": "2024-12-25 00:00:00",
+        "impacto": "Non",
+        "pronostico": "",
+        "anterior": "",
+        "actual": ""
+    },
+    {
+        "titulo": "Bank Holiday",
+        "activo": "CAD",
+        "fecha": "2024-12-25 00:00:00",
+        "impacto": "Non",
+        "pronostico": "",
+        "anterior": "",
+        "actual": ""
+    },
+    {
+        "titulo": "Bank Holiday",
+        "activo": "USD",
+        "fecha": "2024-12-25 00:00:00",
+        "impacto": "Non",
+        "pronostico": "",
+        "anterior": "",
+        "actual": ""
+    },
+    {
+        "titulo": "Bank Holiday",
+        "activo": "NZD",
+        "fecha": "2024-12-25 00:00:00",
+        "impacto": "Non",
+        "pronostico": "",
+        "anterior": "",
+        "actual": ""
+    },
+    {
+        "titulo": "Bank Holiday",
+        "activo": "AUD",
+        "fecha": "2024-12-25 00:00:00",
+        "impacto": "Non",
+        "pronostico": "",
+        "anterior": "",
+        "actual": ""
+    },
+    {
+        "titulo": "Bank Holiday",
+        "activo": "CHF",
+        "fecha": "2024-12-26 00:00:00",
+        "impacto": "Non",
+        "pronostico": "",
+        "anterior": "",
+        "actual": ""
+    },
+    {
+        "titulo": "German Bank Holiday",
+        "activo": "EUR",
+        "fecha": "2024-12-26 00:00:00",
+        "impacto": "Non",
+        "pronostico": "",
+        "anterior": "",
+        "actual": ""
+    },
+    {
+        "titulo": "Italian Bank Holiday",
+        "activo": "EUR",
+        "fecha": "2024-12-26 00:00:00",
+        "impacto": "Non",
+        "pronostico": "",
+        "anterior": "",
+        "actual": ""
+    },
+    {
+        "titulo": "Bank Holiday",
+        "activo": "GBP",
+        "fecha": "2024-12-26 00:00:00",
+        "impacto": "Non",
+        "pronostico": "",
+        "anterior": "",
+        "actual": ""
+    },
+    {
+        "titulo": "Bank Holiday",
+        "activo": "CAD",
+        "fecha": "2024-12-26 00:00:00",
+        "impacto": "Non",
+        "pronostico": "",
+        "anterior": "",
+        "actual": ""
+    },
+    {
+        "titulo": "Unemployment Claims",
+        "activo": "USD",
+        "fecha": "2024-12-26 08:30:00",
+        "impacto": "High",
+        "pronostico": "223K",
+        "anterior": "220K",
+        "actual": "219K"
+    },
+    {
+        "titulo": "Tokyo Core CPI y/y",
+        "activo": "JPY",
+        "fecha": "2024-12-26 18:30:00",
+        "impacto": "Medium",
+        "pronostico": "2.5%",
+        "anterior": "2.2%",
+        "actual": "2.4%"
+    },
+    {
+        "titulo": "Unemployment Rate",
+        "activo": "JPY",
+        "fecha": "2024-12-26 18:30:00",
+        "impacto": "Low",
+        "pronostico": "2.5%",
+        "anterior": "2.5%",
+        "actual": "2.5%"
+    },
+    {
+        "titulo": "BOJ Summary of Opinions",
+        "activo": "JPY",
+        "fecha": "2024-12-26 18:50:00",
+        "impacto": "Low",
+        "pronostico": "",
+        "anterior": "",
+        "actual": ""
+    },
+    {
+        "titulo": "Prelim Industrial Production m/m",
+        "activo": "JPY",
+        "fecha": "2024-12-26 18:50:00",
+        "impacto": "Low",
+        "pronostico": "-3.4%",
+        "anterior": "2.8%",
+        "actual": "-2.3%"
+    },
+    {
+        "titulo": "Retail Sales y/y",
+        "activo": "JPY",
+        "fecha": "2024-12-26 18:50:00",
+        "impacto": "Low",
+        "pronostico": "1.5%",
+        "anterior": "1.3%",
+        "actual": "2.8%"
+    },
+    {
+        "titulo": "Housing Starts y/y",
+        "activo": "JPY",
+        "fecha": "2024-12-27 00:00:00",
+        "impacto": "Low",
+        "pronostico": "-0.1%",
+        "anterior": "-2.9%",
+        "actual": "-1.8%"
+    },
+    {
+        "titulo": "Goods Trade Balance",
+        "activo": "USD",
+        "fecha": "2024-12-27 08:30:00",
+        "impacto": "Low",
+        "pronostico": "-101.3B",
+        "anterior": "-98.3B",
+        "actual": "-102.9B"
+    },
+    {
+        "titulo": "Prelim Wholesale Inventories m/m",
+        "activo": "USD",
+        "fecha": "2024-12-27 08:30:00",
+        "impacto": "Low",
+        "pronostico": "0.1%",
+        "anterior": "0.1%",
+        "actual": "-0.2%"
+    },
+    {
+        "titulo": "Natural Gas Storage",
+        "activo": "USD",
+        "fecha": "2024-12-27 10:30:00",
+        "impacto": "Low",
+        "pronostico": "-100B",
+        "anterior": "-125B",
+        "actual": "-93B"
+    },
+    {
+        "titulo": "Crude Oil Inventories",
+        "activo": "USD",
+        "fecha": "2024-12-27 13:00:00",
+        "impacto": "Medium",
+        "pronostico": "-0.7M",
+        "anterior": "-0.9M",
+        "actual": "-4.2M"
+    },
+    {
+        "titulo": "Final Manufacturing PMI",
+        "activo": "JPY",
+        "fecha": "2024-12-29 19:30:00",
+        "impacto": "Low",
+        "pronostico": "49.5",
+        "anterior": "49.5",
+        "actual": "49.6"
+    },
+    {
+        "titulo": "KOF Economic Barometer",
+        "activo": "CHF",
+        "fecha": "2024-12-30 03:00:00",
+        "impacto": "Low",
+        "pronostico": "101.1",
+        "anterior": "102.9",
+        "actual": "99.5"
+    },
+    {
+        "titulo": "Spanish Flash CPI y/y",
+        "activo": "EUR",
+        "fecha": "2024-12-30 03:00:00",
+        "impacto": "Medium",
+        "pronostico": "2.6%",
+        "anterior": "2.4%",
+        "actual": "2.8%"
+    },
+    {
+        "titulo": "Chicago PMI",
+        "activo": "USD",
+        "fecha": "2024-12-30 09:45:00",
+        "impacto": "Medium",
+        "pronostico": "42.7",
+        "anterior": "40.2",
+        "actual": "36.9"
+    },
+    {
+        "titulo": "Pending Home Sales m/m",
+        "activo": "USD",
+        "fecha": "2024-12-30 10:00:00",
+        "impacto": "Medium",
+        "pronostico": "0.9%",
+        "anterior": "1.8%",
+        "actual": "2.2%"
+    },
+    {
+        "titulo": "Bank Holiday",
+        "activo": "JPY",
+        "fecha": "2024-12-30 00:00:00",
+        "impacto": "Non",
+        "pronostico": "",
+        "anterior": "",
+        "actual": ""
+    },
+    {
+        "titulo": "Manufacturing PMI",
+        "activo": "CNY",
+        "fecha": "2024-12-30 20:30:00",
+        "impacto": "High",
+        "pronostico": "50.3",
+        "anterior": "50.3",
+        "actual": "50.1"
+    },
+    {
+        "titulo": "Non-Manufacturing PMI",
+        "activo": "CNY",
+        "fecha": "2024-12-30 20:30:00",
+        "impacto": "Medium",
+        "pronostico": "50.2",
+        "anterior": "50.0",
+        "actual": "52.2"
+    },
+    {
+        "titulo": "German Bank Holiday",
+        "activo": "EUR",
+        "fecha": "2024-12-31 00:00:00",
+        "impacto": "Non",
+        "pronostico": "",
+        "anterior": "",
+        "actual": ""
+    },
+    {
+        "titulo": "S&P/CS Composite-20 HPI y/y",
+        "activo": "USD",
+        "fecha": "2024-12-31 09:00:00",
+        "impacto": "Medium",
+        "pronostico": "4.1%",
+        "anterior": "4.6%",
+        "actual": "4.2%"
+    },
+    {
+        "titulo": "HPI m/m",
+        "activo": "USD",
+        "fecha": "2024-12-31 09:00:00",
+        "impacto": "Low",
+        "pronostico": "0.5%",
+        "anterior": "0.7%",
+        "actual": "0.4%"
+    },
+    {
+        "titulo": "Bank Holiday",
+        "activo": "NZD",
+        "fecha": "2024-12-31 00:00:00",
+        "impacto": "Non",
+        "pronostico": "",
+        "anterior": "",
+        "actual": ""
+    },
+    {
+        "titulo": "Bank Holiday",
+        "activo": "AUD",
+        "fecha": "2024-12-31 00:00:00",
+        "impacto": "Non",
+        "pronostico": "",
+        "anterior": "",
+        "actual": ""
+    },
+    {
+        "titulo": "Bank Holiday",
+        "activo": "JPY",
+        "fecha": "2024-12-31 00:00:00",
+        "impacto": "Non",
+        "pronostico": "",
+        "anterior": "",
+        "actual": ""
+    },
+    {
+        "titulo": "Bank Holiday",
+        "activo": "CNY",
+        "fecha": "2024-12-31 00:00:00",
+        "impacto": "Non",
+        "pronostico": "",
+        "anterior": "",
+        "actual": ""
+    }
+]

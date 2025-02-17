@@ -1,0 +1,5366 @@
+[
+    {
+        "titulo": "Bank Holiday",
+        "activo": "CHF",
+        "fecha": "2025-01-01 00:00:00",
+        "impacto": "Non",
+        "pronostico": "",
+        "anterior": "",
+        "actual": ""
+    },
+    {
+        "titulo": "French Bank Holiday",
+        "activo": "EUR",
+        "fecha": "2025-01-01 00:00:00",
+        "impacto": "Non",
+        "pronostico": "",
+        "anterior": "",
+        "actual": ""
+    },
+    {
+        "titulo": "German Bank Holiday",
+        "activo": "EUR",
+        "fecha": "2025-01-01 00:00:00",
+        "impacto": "Non",
+        "pronostico": "",
+        "anterior": "",
+        "actual": ""
+    },
+    {
+        "titulo": "Italian Bank Holiday",
+        "activo": "EUR",
+        "fecha": "2025-01-01 00:00:00",
+        "impacto": "Non",
+        "pronostico": "",
+        "anterior": "",
+        "actual": ""
+    },
+    {
+        "titulo": "Bank Holiday",
+        "activo": "GBP",
+        "fecha": "2025-01-01 03:00:00",
+        "impacto": "Non",
+        "pronostico": "",
+        "anterior": "",
+        "actual": ""
+    },
+    {
+        "titulo": "Bank Holiday",
+        "activo": "CAD",
+        "fecha": "2025-01-01 00:00:00",
+        "impacto": "Non",
+        "pronostico": "",
+        "anterior": "",
+        "actual": ""
+    },
+    {
+        "titulo": "Bank Holiday",
+        "activo": "USD",
+        "fecha": "2025-01-01 00:00:00",
+        "impacto": "Non",
+        "pronostico": "",
+        "anterior": "",
+        "actual": ""
+    },
+    {
+        "titulo": "Bank Holiday",
+        "activo": "NZD",
+        "fecha": "2025-01-01 00:00:00",
+        "impacto": "Non",
+        "pronostico": "",
+        "anterior": "",
+        "actual": ""
+    },
+    {
+        "titulo": "Bank Holiday",
+        "activo": "JPY",
+        "fecha": "2025-01-01 00:00:00",
+        "impacto": "Non",
+        "pronostico": "",
+        "anterior": "",
+        "actual": ""
+    },
+    {
+        "titulo": "Caixin Manufacturing PMI",
+        "activo": "CNY",
+        "fecha": "2025-01-01 20:45:00",
+        "impacto": "Low",
+        "pronostico": "51.6",
+        "anterior": "51.5",
+        "actual": "50.5"
+    },
+    {
+        "titulo": "Commodity Prices y/y",
+        "activo": "AUD",
+        "fecha": "2025-01-02 00:30:00",
+        "impacto": "Low",
+        "pronostico": "",
+        "anterior": "-10.8%",
+        "actual": "-10.7%"
+    },
+    {
+        "titulo": "Bank Holiday",
+        "activo": "CHF",
+        "fecha": "2025-01-02 00:00:00",
+        "impacto": "Non",
+        "pronostico": "",
+        "anterior": "",
+        "actual": ""
+    },
+    {
+        "titulo": "Nationwide HPI m/m",
+        "activo": "GBP",
+        "fecha": "2025-01-02 02:00:00",
+        "impacto": "Low",
+        "pronostico": "0.1%",
+        "anterior": "1.2%",
+        "actual": "0.7%"
+    },
+    {
+        "titulo": "Spanish Manufacturing PMI",
+        "activo": "EUR",
+        "fecha": "2025-01-02 03:15:00",
+        "impacto": "Low",
+        "pronostico": "53.6",
+        "anterior": "53.1",
+        "actual": "53.3"
+    },
+    {
+        "titulo": "Italian Manufacturing PMI",
+        "activo": "EUR",
+        "fecha": "2025-01-02 03:45:00",
+        "impacto": "Low",
+        "pronostico": "44.9",
+        "anterior": "44.5",
+        "actual": "46.2"
+    },
+    {
+        "titulo": "French Final Manufacturing PMI",
+        "activo": "EUR",
+        "fecha": "2025-01-02 03:50:00",
+        "impacto": "Low",
+        "pronostico": "41.9",
+        "anterior": "41.9",
+        "actual": "41.9"
+    },
+    {
+        "titulo": "German Final Manufacturing PMI",
+        "activo": "EUR",
+        "fecha": "2025-01-02 03:55:00",
+        "impacto": "Low",
+        "pronostico": "42.5",
+        "anterior": "42.5",
+        "actual": "42.5"
+    },
+    {
+        "titulo": "Final Manufacturing PMI",
+        "activo": "EUR",
+        "fecha": "2025-01-02 04:00:00",
+        "impacto": "Low",
+        "pronostico": "45.2",
+        "anterior": "45.2",
+        "actual": "45.1"
+    },
+    {
+        "titulo": "M3 Money Supply y/y",
+        "activo": "EUR",
+        "fecha": "2025-01-02 04:00:00",
+        "impacto": "Low",
+        "pronostico": "3.5%",
+        "anterior": "3.4%",
+        "actual": "3.8%"
+    },
+    {
+        "titulo": "Private Loans y/y",
+        "activo": "EUR",
+        "fecha": "2025-01-02 04:00:00",
+        "impacto": "Low",
+        "pronostico": "0.9%",
+        "anterior": "0.8%",
+        "actual": "0.9%"
+    },
+    {
+        "titulo": "Final Manufacturing PMI",
+        "activo": "GBP",
+        "fecha": "2025-01-02 04:30:00",
+        "impacto": "Low",
+        "pronostico": "47.3",
+        "anterior": "47.3",
+        "actual": "47.0"
+    },
+    {
+        "titulo": "Unemployment Claims",
+        "activo": "USD",
+        "fecha": "2025-01-02 08:30:00",
+        "impacto": "High",
+        "pronostico": "222K",
+        "anterior": "220K",
+        "actual": "211K"
+    },
+    {
+        "titulo": "Manufacturing PMI",
+        "activo": "CAD",
+        "fecha": "2025-01-02 09:30:00",
+        "impacto": "Low",
+        "pronostico": "51.9",
+        "anterior": "52.0",
+        "actual": "52.2"
+    },
+    {
+        "titulo": "Final Manufacturing PMI",
+        "activo": "USD",
+        "fecha": "2025-01-02 09:45:00",
+        "impacto": "Medium",
+        "pronostico": "48.3",
+        "anterior": "48.3",
+        "actual": "49.4"
+    },
+    {
+        "titulo": "Construction Spending m/m",
+        "activo": "USD",
+        "fecha": "2025-01-02 10:00:00",
+        "impacto": "Low",
+        "pronostico": "0.3%",
+        "anterior": "0.5%",
+        "actual": "0.0%"
+    },
+    {
+        "titulo": "Crude Oil Inventories",
+        "activo": "USD",
+        "fecha": "2025-01-02 11:00:00",
+        "impacto": "Medium",
+        "pronostico": "-2.4M",
+        "anterior": "-4.2M",
+        "actual": "-1.2M"
+    },
+    {
+        "titulo": "Bank Holiday",
+        "activo": "JPY",
+        "fecha": "2025-01-02 00:00:00",
+        "impacto": "Non",
+        "pronostico": "",
+        "anterior": "",
+        "actual": ""
+    },
+    {
+        "titulo": "Spanish Unemployment Change",
+        "activo": "EUR",
+        "fecha": "2025-01-03 03:00:00",
+        "impacto": "Low",
+        "pronostico": "-46.5K",
+        "anterior": "-16.0K",
+        "actual": "-25.3K"
+    },
+    {
+        "titulo": "Manufacturing PMI",
+        "activo": "CHF",
+        "fecha": "2025-01-03 03:30:00",
+        "impacto": "Low",
+        "pronostico": "48.4",
+        "anterior": "48.5",
+        "actual": "48.4"
+    },
+    {
+        "titulo": "German Unemployment Change",
+        "activo": "EUR",
+        "fecha": "2025-01-03 03:55:00",
+        "impacto": "Low",
+        "pronostico": "15K",
+        "anterior": "6K",
+        "actual": "10K"
+    },
+    {
+        "titulo": "M4 Money Supply m/m",
+        "activo": "GBP",
+        "fecha": "2025-01-03 04:30:00",
+        "impacto": "Low",
+        "pronostico": "0.1%",
+        "anterior": "-0.2%",
+        "actual": "0.0%"
+    },
+    {
+        "titulo": "Mortgage Approvals",
+        "activo": "GBP",
+        "fecha": "2025-01-03 04:30:00",
+        "impacto": "Low",
+        "pronostico": "69K",
+        "anterior": "68K",
+        "actual": "66K"
+    },
+    {
+        "titulo": "Net Lending to Individuals m/m",
+        "activo": "GBP",
+        "fecha": "2025-01-03 04:30:00",
+        "impacto": "Low",
+        "pronostico": "4.4B",
+        "anterior": "4.5B",
+        "actual": "3.4B"
+    },
+    {
+        "titulo": "ISM Manufacturing PMI",
+        "activo": "USD",
+        "fecha": "2025-01-03 10:00:00",
+        "impacto": "High",
+        "pronostico": "48.2",
+        "anterior": "48.4",
+        "actual": "49.3"
+    },
+    {
+        "titulo": "ISM Manufacturing Prices",
+        "activo": "USD",
+        "fecha": "2025-01-03 10:00:00",
+        "impacto": "Medium",
+        "pronostico": "51.5",
+        "anterior": "50.3",
+        "actual": "52.5"
+    },
+    {
+        "titulo": "Wards Total Vehicle Sales",
+        "activo": "USD",
+        "fecha": "2025-01-03 00:00:00",
+        "impacto": "Low",
+        "pronostico": "16.5M",
+        "anterior": "16.5M",
+        "actual": "16.8M"
+    },
+    {
+        "titulo": "Natural Gas Storage",
+        "activo": "USD",
+        "fecha": "2025-01-03 10:30:00",
+        "impacto": "Low",
+        "pronostico": "-127B",
+        "anterior": "-93B",
+        "actual": "-116B"
+    },
+    {
+        "titulo": "FOMC Member Barkin Speaks",
+        "activo": "USD",
+        "fecha": "2025-01-03 11:00:00",
+        "impacto": "Low",
+        "pronostico": "",
+        "anterior": "",
+        "actual": ""
+    },
+    {
+        "titulo": "FOMC Member Daly Speaks",
+        "activo": "USD",
+        "fecha": "2025-01-04 17:30:00",
+        "impacto": "Low",
+        "pronostico": "",
+        "anterior": "",
+        "actual": ""
+    },
+    {
+        "titulo": "FOMC Member Kugler Speaks",
+        "activo": "USD",
+        "fecha": "2025-01-04 17:30:00",
+        "impacto": "Low",
+        "pronostico": "",
+        "anterior": "",
+        "actual": ""
+    },
+    {
+        "titulo": "FOMC Member Daly Speaks",
+        "activo": "USD",
+        "fecha": "2025-01-05 13:15:00",
+        "impacto": "Low",
+        "pronostico": "",
+        "anterior": "",
+        "actual": ""
+    },
+    {
+        "titulo": "Caixin Services PMI",
+        "activo": "CNY",
+        "fecha": "2025-01-05 20:45:00",
+        "impacto": "Low",
+        "pronostico": "51.4",
+        "anterior": "51.5",
+        "actual": "52.2"
+    },
+    {
+        "titulo": "Italian Bank Holiday",
+        "activo": "EUR",
+        "fecha": "2025-01-06 00:00:00",
+        "impacto": "Non",
+        "pronostico": "",
+        "anterior": "",
+        "actual": ""
+    },
+    {
+        "titulo": "German Prelim CPI m/m",
+        "activo": "EUR",
+        "fecha": "2025-01-06 00:00:00",
+        "impacto": "High",
+        "pronostico": "0.3%",
+        "anterior": "-0.2%",
+        "actual": "0.4%"
+    },
+    {
+        "titulo": "Retail Sales y/y",
+        "activo": "CHF",
+        "fecha": "2025-01-06 02:30:00",
+        "impacto": "Low",
+        "pronostico": "1.3%",
+        "anterior": "1.5%",
+        "actual": "0.8%"
+    },
+    {
+        "titulo": "Spanish Services PMI",
+        "activo": "EUR",
+        "fecha": "2025-01-06 03:15:00",
+        "impacto": "Low",
+        "pronostico": "54.1",
+        "anterior": "53.1",
+        "actual": "57.3"
+    },
+    {
+        "titulo": "Italian Services PMI",
+        "activo": "EUR",
+        "fecha": "2025-01-06 03:45:00",
+        "impacto": "Low",
+        "pronostico": "50.0",
+        "anterior": "49.2",
+        "actual": "50.7"
+    },
+    {
+        "titulo": "French Final Services PMI",
+        "activo": "EUR",
+        "fecha": "2025-01-06 03:50:00",
+        "impacto": "Low",
+        "pronostico": "48.2",
+        "anterior": "48.2",
+        "actual": "49.3"
+    },
+    {
+        "titulo": "German Final Services PMI",
+        "activo": "EUR",
+        "fecha": "2025-01-06 03:55:00",
+        "impacto": "Low",
+        "pronostico": "51.0",
+        "anterior": "51.0",
+        "actual": "51.2"
+    },
+    {
+        "titulo": "Final Services PMI",
+        "activo": "EUR",
+        "fecha": "2025-01-06 04:00:00",
+        "impacto": "Low",
+        "pronostico": "51.4",
+        "anterior": "51.4",
+        "actual": "51.6"
+    },
+    {
+        "titulo": "Sentix Investor Confidence",
+        "activo": "EUR",
+        "fecha": "2025-01-06 04:30:00",
+        "impacto": "Low",
+        "pronostico": "-17.7",
+        "anterior": "-17.5",
+        "actual": "-17.7"
+    },
+    {
+        "titulo": "Final Services PMI",
+        "activo": "GBP",
+        "fecha": "2025-01-06 04:30:00",
+        "impacto": "Low",
+        "pronostico": "51.4",
+        "anterior": "51.4",
+        "actual": "51.1"
+    },
+    {
+        "titulo": "FOMC Member Cook Speaks",
+        "activo": "USD",
+        "fecha": "2025-01-06 09:30:00",
+        "impacto": "Low",
+        "pronostico": "",
+        "anterior": "",
+        "actual": ""
+    },
+    {
+        "titulo": "Final Services PMI",
+        "activo": "USD",
+        "fecha": "2025-01-06 09:45:00",
+        "impacto": "Medium",
+        "pronostico": "58.5",
+        "anterior": "58.5",
+        "actual": "56.8"
+    },
+    {
+        "titulo": "Factory Orders m/m",
+        "activo": "USD",
+        "fecha": "2025-01-06 10:00:00",
+        "impacto": "Low",
+        "pronostico": "-0.3%",
+        "anterior": "0.5%",
+        "actual": "-0.4%"
+    },
+    {
+        "titulo": "Monetary Base y/y",
+        "activo": "JPY",
+        "fecha": "2025-01-06 18:50:00",
+        "impacto": "Low",
+        "pronostico": "-0.2%",
+        "anterior": "-0.3%",
+        "actual": "-1.0%"
+    },
+    {
+        "titulo": "BRC Retail Sales Monitor y/y",
+        "activo": "GBP",
+        "fecha": "2025-01-06 19:01:00",
+        "impacto": "Low",
+        "pronostico": "-0.2%",
+        "anterior": "-3.4%",
+        "actual": "3.1%"
+    },
+    {
+        "titulo": "Building Approvals m/m",
+        "activo": "AUD",
+        "fecha": "2025-01-06 19:30:00",
+        "impacto": "Low",
+        "pronostico": "-0.9%",
+        "anterior": "5.2%",
+        "actual": "-3.6%"
+    },
+    {
+        "titulo": "10-y Bond Auction",
+        "activo": "JPY",
+        "fecha": "2025-01-06 22:35:00",
+        "impacto": "Low",
+        "pronostico": "",
+        "anterior": "1.08|3.1",
+        "actual": "1.14|3.4"
+    },
+    {
+        "titulo": "Halifax HPI m/m",
+        "activo": "GBP",
+        "fecha": "2025-01-07 02:00:00",
+        "impacto": "Low",
+        "pronostico": "0.8%",
+        "anterior": "1.2%",
+        "actual": "-0.2%"
+    },
+    {
+        "titulo": "CPI m/m",
+        "activo": "CHF",
+        "fecha": "2025-01-07 02:30:00",
+        "impacto": "High",
+        "pronostico": "-0.1%",
+        "anterior": "-0.1%",
+        "actual": "-0.1%"
+    },
+    {
+        "titulo": "French Prelim CPI m/m",
+        "activo": "EUR",
+        "fecha": "2025-01-07 02:45:00",
+        "impacto": "Low",
+        "pronostico": "0.3%",
+        "anterior": "-0.1%",
+        "actual": "0.2%"
+    },
+    {
+        "titulo": "Italian Monthly Unemployment Rate",
+        "activo": "EUR",
+        "fecha": "2025-01-07 04:00:00",
+        "impacto": "Low",
+        "pronostico": "5.8%",
+        "anterior": "5.8%",
+        "actual": "5.7%"
+    },
+    {
+        "titulo": "Construction PMI",
+        "activo": "GBP",
+        "fecha": "2025-01-07 04:30:00",
+        "impacto": "Medium",
+        "pronostico": "54.3",
+        "anterior": "55.2",
+        "actual": "53.3"
+    },
+    {
+        "titulo": "Housing Equity Withdrawal q/q",
+        "activo": "GBP",
+        "fecha": "2025-01-07 04:30:00",
+        "impacto": "Low",
+        "pronostico": "-11.5B",
+        "anterior": "-15.2B",
+        "actual": "-12.5B"
+    },
+    {
+        "titulo": "Core CPI Flash Estimate y/y",
+        "activo": "EUR",
+        "fecha": "2025-01-07 05:00:00",
+        "impacto": "Medium",
+        "pronostico": "2.7%",
+        "anterior": "2.7%",
+        "actual": "2.7%"
+    },
+    {
+        "titulo": "CPI Flash Estimate y/y",
+        "activo": "EUR",
+        "fecha": "2025-01-07 05:00:00",
+        "impacto": "Medium",
+        "pronostico": "2.4%",
+        "anterior": "2.2%",
+        "actual": "2.4%"
+    },
+    {
+        "titulo": "Italian Prelim CPI m/m",
+        "activo": "EUR",
+        "fecha": "2025-01-07 05:00:00",
+        "impacto": "Low",
+        "pronostico": "0.3%",
+        "anterior": "0.0%",
+        "actual": "0.1%"
+    },
+    {
+        "titulo": "Unemployment Rate",
+        "activo": "EUR",
+        "fecha": "2025-01-07 05:00:00",
+        "impacto": "Low",
+        "pronostico": "6.3%",
+        "anterior": "6.3%",
+        "actual": "6.3%"
+    },
+    {
+        "titulo": "30-y Bond Auction",
+        "activo": "GBP",
+        "fecha": "2025-01-07 05:02:00",
+        "impacto": "Low",
+        "pronostico": "",
+        "anterior": "4.83|3.1",
+        "actual": "5.20|2.7"
+    },
+    {
+        "titulo": "FOMC Member Barkin Speaks",
+        "activo": "USD",
+        "fecha": "2025-01-07 08:00:00",
+        "impacto": "Low",
+        "pronostico": "",
+        "anterior": "",
+        "actual": ""
+    },
+    {
+        "titulo": "Trade Balance",
+        "activo": "CAD",
+        "fecha": "2025-01-07 08:30:00",
+        "impacto": "Low",
+        "pronostico": "-0.8B",
+        "anterior": "-0.5B",
+        "actual": "-0.3B"
+    },
+    {
+        "titulo": "Trade Balance",
+        "activo": "USD",
+        "fecha": "2025-01-07 08:30:00",
+        "impacto": "Low",
+        "pronostico": "-78.3B",
+        "anterior": "-73.6B",
+        "actual": "-78.2B"
+    },
+    {
+        "titulo": "GDT Price Index",
+        "activo": "NZD",
+        "fecha": "2025-01-07 09:54:00",
+        "impacto": "Low",
+        "pronostico": "",
+        "anterior": "-2.8%",
+        "actual": "-1.4%"
+    },
+    {
+        "titulo": "Ivey PMI",
+        "activo": "CAD",
+        "fecha": "2025-01-07 10:00:00",
+        "impacto": "Medium",
+        "pronostico": "55.4",
+        "anterior": "52.3",
+        "actual": "54.7"
+    },
+    {
+        "titulo": "ISM Services PMI",
+        "activo": "USD",
+        "fecha": "2025-01-07 10:00:00",
+        "impacto": "High",
+        "pronostico": "53.5",
+        "anterior": "52.1",
+        "actual": "54.1"
+    },
+    {
+        "titulo": "JOLTS Job Openings",
+        "activo": "USD",
+        "fecha": "2025-01-07 10:00:00",
+        "impacto": "High",
+        "pronostico": "7.73M",
+        "anterior": "7.84M",
+        "actual": "8.10M"
+    },
+    {
+        "titulo": "10-y Bond Auction",
+        "activo": "USD",
+        "fecha": "2025-01-07 13:01:00",
+        "impacto": "Low",
+        "pronostico": "",
+        "anterior": "4.24|2.7",
+        "actual": "4.68|2.5"
+    },
+    {
+        "titulo": "ANZ Commodity Prices m/m",
+        "activo": "NZD",
+        "fecha": "2025-01-07 19:00:00",
+        "impacto": "Low",
+        "pronostico": "",
+        "anterior": "2.9%",
+        "actual": "0.2%"
+    },
+    {
+        "titulo": "CPI y/y",
+        "activo": "AUD",
+        "fecha": "2025-01-07 19:30:00",
+        "impacto": "High",
+        "pronostico": "2.2%",
+        "anterior": "2.1%",
+        "actual": "2.3%"
+    },
+    {
+        "titulo": "Consumer Confidence",
+        "activo": "JPY",
+        "fecha": "2025-01-08 00:00:00",
+        "impacto": "Low",
+        "pronostico": "36.6",
+        "anterior": "36.4",
+        "actual": "36.2"
+    },
+    {
+        "titulo": "German Factory Orders m/m",
+        "activo": "EUR",
+        "fecha": "2025-01-08 02:00:00",
+        "impacto": "Low",
+        "pronostico": "-0.3%",
+        "anterior": "-1.5%",
+        "actual": "-5.4%"
+    },
+    {
+        "titulo": "German Retail Sales m/m",
+        "activo": "EUR",
+        "fecha": "2025-01-08 02:00:00",
+        "impacto": "Low",
+        "pronostico": "0.5%",
+        "anterior": "-0.3%",
+        "actual": "-0.6%"
+    },
+    {
+        "titulo": "French Trade Balance",
+        "activo": "EUR",
+        "fecha": "2025-01-08 02:45:00",
+        "impacto": "Low",
+        "pronostico": "-7.0B",
+        "anterior": "-7.5B",
+        "actual": "-7.1B"
+    },
+    {
+        "titulo": "PPI m/m",
+        "activo": "EUR",
+        "fecha": "2025-01-08 05:00:00",
+        "impacto": "Low",
+        "pronostico": "1.5%",
+        "anterior": "0.4%",
+        "actual": "1.6%"
+    },
+    {
+        "titulo": "German 10-y Bond Auction",
+        "activo": "EUR",
+        "fecha": "2025-01-08 05:38:00",
+        "impacto": "Low",
+        "pronostico": "",
+        "anterior": "2.07|2.4",
+        "actual": "2.51|2.1"
+    },
+    {
+        "titulo": "FOMC Member Waller Speaks",
+        "activo": "USD",
+        "fecha": "2025-01-08 08:00:00",
+        "impacto": "Medium",
+        "pronostico": "",
+        "anterior": "",
+        "actual": ""
+    },
+    {
+        "titulo": "ADP Non-Farm Employment Change",
+        "activo": "USD",
+        "fecha": "2025-01-08 08:15:00",
+        "impacto": "High",
+        "pronostico": "139K",
+        "anterior": "146K",
+        "actual": "122K"
+    },
+    {
+        "titulo": "Unemployment Claims",
+        "activo": "USD",
+        "fecha": "2025-01-08 08:30:00",
+        "impacto": "High",
+        "pronostico": "214K",
+        "anterior": "211K",
+        "actual": "201K"
+    },
+    {
+        "titulo": "Final Wholesale Inventories m/m",
+        "activo": "USD",
+        "fecha": "2025-01-08 10:00:00",
+        "impacto": "Low",
+        "pronostico": "-0.2%",
+        "anterior": "-0.2%",
+        "actual": "-0.2%"
+    },
+    {
+        "titulo": "Crude Oil Inventories",
+        "activo": "USD",
+        "fecha": "2025-01-08 10:30:00",
+        "impacto": "Medium",
+        "pronostico": "-1.8M",
+        "anterior": "-1.2M",
+        "actual": "-1.0M"
+    },
+    {
+        "titulo": "Natural Gas Storage",
+        "activo": "USD",
+        "fecha": "2025-01-08 12:00:00",
+        "impacto": "Low",
+        "pronostico": "-39B",
+        "anterior": "-116B",
+        "actual": "-40B"
+    },
+    {
+        "titulo": "30-y Bond Auction",
+        "activo": "USD",
+        "fecha": "2025-01-08 13:01:00",
+        "impacto": "Low",
+        "pronostico": "",
+        "anterior": "4.54|2.4",
+        "actual": "4.91|2.5"
+    },
+    {
+        "titulo": "FOMC Meeting Minutes",
+        "activo": "USD",
+        "fecha": "2025-01-08 14:00:00",
+        "impacto": "High",
+        "pronostico": "",
+        "anterior": "",
+        "actual": ""
+    },
+    {
+        "titulo": "Consumer Credit m/m",
+        "activo": "USD",
+        "fecha": "2025-01-08 15:00:00",
+        "impacto": "Low",
+        "pronostico": "10.3B",
+        "anterior": "17.3B",
+        "actual": "-7.5B"
+    },
+    {
+        "titulo": "Average Cash Earnings y/y",
+        "activo": "JPY",
+        "fecha": "2025-01-08 18:30:00",
+        "impacto": "Low",
+        "pronostico": "2.7%",
+        "anterior": "2.2%",
+        "actual": "3.0%"
+    },
+    {
+        "titulo": "BRC Shop Price Index y/y",
+        "activo": "GBP",
+        "fecha": "2025-01-08 19:01:00",
+        "impacto": "Low",
+        "pronostico": "",
+        "anterior": "-0.6%",
+        "actual": "-1.0%"
+    },
+    {
+        "titulo": "Retail Sales m/m",
+        "activo": "AUD",
+        "fecha": "2025-01-08 19:30:00",
+        "impacto": "Medium",
+        "pronostico": "1.0%",
+        "anterior": "0.5%",
+        "actual": "0.8%"
+    },
+    {
+        "titulo": "Goods Trade Balance",
+        "activo": "AUD",
+        "fecha": "2025-01-08 19:30:00",
+        "impacto": "Low",
+        "pronostico": "5.62B",
+        "anterior": "5.67B",
+        "actual": "7.08B"
+    },
+    {
+        "titulo": "CPI y/y",
+        "activo": "CNY",
+        "fecha": "2025-01-08 20:30:00",
+        "impacto": "Medium",
+        "pronostico": "0.1%",
+        "anterior": "0.2%",
+        "actual": "0.1%"
+    },
+    {
+        "titulo": "PPI y/y",
+        "activo": "CNY",
+        "fecha": "2025-01-08 20:30:00",
+        "impacto": "Medium",
+        "pronostico": "-2.4%",
+        "anterior": "-2.5%",
+        "actual": "-2.3%"
+    },
+    {
+        "titulo": "30-y Bond Auction",
+        "activo": "JPY",
+        "fecha": "2025-01-08 22:35:00",
+        "impacto": "Low",
+        "pronostico": "",
+        "anterior": "2.29|3.5",
+        "actual": "2.30|3.7"
+    },
+    {
+        "titulo": "German Industrial Production m/m",
+        "activo": "EUR",
+        "fecha": "2025-01-09 02:00:00",
+        "impacto": "Low",
+        "pronostico": "0.5%",
+        "anterior": "-0.4%",
+        "actual": "1.5%"
+    },
+    {
+        "titulo": "German Trade Balance",
+        "activo": "EUR",
+        "fecha": "2025-01-09 02:00:00",
+        "impacto": "Low",
+        "pronostico": "14.7B",
+        "anterior": "13.4B",
+        "actual": "19.7B"
+    },
+    {
+        "titulo": "Foreign Currency Reserves",
+        "activo": "CHF",
+        "fecha": "2025-01-09 03:00:00",
+        "impacto": "Low",
+        "pronostico": "",
+        "anterior": "725B",
+        "actual": "731B"
+    },
+    {
+        "titulo": "ECB Economic Bulletin",
+        "activo": "EUR",
+        "fecha": "2025-01-09 04:00:00",
+        "impacto": "Low",
+        "pronostico": "",
+        "anterior": "",
+        "actual": ""
+    },
+    {
+        "titulo": "French 10-y Bond Auction",
+        "activo": "EUR",
+        "fecha": "2025-01-09 04:59:00",
+        "impacto": "Low",
+        "pronostico": "",
+        "anterior": "3.24|2.0",
+        "actual": "3.40|2.0"
+    },
+    {
+        "titulo": "Retail Sales m/m",
+        "activo": "EUR",
+        "fecha": "2025-01-09 05:00:00",
+        "impacto": "Low",
+        "pronostico": "0.3%",
+        "anterior": "-0.3%",
+        "actual": "0.1%"
+    },
+    {
+        "titulo": "Challenger Job Cuts y/y",
+        "activo": "USD",
+        "fecha": "2025-01-09 07:30:00",
+        "impacto": "Low",
+        "pronostico": "",
+        "anterior": "26.8%",
+        "actual": "11.4%"
+    },
+    {
+        "titulo": "FOMC Member Collins Speaks",
+        "activo": "USD",
+        "fecha": "2025-01-09 09:00:00",
+        "impacto": "Low",
+        "pronostico": "",
+        "anterior": "",
+        "actual": ""
+    },
+    {
+        "titulo": "FOMC Member Harker Speaks",
+        "activo": "USD",
+        "fecha": "2025-01-09 09:00:00",
+        "impacto": "Low",
+        "pronostico": "",
+        "anterior": "",
+        "actual": ""
+    },
+    {
+        "titulo": "MPC Member Breeden Speaks",
+        "activo": "GBP",
+        "fecha": "2025-01-09 11:00:00",
+        "impacto": "Low",
+        "pronostico": "",
+        "anterior": "",
+        "actual": ""
+    },
+    {
+        "titulo": "FOMC Member Barkin Speaks",
+        "activo": "USD",
+        "fecha": "2025-01-09 12:45:00",
+        "impacto": "Low",
+        "pronostico": "",
+        "anterior": "",
+        "actual": ""
+    },
+    {
+        "titulo": "FOMC Member Schmid Speaks",
+        "activo": "USD",
+        "fecha": "2025-01-09 13:30:00",
+        "impacto": "Low",
+        "pronostico": "",
+        "anterior": "",
+        "actual": ""
+    },
+    {
+        "titulo": "FOMC Member Bowman Speaks",
+        "activo": "USD",
+        "fecha": "2025-01-09 13:35:00",
+        "impacto": "Low",
+        "pronostico": "",
+        "anterior": "",
+        "actual": ""
+    },
+    {
+        "titulo": "Household Spending y/y",
+        "activo": "JPY",
+        "fecha": "2025-01-09 18:30:00",
+        "impacto": "Low",
+        "pronostico": "-0.8%",
+        "anterior": "-1.3%",
+        "actual": "-0.4%"
+    },
+    {
+        "titulo": "Leading Indicators",
+        "activo": "JPY",
+        "fecha": "2025-01-10 00:00:00",
+        "impacto": "Low",
+        "pronostico": "107.2%",
+        "anterior": "109.1%",
+        "actual": "107.0%"
+    },
+    {
+        "titulo": "Unemployment Rate",
+        "activo": "CHF",
+        "fecha": "2025-01-10 01:45:00",
+        "impacto": "Low",
+        "pronostico": "2.7%",
+        "anterior": "2.6%",
+        "actual": "2.6%"
+    },
+    {
+        "titulo": "French Consumer Spending m/m",
+        "activo": "EUR",
+        "fecha": "2025-01-10 02:45:00",
+        "impacto": "Low",
+        "pronostico": "0.1%",
+        "anterior": "-0.3%",
+        "actual": "0.3%"
+    },
+    {
+        "titulo": "French Industrial Production m/m",
+        "activo": "EUR",
+        "fecha": "2025-01-10 02:45:00",
+        "impacto": "Low",
+        "pronostico": "-0.1%",
+        "anterior": "-0.3%",
+        "actual": "0.2%"
+    },
+    {
+        "titulo": "Italian Retail Sales m/m",
+        "activo": "EUR",
+        "fecha": "2025-01-10 04:00:00",
+        "impacto": "Low",
+        "pronostico": "0.2%",
+        "anterior": "-0.5%",
+        "actual": "-0.4%"
+    },
+    {
+        "titulo": "Employment Change",
+        "activo": "CAD",
+        "fecha": "2025-01-10 08:30:00",
+        "impacto": "High",
+        "pronostico": "24.9K",
+        "anterior": "50.5K",
+        "actual": "90.9K"
+    },
+    {
+        "titulo": "Unemployment Rate",
+        "activo": "CAD",
+        "fecha": "2025-01-10 08:30:00",
+        "impacto": "High",
+        "pronostico": "6.9%",
+        "anterior": "6.8%",
+        "actual": "6.7%"
+    },
+    {
+        "titulo": "Building Permits m/m",
+        "activo": "CAD",
+        "fecha": "2025-01-10 08:30:00",
+        "impacto": "Low",
+        "pronostico": "1.3%",
+        "anterior": "-4.1%",
+        "actual": "-5.9%"
+    },
+    {
+        "titulo": "Average Hourly Earnings m/m",
+        "activo": "USD",
+        "fecha": "2025-01-10 08:30:00",
+        "impacto": "High",
+        "pronostico": "0.3%",
+        "anterior": "0.4%",
+        "actual": "0.3%"
+    },
+    {
+        "titulo": "Non-Farm Employment Change",
+        "activo": "USD",
+        "fecha": "2025-01-10 08:30:00",
+        "impacto": "High",
+        "pronostico": "164K",
+        "anterior": "212K",
+        "actual": "256K"
+    },
+    {
+        "titulo": "Unemployment Rate",
+        "activo": "USD",
+        "fecha": "2025-01-10 08:30:00",
+        "impacto": "High",
+        "pronostico": "4.2%",
+        "anterior": "4.2%",
+        "actual": "4.1%"
+    },
+    {
+        "titulo": "Prelim UoM Consumer Sentiment",
+        "activo": "USD",
+        "fecha": "2025-01-10 10:00:00",
+        "impacto": "Medium",
+        "pronostico": "74.0",
+        "anterior": "74.0",
+        "actual": "73.2"
+    },
+    {
+        "titulo": "Prelim UoM Inflation Expectations",
+        "activo": "USD",
+        "fecha": "2025-01-10 10:00:00",
+        "impacto": "Medium",
+        "pronostico": "",
+        "anterior": "2.8%",
+        "actual": "3.3%"
+    },
+    {
+        "titulo": "FOMC Member Goolsbee Speaks",
+        "activo": "USD",
+        "fecha": "2025-01-10 10:05:00",
+        "impacto": "Low",
+        "pronostico": "",
+        "anterior": "",
+        "actual": ""
+    },
+    {
+        "titulo": "Building Consents m/m",
+        "activo": "NZD",
+        "fecha": "2025-01-12 16:45:00",
+        "impacto": "Low",
+        "pronostico": "",
+        "anterior": "-5.2%",
+        "actual": "5.3%"
+    },
+    {
+        "titulo": "MI Inflation Gauge m/m",
+        "activo": "AUD",
+        "fecha": "2025-01-12 19:00:00",
+        "impacto": "Low",
+        "pronostico": "",
+        "anterior": "0.2%",
+        "actual": "0.6%"
+    },
+    {
+        "titulo": "Bank Holiday",
+        "activo": "JPY",
+        "fecha": "2025-01-12 00:00:00",
+        "impacto": "Non",
+        "pronostico": "",
+        "anterior": "",
+        "actual": ""
+    },
+    {
+        "titulo": "ANZ Job Advertisements m/m",
+        "activo": "AUD",
+        "fecha": "2025-01-12 19:30:00",
+        "impacto": "Low",
+        "pronostico": "",
+        "anterior": "-1.8%",
+        "actual": "0.3%"
+    },
+    {
+        "titulo": "Trade Balance",
+        "activo": "CNY",
+        "fecha": "2025-01-12 22:02:00",
+        "impacto": "Low",
+        "pronostico": "730B",
+        "anterior": "693B",
+        "actual": "753B"
+    },
+    {
+        "titulo": "USD-Denominated Trade Balance",
+        "activo": "CNY",
+        "fecha": "2025-01-12 22:03:00",
+        "impacto": "Low",
+        "pronostico": "100.0B",
+        "anterior": "97.4B",
+        "actual": "104.8B"
+    },
+    {
+        "titulo": "SECO Consumer Climate",
+        "activo": "CHF",
+        "fecha": "2025-01-13 03:00:00",
+        "impacto": "Low",
+        "pronostico": "-38",
+        "anterior": "-37",
+        "actual": "-30"
+    },
+    {
+        "titulo": "NZIER Business Confidence",
+        "activo": "NZD",
+        "fecha": "2025-01-13 16:00:00",
+        "impacto": "Low",
+        "pronostico": "",
+        "anterior": "-1",
+        "actual": "16"
+    },
+    {
+        "titulo": "Westpac Consumer Sentiment",
+        "activo": "AUD",
+        "fecha": "2025-01-13 18:30:00",
+        "impacto": "Low",
+        "pronostico": "",
+        "anterior": "-2.0%",
+        "actual": "-0.7%"
+    },
+    {
+        "titulo": "Bank Lending y/y",
+        "activo": "JPY",
+        "fecha": "2025-01-13 18:50:00",
+        "impacto": "Low",
+        "pronostico": "3.1%",
+        "anterior": "2.9%",
+        "actual": "3.1%"
+    },
+    {
+        "titulo": "Current Account",
+        "activo": "JPY",
+        "fecha": "2025-01-13 18:50:00",
+        "impacto": "Low",
+        "pronostico": "2.59T",
+        "anterior": "2.41T",
+        "actual": "3.03T"
+    },
+    {
+        "titulo": "Economy Watchers Sentiment",
+        "activo": "JPY",
+        "fecha": "2025-01-14 00:00:00",
+        "impacto": "Low",
+        "pronostico": "49.4",
+        "anterior": "49.4",
+        "actual": "49.9"
+    },
+    {
+        "titulo": "M2 Money Supply y/y",
+        "activo": "CNY",
+        "fecha": "2025-01-14 02:05:00",
+        "impacto": "Low",
+        "pronostico": "7.3%",
+        "anterior": "7.1%",
+        "actual": "7.3%"
+    },
+    {
+        "titulo": "New Loans",
+        "activo": "CNY",
+        "fecha": "2025-01-14 02:09:00",
+        "impacto": "Medium",
+        "pronostico": "890B",
+        "anterior": "580B",
+        "actual": "990B"
+    },
+    {
+        "titulo": "French Gov Budget Balance",
+        "activo": "EUR",
+        "fecha": "2025-01-14 02:45:00",
+        "impacto": "Low",
+        "pronostico": "",
+        "anterior": "-157.4B",
+        "actual": "-172.5B"
+    },
+    {
+        "titulo": "MPC Member Breeden Speaks",
+        "activo": "GBP",
+        "fecha": "2025-01-14 03:30:00",
+        "impacto": "Low",
+        "pronostico": "",
+        "anterior": "",
+        "actual": ""
+    },
+    {
+        "titulo": "Italian Industrial Production m/m",
+        "activo": "EUR",
+        "fecha": "2025-01-14 04:00:00",
+        "impacto": "Low",
+        "pronostico": "0.0%",
+        "anterior": "0.1%",
+        "actual": "0.3%"
+    },
+    {
+        "titulo": "NFIB Small Business Index",
+        "activo": "USD",
+        "fecha": "2025-01-14 06:00:00",
+        "impacto": "Low",
+        "pronostico": "101.3",
+        "anterior": "101.7",
+        "actual": "105.1"
+    },
+    {
+        "titulo": "Core PPI m/m",
+        "activo": "USD",
+        "fecha": "2025-01-14 08:30:00",
+        "impacto": "High",
+        "pronostico": "0.2%",
+        "anterior": "0.2%",
+        "actual": "0.0%"
+    },
+    {
+        "titulo": "PPI m/m",
+        "activo": "USD",
+        "fecha": "2025-01-14 08:30:00",
+        "impacto": "High",
+        "pronostico": "0.4%",
+        "anterior": "0.4%",
+        "actual": "0.2%"
+    },
+    {
+        "titulo": "FOMC Member Schmid Speaks",
+        "activo": "USD",
+        "fecha": "2025-01-14 10:00:00",
+        "impacto": "Low",
+        "pronostico": "",
+        "anterior": "",
+        "actual": ""
+    },
+    {
+        "titulo": "RCM/TIPP Economic Optimism",
+        "activo": "USD",
+        "fecha": "2025-01-14 10:06:00",
+        "impacto": "Low",
+        "pronostico": "55.1",
+        "anterior": "54.0",
+        "actual": "51.9"
+    },
+    {
+        "titulo": "Federal Budget Balance",
+        "activo": "USD",
+        "fecha": "2025-01-14 14:00:00",
+        "impacto": "Low",
+        "pronostico": "-77.6B",
+        "anterior": "-366.8B",
+        "actual": "-86.7B"
+    },
+    {
+        "titulo": "FOMC Member Williams Speaks",
+        "activo": "USD",
+        "fecha": "2025-01-14 15:00:00",
+        "impacto": "Low",
+        "pronostico": "",
+        "anterior": "",
+        "actual": ""
+    },
+    {
+        "titulo": "M2 Money Stock y/y",
+        "activo": "JPY",
+        "fecha": "2025-01-14 18:50:00",
+        "impacto": "Low",
+        "pronostico": "1.2%",
+        "anterior": "1.2%",
+        "actual": "1.3%"
+    },
+    {
+        "titulo": "Prelim Machine Tool Orders y/y",
+        "activo": "JPY",
+        "fecha": "2025-01-15 00:58:00",
+        "impacto": "Low",
+        "pronostico": "",
+        "anterior": "3.0%",
+        "actual": "11.2%"
+    },
+    {
+        "titulo": "German WPI m/m",
+        "activo": "EUR",
+        "fecha": "2025-01-15 02:00:00",
+        "impacto": "Low",
+        "pronostico": "0.1%",
+        "anterior": "0.0%",
+        "actual": "0.1%"
+    },
+    {
+        "titulo": "CPI y/y",
+        "activo": "GBP",
+        "fecha": "2025-01-15 02:00:00",
+        "impacto": "High",
+        "pronostico": "2.6%",
+        "anterior": "2.6%",
+        "actual": "2.5%"
+    },
+    {
+        "titulo": "Core CPI y/y",
+        "activo": "GBP",
+        "fecha": "2025-01-15 02:00:00",
+        "impacto": "Low",
+        "pronostico": "3.4%",
+        "anterior": "3.5%",
+        "actual": "3.2%"
+    },
+    {
+        "titulo": "PPI Input m/m",
+        "activo": "GBP",
+        "fecha": "2025-01-15 02:00:00",
+        "impacto": "Low",
+        "pronostico": "0.2%",
+        "anterior": "0.0%",
+        "actual": "0.1%"
+    },
+    {
+        "titulo": "PPI Output m/m",
+        "activo": "GBP",
+        "fecha": "2025-01-15 02:00:00",
+        "impacto": "Low",
+        "pronostico": "0.1%",
+        "anterior": "0.4%",
+        "actual": "0.1%"
+    },
+    {
+        "titulo": "RPI y/y",
+        "activo": "GBP",
+        "fecha": "2025-01-15 02:00:00",
+        "impacto": "Low",
+        "pronostico": "3.8%",
+        "anterior": "3.6%",
+        "actual": "3.5%"
+    },
+    {
+        "titulo": "French Final CPI m/m",
+        "activo": "EUR",
+        "fecha": "2025-01-15 02:45:00",
+        "impacto": "Low",
+        "pronostico": "0.2%",
+        "anterior": "0.2%",
+        "actual": "0.2%"
+    },
+    {
+        "titulo": "HPI y/y",
+        "activo": "GBP",
+        "fecha": "2025-01-15 04:30:00",
+        "impacto": "Low",
+        "pronostico": "3.5%",
+        "anterior": "3.4%",
+        "actual": "3.3%"
+    },
+    {
+        "titulo": "Industrial Production m/m",
+        "activo": "EUR",
+        "fecha": "2025-01-15 05:00:00",
+        "impacto": "Low",
+        "pronostico": "0.3%",
+        "anterior": "0.2%",
+        "actual": "0.2%"
+    },
+    {
+        "titulo": "10-y Bond Auction",
+        "activo": "GBP",
+        "fecha": "2025-01-15 05:02:00",
+        "impacto": "Low",
+        "pronostico": "",
+        "anterior": "4.33|2.9",
+        "actual": "4.81|2.8"
+    },
+    {
+        "titulo": "German 30-y Bond Auction",
+        "activo": "EUR",
+        "fecha": "2025-01-15 05:34:00",
+        "impacto": "Low",
+        "pronostico": "",
+        "anterior": "2.55|3.6",
+        "actual": "2.84|2.8"
+    },
+    {
+        "titulo": "Manufacturing Sales m/m",
+        "activo": "CAD",
+        "fecha": "2025-01-15 08:30:00",
+        "impacto": "Low",
+        "pronostico": "0.4%",
+        "anterior": "2.1%",
+        "actual": "0.8%"
+    },
+    {
+        "titulo": "Wholesale Sales m/m",
+        "activo": "CAD",
+        "fecha": "2025-01-15 08:30:00",
+        "impacto": "Low",
+        "pronostico": "-0.6%",
+        "anterior": "1.3%",
+        "actual": "-0.2%"
+    },
+    {
+        "titulo": "Core CPI m/m",
+        "activo": "USD",
+        "fecha": "2025-01-15 08:30:00",
+        "impacto": "High",
+        "pronostico": "0.3%",
+        "anterior": "0.3%",
+        "actual": "0.2%"
+    },
+    {
+        "titulo": "CPI m/m",
+        "activo": "USD",
+        "fecha": "2025-01-15 08:30:00",
+        "impacto": "High",
+        "pronostico": "0.4%",
+        "anterior": "0.3%",
+        "actual": "0.4%"
+    },
+    {
+        "titulo": "CPI y/y",
+        "activo": "USD",
+        "fecha": "2025-01-15 08:30:00",
+        "impacto": "High",
+        "pronostico": "2.9%",
+        "anterior": "2.7%",
+        "actual": "2.9%"
+    },
+    {
+        "titulo": "Empire State Manufacturing Index",
+        "activo": "USD",
+        "fecha": "2025-01-15 08:30:00",
+        "impacto": "Medium",
+        "pronostico": "2.7",
+        "anterior": "0.2",
+        "actual": "-12.6"
+    },
+    {
+        "titulo": "FOMC Member Barkin Speaks",
+        "activo": "USD",
+        "fecha": "2025-01-15 09:20:00",
+        "impacto": "Low",
+        "pronostico": "",
+        "anterior": "",
+        "actual": ""
+    },
+    {
+        "titulo": "FOMC Member Kashkari Speaks",
+        "activo": "USD",
+        "fecha": "2025-01-15 10:00:00",
+        "impacto": "Low",
+        "pronostico": "",
+        "anterior": "",
+        "actual": ""
+    },
+    {
+        "titulo": "Crude Oil Inventories",
+        "activo": "USD",
+        "fecha": "2025-01-15 10:30:00",
+        "impacto": "Medium",
+        "pronostico": "-1.0M",
+        "anterior": "-1.0M",
+        "actual": "-2.0M"
+    },
+    {
+        "titulo": "FOMC Member Williams Speaks",
+        "activo": "USD",
+        "fecha": "2025-01-15 11:00:00",
+        "impacto": "Low",
+        "pronostico": "",
+        "anterior": "",
+        "actual": ""
+    },
+    {
+        "titulo": "MPC Member Taylor Speaks",
+        "activo": "GBP",
+        "fecha": "2025-01-15 11:30:00",
+        "impacto": "Low",
+        "pronostico": "",
+        "anterior": "",
+        "actual": ""
+    },
+    {
+        "titulo": "FOMC Member Goolsbee Speaks",
+        "activo": "USD",
+        "fecha": "2025-01-15 12:00:00",
+        "impacto": "Low",
+        "pronostico": "",
+        "anterior": "",
+        "actual": ""
+    },
+    {
+        "titulo": "Beige Book",
+        "activo": "USD",
+        "fecha": "2025-01-15 14:00:00",
+        "impacto": "Low",
+        "pronostico": "",
+        "anterior": "",
+        "actual": ""
+    },
+    {
+        "titulo": "FPI m/m",
+        "activo": "NZD",
+        "fecha": "2025-01-15 16:45:00",
+        "impacto": "Low",
+        "pronostico": "",
+        "anterior": "-0.1%",
+        "actual": "0.1%"
+    },
+    {
+        "titulo": "PPI y/y",
+        "activo": "JPY",
+        "fecha": "2025-01-15 18:50:00",
+        "impacto": "Low",
+        "pronostico": "3.8%",
+        "anterior": "3.8%",
+        "actual": "3.8%"
+    },
+    {
+        "titulo": "MI Inflation Expectations",
+        "activo": "AUD",
+        "fecha": "2025-01-15 19:00:00",
+        "impacto": "Low",
+        "pronostico": "",
+        "anterior": "4.2%",
+        "actual": "4.0%"
+    },
+    {
+        "titulo": "RICS House Price Balance",
+        "activo": "GBP",
+        "fecha": "2025-01-15 19:01:00",
+        "impacto": "Low",
+        "pronostico": "28%",
+        "anterior": "24%",
+        "actual": "28%"
+    },
+    {
+        "titulo": "Employment Change",
+        "activo": "AUD",
+        "fecha": "2025-01-15 19:30:00",
+        "impacto": "High",
+        "pronostico": "14.5K",
+        "anterior": "28.2K",
+        "actual": "56.3K"
+    },
+    {
+        "titulo": "Unemployment Rate",
+        "activo": "AUD",
+        "fecha": "2025-01-15 19:30:00",
+        "impacto": "High",
+        "pronostico": "4.0%",
+        "anterior": "3.9%",
+        "actual": "4.0%"
+    },
+    {
+        "titulo": "German Final CPI m/m",
+        "activo": "EUR",
+        "fecha": "2025-01-16 02:00:00",
+        "impacto": "Low",
+        "pronostico": "0.4%",
+        "anterior": "0.4%",
+        "actual": "0.5%"
+    },
+    {
+        "titulo": "GDP m/m",
+        "activo": "GBP",
+        "fecha": "2025-01-16 02:00:00",
+        "impacto": "High",
+        "pronostico": "0.2%",
+        "anterior": "-0.1%",
+        "actual": "0.1%"
+    },
+    {
+        "titulo": "Construction Output m/m",
+        "activo": "GBP",
+        "fecha": "2025-01-16 02:00:00",
+        "impacto": "Low",
+        "pronostico": "0.4%",
+        "anterior": "-0.3%",
+        "actual": "0.4%"
+    },
+    {
+        "titulo": "Goods Trade Balance",
+        "activo": "GBP",
+        "fecha": "2025-01-16 02:00:00",
+        "impacto": "Low",
+        "pronostico": "-18.0B",
+        "anterior": "-19.3B",
+        "actual": "-19.3B"
+    },
+    {
+        "titulo": "Index of Services 3m/3m",
+        "activo": "GBP",
+        "fecha": "2025-01-16 02:00:00",
+        "impacto": "Low",
+        "pronostico": "0.1%",
+        "anterior": "0.0%",
+        "actual": "0.0%"
+    },
+    {
+        "titulo": "Industrial Production m/m",
+        "activo": "GBP",
+        "fecha": "2025-01-16 02:00:00",
+        "impacto": "Low",
+        "pronostico": "0.1%",
+        "anterior": "-0.6%",
+        "actual": "-0.4%"
+    },
+    {
+        "titulo": "Manufacturing Production m/m",
+        "activo": "GBP",
+        "fecha": "2025-01-16 02:00:00",
+        "impacto": "Low",
+        "pronostico": "-0.2%",
+        "anterior": "-0.6%",
+        "actual": "-0.3%"
+    },
+    {
+        "titulo": "BOE Credit Conditions Survey",
+        "activo": "GBP",
+        "fecha": "2025-01-16 04:30:00",
+        "impacto": "Low",
+        "pronostico": "",
+        "anterior": "",
+        "actual": ""
+    },
+    {
+        "titulo": "Italian Trade Balance",
+        "activo": "EUR",
+        "fecha": "2025-01-16 05:00:00",
+        "impacto": "Low",
+        "pronostico": "4.50B",
+        "anterior": "5.07B",
+        "actual": "4.22B"
+    },
+    {
+        "titulo": "Trade Balance",
+        "activo": "EUR",
+        "fecha": "2025-01-16 05:00:00",
+        "impacto": "Low",
+        "pronostico": "11.8B",
+        "anterior": "7.0B",
+        "actual": "12.9B"
+    },
+    {
+        "titulo": "ECB Monetary Policy Meeting Accounts",
+        "activo": "EUR",
+        "fecha": "2025-01-16 07:30:00",
+        "impacto": "Low",
+        "pronostico": "",
+        "anterior": "",
+        "actual": ""
+    },
+    {
+        "titulo": "NIESR GDP Estimate",
+        "activo": "GBP",
+        "fecha": "2025-01-16 07:45:00",
+        "impacto": "Low",
+        "pronostico": "",
+        "anterior": "0.0%",
+        "actual": "0.0%"
+    },
+    {
+        "titulo": "Housing Starts",
+        "activo": "CAD",
+        "fecha": "2025-01-16 08:15:00",
+        "impacto": "Low",
+        "pronostico": "252K",
+        "anterior": "267K",
+        "actual": "231K"
+    },
+    {
+        "titulo": "Core Retail Sales m/m",
+        "activo": "USD",
+        "fecha": "2025-01-16 08:30:00",
+        "impacto": "High",
+        "pronostico": "0.5%",
+        "anterior": "0.2%",
+        "actual": "0.4%"
+    },
+    {
+        "titulo": "Retail Sales m/m",
+        "activo": "USD",
+        "fecha": "2025-01-16 08:30:00",
+        "impacto": "High",
+        "pronostico": "0.6%",
+        "anterior": "0.8%",
+        "actual": "0.4%"
+    },
+    {
+        "titulo": "Unemployment Claims",
+        "activo": "USD",
+        "fecha": "2025-01-16 08:30:00",
+        "impacto": "High",
+        "pronostico": "210K",
+        "anterior": "203K",
+        "actual": "217K"
+    },
+    {
+        "titulo": "Philly Fed Manufacturing Index",
+        "activo": "USD",
+        "fecha": "2025-01-16 08:30:00",
+        "impacto": "Medium",
+        "pronostico": "-5.2",
+        "anterior": "-16.4",
+        "actual": "44.3"
+    },
+    {
+        "titulo": "Import Prices m/m",
+        "activo": "USD",
+        "fecha": "2025-01-16 08:30:00",
+        "impacto": "Low",
+        "pronostico": "-0.1%",
+        "anterior": "0.1%",
+        "actual": "0.1%"
+    },
+    {
+        "titulo": "Business Inventories m/m",
+        "activo": "USD",
+        "fecha": "2025-01-16 10:00:00",
+        "impacto": "Low",
+        "pronostico": "0.1%",
+        "anterior": "0.0%",
+        "actual": "0.1%"
+    },
+    {
+        "titulo": "NAHB Housing Market Index",
+        "activo": "USD",
+        "fecha": "2025-01-16 10:00:00",
+        "impacto": "Low",
+        "pronostico": "45",
+        "anterior": "46",
+        "actual": "47"
+    },
+    {
+        "titulo": "CB Leading Index m/m",
+        "activo": "AUD",
+        "fecha": "2025-01-16 10:30:00",
+        "impacto": "Low",
+        "pronostico": "",
+        "anterior": "0.1%",
+        "actual": "0.7%"
+    },
+    {
+        "titulo": "Natural Gas Storage",
+        "activo": "USD",
+        "fecha": "2025-01-16 10:30:00",
+        "impacto": "Low",
+        "pronostico": "-260B",
+        "anterior": "-40B",
+        "actual": "-258B"
+    },
+    {
+        "titulo": "Gov Council Member Gravelle Speaks",
+        "activo": "CAD",
+        "fecha": "2025-01-16 12:30:00",
+        "impacto": "Low",
+        "pronostico": "",
+        "anterior": "",
+        "actual": ""
+    },
+    {
+        "titulo": "BusinessNZ Manufacturing Index",
+        "activo": "NZD",
+        "fecha": "2025-01-16 16:30:00",
+        "impacto": "Low",
+        "pronostico": "",
+        "anterior": "45.2",
+        "actual": "45.9"
+    },
+    {
+        "titulo": "New Home Prices m/m",
+        "activo": "CNY",
+        "fecha": "2025-01-16 20:30:00",
+        "impacto": "Low",
+        "pronostico": "",
+        "anterior": "-0.20%",
+        "actual": "-0.08%"
+    },
+    {
+        "titulo": "GDP q/y",
+        "activo": "CNY",
+        "fecha": "2025-01-16 21:00:00",
+        "impacto": "Medium",
+        "pronostico": "5.0%",
+        "anterior": "4.6%",
+        "actual": "5.4%"
+    },
+    {
+        "titulo": "Industrial Production y/y",
+        "activo": "CNY",
+        "fecha": "2025-01-16 21:00:00",
+        "impacto": "Medium",
+        "pronostico": "5.4%",
+        "anterior": "5.4%",
+        "actual": "6.2%"
+    },
+    {
+        "titulo": "Retail Sales y/y",
+        "activo": "CNY",
+        "fecha": "2025-01-16 21:00:00",
+        "impacto": "Medium",
+        "pronostico": "3.5%",
+        "anterior": "3.0%",
+        "actual": "3.7%"
+    },
+    {
+        "titulo": "Fixed Asset Investment ytd/y",
+        "activo": "CNY",
+        "fecha": "2025-01-16 21:00:00",
+        "impacto": "Low",
+        "pronostico": "3.3%",
+        "anterior": "3.3%",
+        "actual": "3.2%"
+    },
+    {
+        "titulo": "NBS Press Conference",
+        "activo": "CNY",
+        "fecha": "2025-01-16 21:00:00",
+        "impacto": "Low",
+        "pronostico": "",
+        "anterior": "",
+        "actual": ""
+    },
+    {
+        "titulo": "Unemployment Rate",
+        "activo": "CNY",
+        "fecha": "2025-01-16 21:00:00",
+        "impacto": "Low",
+        "pronostico": "5.0%",
+        "anterior": "5.0%",
+        "actual": "5.1%"
+    },
+    {
+        "titulo": "Retail Sales m/m",
+        "activo": "GBP",
+        "fecha": "2025-01-17 02:00:00",
+        "impacto": "High",
+        "pronostico": "0.4%",
+        "anterior": "0.1%",
+        "actual": "-0.3%"
+    },
+    {
+        "titulo": "Current Account",
+        "activo": "EUR",
+        "fecha": "2025-01-17 04:00:00",
+        "impacto": "Low",
+        "pronostico": "28.0B",
+        "anterior": "30.2B",
+        "actual": "27.0B"
+    },
+    {
+        "titulo": "Foreign Direct Investment ytd/y",
+        "activo": "CNY",
+        "fecha": "2025-01-17 04:03:00",
+        "impacto": "Low",
+        "pronostico": "",
+        "anterior": "-27.9%",
+        "actual": "-27.1%"
+    },
+    {
+        "titulo": "Final Core CPI y/y",
+        "activo": "EUR",
+        "fecha": "2025-01-17 05:00:00",
+        "impacto": "Low",
+        "pronostico": "2.7%",
+        "anterior": "2.7%",
+        "actual": "2.7%"
+    },
+    {
+        "titulo": "Final CPI y/y",
+        "activo": "EUR",
+        "fecha": "2025-01-17 05:00:00",
+        "impacto": "Low",
+        "pronostico": "2.4%",
+        "anterior": "2.4%",
+        "actual": "2.4%"
+    },
+    {
+        "titulo": "Foreign Securities Purchases",
+        "activo": "CAD",
+        "fecha": "2025-01-17 08:30:00",
+        "impacto": "Low",
+        "pronostico": "14.50B",
+        "anterior": "21.55B",
+        "actual": "16.40B"
+    },
+    {
+        "titulo": "Building Permits",
+        "activo": "USD",
+        "fecha": "2025-01-17 08:30:00",
+        "impacto": "Medium",
+        "pronostico": "1.46M",
+        "anterior": "1.49M",
+        "actual": "1.48M"
+    },
+    {
+        "titulo": "Housing Starts",
+        "activo": "USD",
+        "fecha": "2025-01-17 08:30:00",
+        "impacto": "Low",
+        "pronostico": "1.33M",
+        "anterior": "1.29M",
+        "actual": "1.50M"
+    },
+    {
+        "titulo": "Capacity Utilization Rate",
+        "activo": "USD",
+        "fecha": "2025-01-17 09:15:00",
+        "impacto": "Low",
+        "pronostico": "77.0%",
+        "anterior": "77.0%",
+        "actual": "77.6%"
+    },
+    {
+        "titulo": "Industrial Production m/m",
+        "activo": "USD",
+        "fecha": "2025-01-17 09:15:00",
+        "impacto": "Low",
+        "pronostico": "0.3%",
+        "anterior": "0.2%",
+        "actual": "0.9%"
+    },
+    {
+        "titulo": "CB Leading Index m/m",
+        "activo": "GBP",
+        "fecha": "2025-01-17 09:30:00",
+        "impacto": "Low",
+        "pronostico": "",
+        "anterior": "0.1%",
+        "actual": "-0.3%"
+    },
+    {
+        "titulo": "TIC Long-Term Purchases",
+        "activo": "USD",
+        "fecha": "2025-01-17 16:00:00",
+        "impacto": "Low",
+        "pronostico": "159.9B",
+        "anterior": "159.1B",
+        "actual": "79.0B"
+    },
+    {
+        "titulo": "Core Machinery Orders m/m",
+        "activo": "JPY",
+        "fecha": "2025-01-19 18:50:00",
+        "impacto": "Low",
+        "pronostico": "-0.7%",
+        "anterior": "2.1%",
+        "actual": "3.4%"
+    },
+    {
+        "titulo": "Rightmove HPI m/m",
+        "activo": "GBP",
+        "fecha": "2025-01-19 19:01:00",
+        "impacto": "Low",
+        "pronostico": "",
+        "anterior": "-1.7%",
+        "actual": "1.7%"
+    },
+    {
+        "titulo": "1-y Loan Prime Rate",
+        "activo": "CNY",
+        "fecha": "2025-01-19 20:00:00",
+        "impacto": "Medium",
+        "pronostico": "3.10%",
+        "anterior": "3.10%",
+        "actual": "3.10%"
+    },
+    {
+        "titulo": "5-y Loan Prime Rate",
+        "activo": "CNY",
+        "fecha": "2025-01-19 20:00:00",
+        "impacto": "Medium",
+        "pronostico": "3.60%",
+        "anterior": "3.60%",
+        "actual": "3.60%"
+    },
+    {
+        "titulo": "Revised Industrial Production m/m",
+        "activo": "JPY",
+        "fecha": "2025-01-19 23:30:00",
+        "impacto": "Low",
+        "pronostico": "-2.3%",
+        "anterior": "-2.3%",
+        "actual": "-2.2%"
+    },
+    {
+        "titulo": "Tertiary Industry Activity m/m",
+        "activo": "JPY",
+        "fecha": "2025-01-19 23:30:00",
+        "impacto": "Low",
+        "pronostico": "0.1%",
+        "anterior": "0.1%",
+        "actual": "-0.3%"
+    },
+    {
+        "titulo": "German PPI m/m",
+        "activo": "EUR",
+        "fecha": "2025-01-20 02:00:00",
+        "impacto": "Low",
+        "pronostico": "0.3%",
+        "anterior": "0.5%",
+        "actual": "-0.1%"
+    },
+    {
+        "titulo": "PPI m/m",
+        "activo": "CHF",
+        "fecha": "2025-01-20 02:30:00",
+        "impacto": "Low",
+        "pronostico": "0.2%",
+        "anterior": "-0.6%",
+        "actual": "0.0%"
+    },
+    {
+        "titulo": "WEF Annual Meetings",
+        "activo": "All",
+        "fecha": "2025-01-20 00:00:00",
+        "impacto": "Medium",
+        "pronostico": "",
+        "anterior": "",
+        "actual": ""
+    },
+    {
+        "titulo": "Eurogroup Meetings",
+        "activo": "EUR",
+        "fecha": "2025-01-20 00:00:00",
+        "impacto": "Low",
+        "pronostico": "",
+        "anterior": "",
+        "actual": ""
+    },
+    {
+        "titulo": "Bank Holiday",
+        "activo": "USD",
+        "fecha": "2025-01-20 00:00:00",
+        "impacto": "Non",
+        "pronostico": "",
+        "anterior": "",
+        "actual": ""
+    },
+    {
+        "titulo": "BOC Business Outlook Survey",
+        "activo": "CAD",
+        "fecha": "2025-01-20 10:30:00",
+        "impacto": "Low",
+        "pronostico": "",
+        "anterior": "",
+        "actual": ""
+    },
+    {
+        "titulo": "President Trump Speaks",
+        "activo": "USD",
+        "fecha": "2025-01-20 12:00:00",
+        "impacto": "High",
+        "pronostico": "",
+        "anterior": "",
+        "actual": ""
+    },
+    {
+        "titulo": "BusinessNZ Services Index",
+        "activo": "NZD",
+        "fecha": "2025-01-20 16:30:00",
+        "impacto": "Low",
+        "pronostico": "",
+        "anterior": "49.5",
+        "actual": "47.9"
+    },
+    {
+        "titulo": "Claimant Count Change",
+        "activo": "GBP",
+        "fecha": "2025-01-21 02:00:00",
+        "impacto": "High",
+        "pronostico": "10.3K",
+        "anterior": "-25.1K",
+        "actual": "0.7K"
+    },
+    {
+        "titulo": "Average Earnings Index 3m/y",
+        "activo": "GBP",
+        "fecha": "2025-01-21 02:00:00",
+        "impacto": "Medium",
+        "pronostico": "5.6%",
+        "anterior": "5.2%",
+        "actual": "5.6%"
+    },
+    {
+        "titulo": "Unemployment Rate",
+        "activo": "GBP",
+        "fecha": "2025-01-21 02:00:00",
+        "impacto": "Low",
+        "pronostico": "4.3%",
+        "anterior": "4.3%",
+        "actual": "4.4%"
+    },
+    {
+        "titulo": "WEF Annual Meetings",
+        "activo": "All",
+        "fecha": "2025-01-21 00:00:00",
+        "impacto": "Medium",
+        "pronostico": "",
+        "anterior": "",
+        "actual": ""
+    },
+    {
+        "titulo": "German ZEW Economic Sentiment",
+        "activo": "EUR",
+        "fecha": "2025-01-21 05:00:00",
+        "impacto": "Medium",
+        "pronostico": "15.2",
+        "anterior": "15.7",
+        "actual": "10.3"
+    },
+    {
+        "titulo": "ZEW Economic Sentiment",
+        "activo": "EUR",
+        "fecha": "2025-01-21 05:00:00",
+        "impacto": "Low",
+        "pronostico": "16.9",
+        "anterior": "17.0",
+        "actual": "18.0"
+    },
+    {
+        "titulo": "ECOFIN Meetings",
+        "activo": "EUR",
+        "fecha": "2025-01-21 00:00:00",
+        "impacto": "Low",
+        "pronostico": "",
+        "anterior": "",
+        "actual": ""
+    },
+    {
+        "titulo": "CPI m/m",
+        "activo": "CAD",
+        "fecha": "2025-01-21 08:30:00",
+        "impacto": "High",
+        "pronostico": "-0.7%",
+        "anterior": "0.0%",
+        "actual": "-0.4%"
+    },
+    {
+        "titulo": "Median CPI y/y",
+        "activo": "CAD",
+        "fecha": "2025-01-21 08:30:00",
+        "impacto": "High",
+        "pronostico": "2.5%",
+        "anterior": "2.6%",
+        "actual": "2.4%"
+    },
+    {
+        "titulo": "Trimmed CPI y/y",
+        "activo": "CAD",
+        "fecha": "2025-01-21 08:30:00",
+        "impacto": "High",
+        "pronostico": "2.5%",
+        "anterior": "2.6%",
+        "actual": "2.5%"
+    },
+    {
+        "titulo": "Common CPI y/y",
+        "activo": "CAD",
+        "fecha": "2025-01-21 08:30:00",
+        "impacto": "Medium",
+        "pronostico": "1.9%",
+        "anterior": "2.0%",
+        "actual": "2.0%"
+    },
+    {
+        "titulo": "Core CPI m/m",
+        "activo": "CAD",
+        "fecha": "2025-01-21 08:30:00",
+        "impacto": "Low",
+        "pronostico": "",
+        "anterior": "-0.1%",
+        "actual": "-0.3%"
+    },
+    {
+        "titulo": "GDT Price Index",
+        "activo": "NZD",
+        "fecha": "2025-01-21 09:57:00",
+        "impacto": "Low",
+        "pronostico": "",
+        "anterior": "-1.4%",
+        "actual": "1.4%"
+    },
+    {
+        "titulo": "CPI q/q",
+        "activo": "NZD",
+        "fecha": "2025-01-21 16:45:00",
+        "impacto": "High",
+        "pronostico": "0.5%",
+        "anterior": "0.6%",
+        "actual": "0.5%"
+    },
+    {
+        "titulo": "MI Leading Index m/m",
+        "activo": "AUD",
+        "fecha": "2025-01-21 18:30:00",
+        "impacto": "Low",
+        "pronostico": "",
+        "anterior": "0.1%",
+        "actual": "0.0%"
+    },
+    {
+        "titulo": "Public Sector Net Borrowing",
+        "activo": "GBP",
+        "fecha": "2025-01-22 02:00:00",
+        "impacto": "Low",
+        "pronostico": "14.2B",
+        "anterior": "11.8B",
+        "actual": "17.8B"
+    },
+    {
+        "titulo": "WEF Annual Meetings",
+        "activo": "All",
+        "fecha": "2025-01-22 00:00:00",
+        "impacto": "Medium",
+        "pronostico": "",
+        "anterior": "",
+        "actual": ""
+    },
+    {
+        "titulo": "German Buba Monthly Report",
+        "activo": "EUR",
+        "fecha": "2025-01-22 06:00:00",
+        "impacto": "Low",
+        "pronostico": "",
+        "anterior": "",
+        "actual": ""
+    },
+    {
+        "titulo": "IPPI m/m",
+        "activo": "CAD",
+        "fecha": "2025-01-22 08:30:00",
+        "impacto": "Low",
+        "pronostico": "0.5%",
+        "anterior": "0.6%",
+        "actual": "0.2%"
+    },
+    {
+        "titulo": "RMPI m/m",
+        "activo": "CAD",
+        "fecha": "2025-01-22 08:30:00",
+        "impacto": "Low",
+        "pronostico": "0.4%",
+        "anterior": "-0.1%",
+        "actual": "1.3%"
+    },
+    {
+        "titulo": "CB Leading Index m/m",
+        "activo": "USD",
+        "fecha": "2025-01-22 10:00:00",
+        "impacto": "Low",
+        "pronostico": "-0.1%",
+        "anterior": "0.4%",
+        "actual": "-0.1%"
+    },
+    {
+        "titulo": "ECB President Lagarde Speaks",
+        "activo": "EUR",
+        "fecha": "2025-01-22 10:15:00",
+        "impacto": "Medium",
+        "pronostico": "",
+        "anterior": "",
+        "actual": ""
+    },
+    {
+        "titulo": "Visitor Arrivals m/m",
+        "activo": "NZD",
+        "fecha": "2025-01-22 16:45:00",
+        "impacto": "Low",
+        "pronostico": "",
+        "anterior": "0.0%",
+        "actual": "1.0%"
+    },
+    {
+        "titulo": "Trade Balance",
+        "activo": "JPY",
+        "fecha": "2025-01-22 18:50:00",
+        "impacto": "Low",
+        "pronostico": "-0.51T",
+        "anterior": "-0.39T",
+        "actual": "-0.03T"
+    },
+    {
+        "titulo": "WEF Annual Meetings",
+        "activo": "All",
+        "fecha": "2025-01-23 00:00:00",
+        "impacto": "Medium",
+        "pronostico": "",
+        "anterior": "",
+        "actual": ""
+    },
+    {
+        "titulo": "CBI Industrial Order Expectations",
+        "activo": "GBP",
+        "fecha": "2025-01-23 06:00:00",
+        "impacto": "Low",
+        "pronostico": "-35",
+        "anterior": "-40",
+        "actual": "-34"
+    },
+    {
+        "titulo": "Core Retail Sales m/m",
+        "activo": "CAD",
+        "fecha": "2025-01-23 08:30:00",
+        "impacto": "High",
+        "pronostico": "0.1%",
+        "anterior": "-0.1%",
+        "actual": "-0.7%"
+    },
+    {
+        "titulo": "Retail Sales m/m",
+        "activo": "CAD",
+        "fecha": "2025-01-23 08:30:00",
+        "impacto": "High",
+        "pronostico": "0.2%",
+        "anterior": "0.6%",
+        "actual": "0.0%"
+    },
+    {
+        "titulo": "Unemployment Claims",
+        "activo": "USD",
+        "fecha": "2025-01-23 08:30:00",
+        "impacto": "High",
+        "pronostico": "221K",
+        "anterior": "217K",
+        "actual": "223K"
+    },
+    {
+        "titulo": "Consumer Confidence",
+        "activo": "EUR",
+        "fecha": "2025-01-23 10:00:00",
+        "impacto": "Low",
+        "pronostico": "-14",
+        "anterior": "-15",
+        "actual": "-14"
+    },
+    {
+        "titulo": "Natural Gas Storage",
+        "activo": "USD",
+        "fecha": "2025-01-23 10:30:00",
+        "impacto": "Low",
+        "pronostico": "-270B",
+        "anterior": "-258B",
+        "actual": "-223B"
+    },
+    {
+        "titulo": "President Trump Speaks",
+        "activo": "USD",
+        "fecha": "2025-01-23 11:00:00",
+        "impacto": "High",
+        "pronostico": "",
+        "anterior": "",
+        "actual": ""
+    },
+    {
+        "titulo": "Crude Oil Inventories",
+        "activo": "USD",
+        "fecha": "2025-01-23 12:00:00",
+        "impacto": "Medium",
+        "pronostico": "-0.1M",
+        "anterior": "-2.0M",
+        "actual": "-1.0M"
+    },
+    {
+        "titulo": "Flash Manufacturing PMI",
+        "activo": "AUD",
+        "fecha": "2025-01-23 17:00:00",
+        "impacto": "Low",
+        "pronostico": "",
+        "anterior": "47.8",
+        "actual": "49.8"
+    },
+    {
+        "titulo": "Flash Services PMI",
+        "activo": "AUD",
+        "fecha": "2025-01-23 17:00:00",
+        "impacto": "Low",
+        "pronostico": "",
+        "anterior": "50.8",
+        "actual": "50.4"
+    },
+    {
+        "titulo": "National Core CPI y/y",
+        "activo": "JPY",
+        "fecha": "2025-01-23 18:30:00",
+        "impacto": "Low",
+        "pronostico": "3.0%",
+        "anterior": "2.7%",
+        "actual": "3.0%"
+    },
+    {
+        "titulo": "GfK Consumer Confidence",
+        "activo": "GBP",
+        "fecha": "2025-01-23 19:01:00",
+        "impacto": "Low",
+        "pronostico": "-18",
+        "anterior": "-17",
+        "actual": "-22"
+    },
+    {
+        "titulo": "Flash Manufacturing PMI",
+        "activo": "JPY",
+        "fecha": "2025-01-23 19:30:00",
+        "impacto": "Low",
+        "pronostico": "",
+        "anterior": "49.6",
+        "actual": "48.8"
+    },
+    {
+        "titulo": "Credit Card Spending y/y",
+        "activo": "NZD",
+        "fecha": "2025-01-23 21:00:00",
+        "impacto": "Low",
+        "pronostico": "",
+        "anterior": "-3.1%",
+        "actual": "-1.4%"
+    },
+    {
+        "titulo": "BOJ Outlook Report",
+        "activo": "JPY",
+        "fecha": "2025-01-23 22:23:00",
+        "impacto": "High",
+        "pronostico": "",
+        "anterior": "",
+        "actual": ""
+    },
+    {
+        "titulo": "BOJ Policy Rate",
+        "activo": "JPY",
+        "fecha": "2025-01-23 22:23:00",
+        "impacto": "High",
+        "pronostico": "<0.50%",
+        "anterior": "<0.25%",
+        "actual": "<0.50%"
+    },
+    {
+        "titulo": "Monetary Policy Statement",
+        "activo": "JPY",
+        "fecha": "2025-01-23 22:23:00",
+        "impacto": "High",
+        "pronostico": "",
+        "anterior": "",
+        "actual": ""
+    },
+    {
+        "titulo": "BOJ Press Conference",
+        "activo": "JPY",
+        "fecha": "2025-01-24 01:30:00",
+        "impacto": "High",
+        "pronostico": "",
+        "anterior": "",
+        "actual": ""
+    },
+    {
+        "titulo": "French Flash Manufacturing PMI",
+        "activo": "EUR",
+        "fecha": "2025-01-24 03:15:00",
+        "impacto": "High",
+        "pronostico": "42.4",
+        "anterior": "41.9",
+        "actual": "45.3"
+    },
+    {
+        "titulo": "French Flash Services PMI",
+        "activo": "EUR",
+        "fecha": "2025-01-24 03:15:00",
+        "impacto": "High",
+        "pronostico": "49.3",
+        "anterior": "49.3",
+        "actual": "48.9"
+    },
+    {
+        "titulo": "German Flash Manufacturing PMI",
+        "activo": "EUR",
+        "fecha": "2025-01-24 03:30:00",
+        "impacto": "High",
+        "pronostico": "42.7",
+        "anterior": "42.5",
+        "actual": "44.1"
+    },
+    {
+        "titulo": "German Flash Services PMI",
+        "activo": "EUR",
+        "fecha": "2025-01-24 03:30:00",
+        "impacto": "High",
+        "pronostico": "51.1",
+        "anterior": "51.2",
+        "actual": "52.5"
+    },
+    {
+        "titulo": "Flash Manufacturing PMI",
+        "activo": "EUR",
+        "fecha": "2025-01-24 04:00:00",
+        "impacto": "Medium",
+        "pronostico": "45.6",
+        "anterior": "45.1",
+        "actual": "46.1"
+    },
+    {
+        "titulo": "Flash Services PMI",
+        "activo": "EUR",
+        "fecha": "2025-01-24 04:00:00",
+        "impacto": "Medium",
+        "pronostico": "51.4",
+        "anterior": "51.6",
+        "actual": "51.4"
+    },
+    {
+        "titulo": "WEF Annual Meetings",
+        "activo": "All",
+        "fecha": "2025-01-24 00:00:00",
+        "impacto": "Medium",
+        "pronostico": "",
+        "anterior": "",
+        "actual": ""
+    },
+    {
+        "titulo": "Flash Manufacturing PMI",
+        "activo": "GBP",
+        "fecha": "2025-01-24 04:30:00",
+        "impacto": "High",
+        "pronostico": "46.9",
+        "anterior": "47.0",
+        "actual": "48.2"
+    },
+    {
+        "titulo": "Flash Services PMI",
+        "activo": "GBP",
+        "fecha": "2025-01-24 04:30:00",
+        "impacto": "High",
+        "pronostico": "50.8",
+        "anterior": "51.1",
+        "actual": "51.2"
+    },
+    {
+        "titulo": "ECB President Lagarde Speaks",
+        "activo": "EUR",
+        "fecha": "2025-01-24 05:00:00",
+        "impacto": "Medium",
+        "pronostico": "",
+        "anterior": "",
+        "actual": ""
+    },
+    {
+        "titulo": "CBI Realized Sales",
+        "activo": "GBP",
+        "fecha": "2025-01-24 06:00:00",
+        "impacto": "Low",
+        "pronostico": "-11",
+        "anterior": "-15",
+        "actual": "-24"
+    },
+    {
+        "titulo": "NHPI m/m",
+        "activo": "CAD",
+        "fecha": "2025-01-24 08:30:00",
+        "impacto": "Low",
+        "pronostico": "0.2%",
+        "anterior": "0.1%",
+        "actual": "-0.1%"
+    },
+    {
+        "titulo": "Flash Manufacturing PMI",
+        "activo": "USD",
+        "fecha": "2025-01-24 09:45:00",
+        "impacto": "High",
+        "pronostico": "49.8",
+        "anterior": "49.4",
+        "actual": "50.1"
+    },
+    {
+        "titulo": "Flash Services PMI",
+        "activo": "USD",
+        "fecha": "2025-01-24 09:45:00",
+        "impacto": "High",
+        "pronostico": "56.4",
+        "anterior": "56.8",
+        "actual": "52.8"
+    },
+    {
+        "titulo": "Existing Home Sales",
+        "activo": "USD",
+        "fecha": "2025-01-24 10:00:00",
+        "impacto": "Medium",
+        "pronostico": "4.19M",
+        "anterior": "4.15M",
+        "actual": "4.24M"
+    },
+    {
+        "titulo": "Revised UoM Consumer Sentiment",
+        "activo": "USD",
+        "fecha": "2025-01-24 10:00:00",
+        "impacto": "Medium",
+        "pronostico": "73.3",
+        "anterior": "73.2",
+        "actual": "71.1"
+    },
+    {
+        "titulo": "Revised UoM Inflation Expectations",
+        "activo": "USD",
+        "fecha": "2025-01-24 10:00:00",
+        "impacto": "Low",
+        "pronostico": "",
+        "anterior": "3.3%",
+        "actual": "3.3%"
+    },
+    {
+        "titulo": "Bank Holiday",
+        "activo": "AUD",
+        "fecha": "2025-01-26 00:00:00",
+        "impacto": "Non",
+        "pronostico": "",
+        "anterior": "",
+        "actual": ""
+    },
+    {
+        "titulo": "Manufacturing PMI",
+        "activo": "CNY",
+        "fecha": "2025-01-26 20:30:00",
+        "impacto": "High",
+        "pronostico": "50.1",
+        "anterior": "50.1",
+        "actual": "49.1"
+    },
+    {
+        "titulo": "Non-Manufacturing PMI",
+        "activo": "CNY",
+        "fecha": "2025-01-26 20:30:00",
+        "impacto": "Medium",
+        "pronostico": "52.1",
+        "anterior": "52.2",
+        "actual": "50.2"
+    },
+    {
+        "titulo": "ECB President Lagarde Speaks",
+        "activo": "EUR",
+        "fecha": "2025-01-27 03:10:00",
+        "impacto": "Medium",
+        "pronostico": "",
+        "anterior": "",
+        "actual": ""
+    },
+    {
+        "titulo": "German ifo Business Climate",
+        "activo": "EUR",
+        "fecha": "2025-01-27 04:00:00",
+        "impacto": "Medium",
+        "pronostico": "84.9",
+        "anterior": "84.7",
+        "actual": "85.1"
+    },
+    {
+        "titulo": "Belgian NBB Business Climate",
+        "activo": "EUR",
+        "fecha": "2025-01-27 08:58:00",
+        "impacto": "Low",
+        "pronostico": "-10.3",
+        "anterior": "-13.8",
+        "actual": "-13.6"
+    },
+    {
+        "titulo": "CB Leading Index m/m",
+        "activo": "CNY",
+        "fecha": "2025-01-27 09:00:00",
+        "impacto": "Low",
+        "pronostico": "",
+        "anterior": "-0.5%",
+        "actual": "-0.1%"
+    },
+    {
+        "titulo": "New Home Sales",
+        "activo": "USD",
+        "fecha": "2025-01-27 10:00:00",
+        "impacto": "Medium",
+        "pronostico": "669K",
+        "anterior": "674K",
+        "actual": "698K"
+    },
+    {
+        "titulo": "SNB Chairman Schlegel Speaks",
+        "activo": "CHF",
+        "fecha": "2025-01-27 16:25:00",
+        "impacto": "High",
+        "pronostico": "",
+        "anterior": "",
+        "actual": ""
+    },
+    {
+        "titulo": "SPPI y/y",
+        "activo": "JPY",
+        "fecha": "2025-01-27 18:50:00",
+        "impacto": "Low",
+        "pronostico": "3.2%",
+        "anterior": "3.0%",
+        "actual": "2.9%"
+    },
+    {
+        "titulo": "BRC Shop Price Index y/y",
+        "activo": "GBP",
+        "fecha": "2025-01-27 19:01:00",
+        "impacto": "Low",
+        "pronostico": "",
+        "anterior": "-1.0%",
+        "actual": "-0.7%"
+    },
+    {
+        "titulo": "NAB Business Confidence",
+        "activo": "AUD",
+        "fecha": "2025-01-27 19:30:00",
+        "impacto": "Low",
+        "pronostico": "",
+        "anterior": "-3",
+        "actual": "-2"
+    },
+    {
+        "titulo": "Bank Holiday",
+        "activo": "CNY",
+        "fecha": "2025-01-27 00:00:00",
+        "impacto": "Non",
+        "pronostico": "",
+        "anterior": "",
+        "actual": ""
+    },
+    {
+        "titulo": "BOJ Core CPI y/y",
+        "activo": "JPY",
+        "fecha": "2025-01-28 00:00:00",
+        "impacto": "Low",
+        "pronostico": "1.7%",
+        "anterior": "1.7%",
+        "actual": "1.9%"
+    },
+    {
+        "titulo": "Spanish Unemployment Rate",
+        "activo": "EUR",
+        "fecha": "2025-01-28 03:00:00",
+        "impacto": "Low",
+        "pronostico": "11.1%",
+        "anterior": "11.2%",
+        "actual": "10.6%"
+    },
+    {
+        "titulo": "Core Durable Goods Orders m/m",
+        "activo": "USD",
+        "fecha": "2025-01-28 08:30:00",
+        "impacto": "Medium",
+        "pronostico": "0.4%",
+        "anterior": "-0.2%",
+        "actual": "0.3%"
+    },
+    {
+        "titulo": "Durable Goods Orders m/m",
+        "activo": "USD",
+        "fecha": "2025-01-28 08:30:00",
+        "impacto": "Medium",
+        "pronostico": "0.3%",
+        "anterior": "-1.2%",
+        "actual": "-2.2%"
+    },
+    {
+        "titulo": "S&P/CS Composite-20 HPI y/y",
+        "activo": "USD",
+        "fecha": "2025-01-28 09:00:00",
+        "impacto": "Medium",
+        "pronostico": "4.2%",
+        "anterior": "4.2%",
+        "actual": "4.3%"
+    },
+    {
+        "titulo": "HPI m/m",
+        "activo": "USD",
+        "fecha": "2025-01-28 09:00:00",
+        "impacto": "Low",
+        "pronostico": "0.4%",
+        "anterior": "0.5%",
+        "actual": "0.3%"
+    },
+    {
+        "titulo": "Richmond Manufacturing Index",
+        "activo": "USD",
+        "fecha": "2025-01-28 09:59:00",
+        "impacto": "Medium",
+        "pronostico": "-13",
+        "anterior": "-10",
+        "actual": "-4"
+    },
+    {
+        "titulo": "CB Consumer Confidence",
+        "activo": "USD",
+        "fecha": "2025-01-28 10:00:00",
+        "impacto": "High",
+        "pronostico": "105.7",
+        "anterior": "109.5",
+        "actual": "104.1"
+    },
+    {
+        "titulo": "Monetary Policy Meeting Minutes",
+        "activo": "JPY",
+        "fecha": "2025-01-28 18:50:00",
+        "impacto": "Low",
+        "pronostico": "",
+        "anterior": "",
+        "actual": ""
+    },
+    {
+        "titulo": "CPI q/q",
+        "activo": "AUD",
+        "fecha": "2025-01-28 19:30:00",
+        "impacto": "High",
+        "pronostico": "0.3%",
+        "anterior": "0.2%",
+        "actual": "0.2%"
+    },
+    {
+        "titulo": "CPI y/y",
+        "activo": "AUD",
+        "fecha": "2025-01-28 19:30:00",
+        "impacto": "High",
+        "pronostico": "2.5%",
+        "anterior": "2.3%",
+        "actual": "2.5%"
+    },
+    {
+        "titulo": "Trimmed Mean CPI q/q",
+        "activo": "AUD",
+        "fecha": "2025-01-28 19:30:00",
+        "impacto": "High",
+        "pronostico": "0.6%",
+        "anterior": "0.8%",
+        "actual": "0.5%"
+    },
+    {
+        "titulo": "Bank Holiday",
+        "activo": "CNY",
+        "fecha": "2025-01-28 00:00:00",
+        "impacto": "Non",
+        "pronostico": "",
+        "anterior": "",
+        "actual": ""
+    },
+    {
+        "titulo": "Consumer Confidence",
+        "activo": "JPY",
+        "fecha": "2025-01-29 00:00:00",
+        "impacto": "Low",
+        "pronostico": "36.6",
+        "anterior": "36.2",
+        "actual": "35.2"
+    },
+    {
+        "titulo": "German GfK Consumer Climate",
+        "activo": "EUR",
+        "fecha": "2025-01-29 02:00:00",
+        "impacto": "Low",
+        "pronostico": "-20.5",
+        "anterior": "-21.4",
+        "actual": "-22.4"
+    },
+    {
+        "titulo": "Spanish Flash GDP q/q",
+        "activo": "EUR",
+        "fecha": "2025-01-29 03:00:00",
+        "impacto": "Low",
+        "pronostico": "0.6%",
+        "anterior": "0.8%",
+        "actual": "0.8%"
+    },
+    {
+        "titulo": "UBS Economic Expectations",
+        "activo": "CHF",
+        "fecha": "2025-01-29 04:00:00",
+        "impacto": "Low",
+        "pronostico": "",
+        "anterior": "-20.0",
+        "actual": "17.7"
+    },
+    {
+        "titulo": "M3 Money Supply y/y",
+        "activo": "EUR",
+        "fecha": "2025-01-29 04:00:00",
+        "impacto": "Low",
+        "pronostico": "3.9%",
+        "anterior": "3.8%",
+        "actual": "3.5%"
+    },
+    {
+        "titulo": "Private Loans y/y",
+        "activo": "EUR",
+        "fecha": "2025-01-29 04:00:00",
+        "impacto": "Low",
+        "pronostico": "1.0%",
+        "anterior": "0.9%",
+        "actual": "1.1%"
+    },
+    {
+        "titulo": "German 10-y Bond Auction",
+        "activo": "EUR",
+        "fecha": "2025-01-29 05:31:00",
+        "impacto": "Low",
+        "pronostico": "",
+        "anterior": "2.51|2.1",
+        "actual": "2.54|2.8"
+    },
+    {
+        "titulo": "Goods Trade Balance",
+        "activo": "USD",
+        "fecha": "2025-01-29 08:30:00",
+        "impacto": "Low",
+        "pronostico": "-105.6B",
+        "anterior": "-103.5B",
+        "actual": "-122.1B"
+    },
+    {
+        "titulo": "Prelim Wholesale Inventories m/m",
+        "activo": "USD",
+        "fecha": "2025-01-29 08:30:00",
+        "impacto": "Low",
+        "pronostico": "0.2%",
+        "anterior": "-0.1%",
+        "actual": "-0.5%"
+    },
+    {
+        "titulo": "BOE Gov Bailey Speaks",
+        "activo": "GBP",
+        "fecha": "2025-01-29 09:15:00",
+        "impacto": "High",
+        "pronostico": "",
+        "anterior": "",
+        "actual": ""
+    },
+    {
+        "titulo": "BOC Monetary Policy Report",
+        "activo": "CAD",
+        "fecha": "2025-01-29 09:45:00",
+        "impacto": "High",
+        "pronostico": "",
+        "anterior": "",
+        "actual": ""
+    },
+    {
+        "titulo": "BOC Rate Statement",
+        "activo": "CAD",
+        "fecha": "2025-01-29 09:45:00",
+        "impacto": "High",
+        "pronostico": "",
+        "anterior": "",
+        "actual": ""
+    },
+    {
+        "titulo": "Overnight Rate",
+        "activo": "CAD",
+        "fecha": "2025-01-29 09:45:00",
+        "impacto": "High",
+        "pronostico": "3.00%",
+        "anterior": "3.25%",
+        "actual": "3.00%"
+    },
+    {
+        "titulo": "BOC Press Conference",
+        "activo": "CAD",
+        "fecha": "2025-01-29 10:30:00",
+        "impacto": "High",
+        "pronostico": "",
+        "anterior": "",
+        "actual": ""
+    },
+    {
+        "titulo": "Crude Oil Inventories",
+        "activo": "USD",
+        "fecha": "2025-01-29 10:30:00",
+        "impacto": "Medium",
+        "pronostico": "2.2M",
+        "anterior": "-1.0M",
+        "actual": "3.5M"
+    },
+    {
+        "titulo": "Federal Funds Rate",
+        "activo": "USD",
+        "fecha": "2025-01-29 14:00:00",
+        "impacto": "High",
+        "pronostico": "4.50%",
+        "anterior": "4.50%",
+        "actual": "4.50%"
+    },
+    {
+        "titulo": "FOMC Statement",
+        "activo": "USD",
+        "fecha": "2025-01-29 14:00:00",
+        "impacto": "High",
+        "pronostico": "",
+        "anterior": "",
+        "actual": ""
+    },
+    {
+        "titulo": "FOMC Press Conference",
+        "activo": "USD",
+        "fecha": "2025-01-29 14:30:00",
+        "impacto": "High",
+        "pronostico": "",
+        "anterior": "",
+        "actual": ""
+    },
+    {
+        "titulo": "Trade Balance",
+        "activo": "NZD",
+        "fecha": "2025-01-29 16:45:00",
+        "impacto": "Low",
+        "pronostico": "-1363M",
+        "anterior": "-435M",
+        "actual": "219M"
+    },
+    {
+        "titulo": "ANZ Business Confidence",
+        "activo": "NZD",
+        "fecha": "2025-01-29 19:00:00",
+        "impacto": "Low",
+        "pronostico": "",
+        "anterior": "62.3",
+        "actual": "54.4"
+    },
+    {
+        "titulo": "Import Prices q/q",
+        "activo": "AUD",
+        "fecha": "2025-01-29 19:30:00",
+        "impacto": "Low",
+        "pronostico": "1.5%",
+        "anterior": "-1.4%",
+        "actual": "0.2%"
+    },
+    {
+        "titulo": "RBA Bulletin",
+        "activo": "AUD",
+        "fecha": "2025-01-29 19:30:00",
+        "impacto": "Low",
+        "pronostico": "",
+        "anterior": "",
+        "actual": ""
+    },
+    {
+        "titulo": "Bank Holiday",
+        "activo": "CNY",
+        "fecha": "2025-01-29 00:00:00",
+        "impacto": "Non",
+        "pronostico": "",
+        "anterior": "",
+        "actual": ""
+    },
+    {
+        "titulo": "French Consumer Spending m/m",
+        "activo": "EUR",
+        "fecha": "2025-01-30 01:30:00",
+        "impacto": "Low",
+        "pronostico": "0.1%",
+        "anterior": "0.2%",
+        "actual": "0.7%"
+    },
+    {
+        "titulo": "French Flash GDP q/q",
+        "activo": "EUR",
+        "fecha": "2025-01-30 01:30:00",
+        "impacto": "Low",
+        "pronostico": "0.0%",
+        "anterior": "0.4%",
+        "actual": "-0.1%"
+    },
+    {
+        "titulo": "Trade Balance",
+        "activo": "CHF",
+        "fecha": "2025-01-30 02:00:00",
+        "impacto": "Low",
+        "pronostico": "4.50B",
+        "anterior": "6.11B",
+        "actual": "3.49B"
+    },
+    {
+        "titulo": "German Import Prices m/m",
+        "activo": "EUR",
+        "fecha": "2025-01-30 02:00:00",
+        "impacto": "Low",
+        "pronostico": "0.5%",
+        "anterior": "0.9%",
+        "actual": "0.4%"
+    },
+    {
+        "titulo": "KOF Economic Barometer",
+        "activo": "CHF",
+        "fecha": "2025-01-30 03:00:00",
+        "impacto": "Low",
+        "pronostico": "100.3",
+        "anterior": "99.6",
+        "actual": "101.6"
+    },
+    {
+        "titulo": "Spanish Flash CPI y/y",
+        "activo": "EUR",
+        "fecha": "2025-01-30 03:00:00",
+        "impacto": "Medium",
+        "pronostico": "2.9%",
+        "anterior": "2.8%",
+        "actual": "3.0%"
+    },
+    {
+        "titulo": "Italian Prelim GDP q/q",
+        "activo": "EUR",
+        "fecha": "2025-01-30 04:00:00",
+        "impacto": "Low",
+        "pronostico": "0.1%",
+        "anterior": "0.0%",
+        "actual": "0.0%"
+    },
+    {
+        "titulo": "German Prelim GDP q/q",
+        "activo": "EUR",
+        "fecha": "2025-01-30 04:00:00",
+        "impacto": "Low",
+        "pronostico": "-0.1%",
+        "anterior": "0.1%",
+        "actual": "-0.2%"
+    },
+    {
+        "titulo": "M4 Money Supply m/m",
+        "activo": "GBP",
+        "fecha": "2025-01-30 04:30:00",
+        "impacto": "Low",
+        "pronostico": "0.2%",
+        "anterior": "0.0%",
+        "actual": "0.1%"
+    },
+    {
+        "titulo": "Mortgage Approvals",
+        "activo": "GBP",
+        "fecha": "2025-01-30 04:30:00",
+        "impacto": "Low",
+        "pronostico": "65K",
+        "anterior": "66K",
+        "actual": "67K"
+    },
+    {
+        "titulo": "Net Lending to Individuals m/m",
+        "activo": "GBP",
+        "fecha": "2025-01-30 04:30:00",
+        "impacto": "Low",
+        "pronostico": "3.6B",
+        "anterior": "3.5B",
+        "actual": "4.6B"
+    },
+    {
+        "titulo": "Italian Monthly Unemployment Rate",
+        "activo": "EUR",
+        "fecha": "2025-01-30 05:00:00",
+        "impacto": "Low",
+        "pronostico": "5.7%",
+        "anterior": "5.9%",
+        "actual": "6.2%"
+    },
+    {
+        "titulo": "Prelim Flash GDP q/q",
+        "activo": "EUR",
+        "fecha": "2025-01-30 05:00:00",
+        "impacto": "Low",
+        "pronostico": "0.1%",
+        "anterior": "0.4%",
+        "actual": "0.0%"
+    },
+    {
+        "titulo": "Unemployment Rate",
+        "activo": "EUR",
+        "fecha": "2025-01-30 05:00:00",
+        "impacto": "Low",
+        "pronostico": "6.3%",
+        "anterior": "6.2%",
+        "actual": "6.3%"
+    },
+    {
+        "titulo": "Italian 10-y Bond Auction",
+        "activo": "EUR",
+        "fecha": "2025-01-30 05:23:00",
+        "impacto": "Low",
+        "pronostico": "",
+        "anterior": "3.19|2.1",
+        "actual": "3.60|1.8"
+    },
+    {
+        "titulo": "Main Refinancing Rate",
+        "activo": "EUR",
+        "fecha": "2025-01-30 08:15:00",
+        "impacto": "High",
+        "pronostico": "2.90%",
+        "anterior": "3.15%",
+        "actual": "2.90%"
+    },
+    {
+        "titulo": "Monetary Policy Statement",
+        "activo": "EUR",
+        "fecha": "2025-01-30 08:15:00",
+        "impacto": "High",
+        "pronostico": "",
+        "anterior": "",
+        "actual": ""
+    },
+    {
+        "titulo": "Advance GDP q/q",
+        "activo": "USD",
+        "fecha": "2025-01-30 08:30:00",
+        "impacto": "High",
+        "pronostico": "2.7%",
+        "anterior": "3.1%",
+        "actual": "2.3%"
+    },
+    {
+        "titulo": "Unemployment Claims",
+        "activo": "USD",
+        "fecha": "2025-01-30 08:30:00",
+        "impacto": "High",
+        "pronostico": "224K",
+        "anterior": "223K",
+        "actual": "207K"
+    },
+    {
+        "titulo": "Advance GDP Price Index q/q",
+        "activo": "USD",
+        "fecha": "2025-01-30 08:30:00",
+        "impacto": "Medium",
+        "pronostico": "2.5%",
+        "anterior": "1.9%",
+        "actual": "2.2%"
+    },
+    {
+        "titulo": "ECB Press Conference",
+        "activo": "EUR",
+        "fecha": "2025-01-30 08:45:00",
+        "impacto": "High",
+        "pronostico": "",
+        "anterior": "",
+        "actual": ""
+    },
+    {
+        "titulo": "Pending Home Sales m/m",
+        "activo": "USD",
+        "fecha": "2025-01-30 10:00:00",
+        "impacto": "Medium",
+        "pronostico": "0.0%",
+        "anterior": "1.6%",
+        "actual": "-5.5%"
+    },
+    {
+        "titulo": "Natural Gas Storage",
+        "activo": "USD",
+        "fecha": "2025-01-30 10:30:00",
+        "impacto": "Low",
+        "pronostico": "-317B",
+        "anterior": "-223B",
+        "actual": "-321B"
+    },
+    {
+        "titulo": "Tokyo Core CPI y/y",
+        "activo": "JPY",
+        "fecha": "2025-01-30 18:30:00",
+        "impacto": "Medium",
+        "pronostico": "2.5%",
+        "anterior": "2.4%",
+        "actual": "2.5%"
+    },
+    {
+        "titulo": "Unemployment Rate",
+        "activo": "JPY",
+        "fecha": "2025-01-30 18:30:00",
+        "impacto": "Low",
+        "pronostico": "2.5%",
+        "anterior": "2.5%",
+        "actual": "2.4%"
+    },
+    {
+        "titulo": "Prelim Industrial Production m/m",
+        "activo": "JPY",
+        "fecha": "2025-01-30 18:50:00",
+        "impacto": "Low",
+        "pronostico": "-0.1%",
+        "anterior": "-2.2%",
+        "actual": "0.3%"
+    },
+    {
+        "titulo": "Retail Sales y/y",
+        "activo": "JPY",
+        "fecha": "2025-01-30 18:50:00",
+        "impacto": "Low",
+        "pronostico": "3.4%",
+        "anterior": "2.8%",
+        "actual": "3.7%"
+    },
+    {
+        "titulo": "PPI q/q",
+        "activo": "AUD",
+        "fecha": "2025-01-30 19:30:00",
+        "impacto": "Low",
+        "pronostico": "1.0%",
+        "anterior": "0.9%",
+        "actual": "0.8%"
+    },
+    {
+        "titulo": "Private Sector Credit m/m",
+        "activo": "AUD",
+        "fecha": "2025-01-30 19:30:00",
+        "impacto": "Low",
+        "pronostico": "0.5%",
+        "anterior": "0.6%",
+        "actual": "0.6%"
+    },
+    {
+        "titulo": "Bank Holiday",
+        "activo": "CNY",
+        "fecha": "2025-01-30 00:00:00",
+        "impacto": "Non",
+        "pronostico": "",
+        "anterior": "",
+        "actual": ""
+    },
+    {
+        "titulo": "Housing Starts y/y",
+        "activo": "JPY",
+        "fecha": "2025-01-31 00:00:00",
+        "impacto": "Low",
+        "pronostico": "-3.7%",
+        "anterior": "-1.8%",
+        "actual": "-2.5%"
+    },
+    {
+        "titulo": "German Retail Sales m/m",
+        "activo": "EUR",
+        "fecha": "2025-01-31 02:00:00",
+        "impacto": "Low",
+        "pronostico": "0.0%",
+        "anterior": "0.0%",
+        "actual": "-1.6%"
+    },
+    {
+        "titulo": "Nationwide HPI m/m",
+        "activo": "GBP",
+        "fecha": "2025-01-31 02:00:00",
+        "impacto": "Low",
+        "pronostico": "0.3%",
+        "anterior": "0.7%",
+        "actual": "0.1%"
+    },
+    {
+        "titulo": "German Prelim CPI m/m",
+        "activo": "EUR",
+        "fecha": "2025-01-31 00:00:00",
+        "impacto": "High",
+        "pronostico": "0.1%",
+        "anterior": "0.5%",
+        "actual": "-0.2%"
+    },
+    {
+        "titulo": "Retail Sales y/y",
+        "activo": "CHF",
+        "fecha": "2025-01-31 02:30:00",
+        "impacto": "Low",
+        "pronostico": "0.6%",
+        "anterior": "1.4%",
+        "actual": "2.6%"
+    },
+    {
+        "titulo": "French Prelim CPI m/m",
+        "activo": "EUR",
+        "fecha": "2025-01-31 02:45:00",
+        "impacto": "Low",
+        "pronostico": "0.0%",
+        "anterior": "0.2%",
+        "actual": "-0.1%"
+    },
+    {
+        "titulo": "German Unemployment Change",
+        "activo": "EUR",
+        "fecha": "2025-01-31 03:55:00",
+        "impacto": "Low",
+        "pronostico": "14K",
+        "anterior": "10K",
+        "actual": "11K"
+    },
+    {
+        "titulo": "GDP m/m",
+        "activo": "CAD",
+        "fecha": "2025-01-31 08:30:00",
+        "impacto": "High",
+        "pronostico": "-0.1%",
+        "anterior": "0.3%",
+        "actual": "-0.2%"
+    },
+    {
+        "titulo": "Core PCE Price Index m/m",
+        "activo": "USD",
+        "fecha": "2025-01-31 08:30:00",
+        "impacto": "High",
+        "pronostico": "0.2%",
+        "anterior": "0.1%",
+        "actual": "0.2%"
+    },
+    {
+        "titulo": "Employment Cost Index q/q",
+        "activo": "USD",
+        "fecha": "2025-01-31 08:30:00",
+        "impacto": "High",
+        "pronostico": "0.9%",
+        "anterior": "0.8%",
+        "actual": "0.9%"
+    },
+    {
+        "titulo": "FOMC Member Bowman Speaks",
+        "activo": "USD",
+        "fecha": "2025-01-31 08:30:00",
+        "impacto": "Low",
+        "pronostico": "",
+        "anterior": "",
+        "actual": ""
+    },
+    {
+        "titulo": "Personal Income m/m",
+        "activo": "USD",
+        "fecha": "2025-01-31 08:30:00",
+        "impacto": "Low",
+        "pronostico": "0.4%",
+        "anterior": "0.3%",
+        "actual": "0.4%"
+    },
+    {
+        "titulo": "Personal Spending m/m",
+        "activo": "USD",
+        "fecha": "2025-01-31 08:30:00",
+        "impacto": "Low",
+        "pronostico": "0.5%",
+        "anterior": "0.6%",
+        "actual": "0.7%"
+    },
+    {
+        "titulo": "Chicago PMI",
+        "activo": "USD",
+        "fecha": "2025-01-31 09:45:00",
+        "impacto": "Medium",
+        "pronostico": "40.3",
+        "anterior": "36.9",
+        "actual": "39.5"
+    },
+    {
+        "titulo": "FOMC Member Goolsbee Speaks",
+        "activo": "USD",
+        "fecha": "2025-01-31 10:05:00",
+        "impacto": "Low",
+        "pronostico": "",
+        "anterior": "",
+        "actual": ""
+    },
+    {
+        "titulo": "BOJ Summary of Opinions",
+        "activo": "JPY",
+        "fecha": "2025-02-02 18:50:00",
+        "impacto": "Low",
+        "pronostico": "",
+        "anterior": "",
+        "actual": ""
+    },
+    {
+        "titulo": "MI Inflation Gauge m/m",
+        "activo": "AUD",
+        "fecha": "2025-02-02 19:00:00",
+        "impacto": "Low",
+        "pronostico": "",
+        "anterior": "0.6%",
+        "actual": "0.1%"
+    },
+    {
+        "titulo": "Retail Sales m/m",
+        "activo": "AUD",
+        "fecha": "2025-02-02 19:30:00",
+        "impacto": "Medium",
+        "pronostico": "-0.7%",
+        "anterior": "0.7%",
+        "actual": "-0.1%"
+    },
+    {
+        "titulo": "ANZ Job Advertisements m/m",
+        "activo": "AUD",
+        "fecha": "2025-02-02 19:30:00",
+        "impacto": "Low",
+        "pronostico": "",
+        "anterior": "0.3%",
+        "actual": "0.2%"
+    },
+    {
+        "titulo": "Building Approvals m/m",
+        "activo": "AUD",
+        "fecha": "2025-02-02 19:30:00",
+        "impacto": "Low",
+        "pronostico": "0.9%",
+        "anterior": "-3.4%",
+        "actual": "0.7%"
+    },
+    {
+        "titulo": "Final Manufacturing PMI",
+        "activo": "JPY",
+        "fecha": "2025-02-02 19:30:00",
+        "impacto": "Low",
+        "pronostico": "48.8",
+        "anterior": "48.8",
+        "actual": "48.7"
+    },
+    {
+        "titulo": "Bank Holiday",
+        "activo": "CNY",
+        "fecha": "2025-02-02 00:00:00",
+        "impacto": "Non",
+        "pronostico": "",
+        "anterior": "",
+        "actual": ""
+    },
+    {
+        "titulo": "Caixin Manufacturing PMI",
+        "activo": "CNY",
+        "fecha": "2025-02-02 20:45:00",
+        "impacto": "Low",
+        "pronostico": "50.6",
+        "anterior": "50.5",
+        "actual": "50.1"
+    },
+    {
+        "titulo": "Commodity Prices y/y",
+        "activo": "AUD",
+        "fecha": "2025-02-03 00:30:00",
+        "impacto": "Low",
+        "pronostico": "",
+        "anterior": "-10.4%",
+        "actual": "-11.9%"
+    },
+    {
+        "titulo": "Spanish Manufacturing PMI",
+        "activo": "EUR",
+        "fecha": "2025-02-03 03:15:00",
+        "impacto": "Low",
+        "pronostico": "53.5",
+        "anterior": "53.3",
+        "actual": "50.9"
+    },
+    {
+        "titulo": "Manufacturing PMI",
+        "activo": "CHF",
+        "fecha": "2025-02-03 03:30:00",
+        "impacto": "Low",
+        "pronostico": "49.0",
+        "anterior": "48.4",
+        "actual": "47.5"
+    },
+    {
+        "titulo": "Italian Manufacturing PMI",
+        "activo": "EUR",
+        "fecha": "2025-02-03 03:45:00",
+        "impacto": "Low",
+        "pronostico": "46.8",
+        "anterior": "46.2",
+        "actual": "46.3"
+    },
+    {
+        "titulo": "French Final Manufacturing PMI",
+        "activo": "EUR",
+        "fecha": "2025-02-03 03:50:00",
+        "impacto": "Low",
+        "pronostico": "45.3",
+        "anterior": "45.3",
+        "actual": "45.0"
+    },
+    {
+        "titulo": "German Final Manufacturing PMI",
+        "activo": "EUR",
+        "fecha": "2025-02-03 03:55:00",
+        "impacto": "Low",
+        "pronostico": "44.1",
+        "anterior": "44.1",
+        "actual": "45.0"
+    },
+    {
+        "titulo": "Final Manufacturing PMI",
+        "activo": "EUR",
+        "fecha": "2025-02-03 04:00:00",
+        "impacto": "Low",
+        "pronostico": "46.1",
+        "anterior": "46.1",
+        "actual": "46.6"
+    },
+    {
+        "titulo": "Final Manufacturing PMI",
+        "activo": "GBP",
+        "fecha": "2025-02-03 04:30:00",
+        "impacto": "Low",
+        "pronostico": "48.2",
+        "anterior": "48.2",
+        "actual": "48.3"
+    },
+    {
+        "titulo": "Core CPI Flash Estimate y/y",
+        "activo": "EUR",
+        "fecha": "2025-02-03 05:00:00",
+        "impacto": "Medium",
+        "pronostico": "2.6%",
+        "anterior": "2.7%",
+        "actual": "2.7%"
+    },
+    {
+        "titulo": "CPI Flash Estimate y/y",
+        "activo": "EUR",
+        "fecha": "2025-02-03 05:00:00",
+        "impacto": "Medium",
+        "pronostico": "2.4%",
+        "anterior": "2.4%",
+        "actual": "2.5%"
+    },
+    {
+        "titulo": "Italian Prelim CPI m/m",
+        "activo": "EUR",
+        "fecha": "2025-02-03 05:00:00",
+        "impacto": "Low",
+        "pronostico": "0.4%",
+        "anterior": "0.1%",
+        "actual": "0.6%"
+    },
+    {
+        "titulo": "OPEC-JMMC Meetings",
+        "activo": "All",
+        "fecha": "2025-02-03 00:00:00",
+        "impacto": "Medium",
+        "pronostico": "",
+        "anterior": "",
+        "actual": ""
+    },
+    {
+        "titulo": "Manufacturing PMI",
+        "activo": "CAD",
+        "fecha": "2025-02-03 09:30:00",
+        "impacto": "Low",
+        "pronostico": "",
+        "anterior": "52.2",
+        "actual": "51.6"
+    },
+    {
+        "titulo": "Final Manufacturing PMI",
+        "activo": "USD",
+        "fecha": "2025-02-03 09:45:00",
+        "impacto": "Medium",
+        "pronostico": "50.1",
+        "anterior": "50.1",
+        "actual": "51.2"
+    },
+    {
+        "titulo": "ISM Manufacturing PMI",
+        "activo": "USD",
+        "fecha": "2025-02-03 10:00:00",
+        "impacto": "High",
+        "pronostico": "49.3",
+        "anterior": "49.3",
+        "actual": "50.9"
+    },
+    {
+        "titulo": "ISM Manufacturing Prices",
+        "activo": "USD",
+        "fecha": "2025-02-03 10:00:00",
+        "impacto": "Medium",
+        "pronostico": "52.6",
+        "anterior": "52.5",
+        "actual": "54.9"
+    },
+    {
+        "titulo": "Construction Spending m/m",
+        "activo": "USD",
+        "fecha": "2025-02-03 10:00:00",
+        "impacto": "Low",
+        "pronostico": "0.3%",
+        "anterior": "0.2%",
+        "actual": "0.5%"
+    },
+    {
+        "titulo": "Wards Total Vehicle Sales",
+        "activo": "USD",
+        "fecha": "2025-02-03 00:00:00",
+        "impacto": "Low",
+        "pronostico": "16.0M",
+        "anterior": "16.8M",
+        "actual": "15.6M"
+    },
+    {
+        "titulo": "FOMC Member Bostic Speaks",
+        "activo": "USD",
+        "fecha": "2025-02-03 12:30:00",
+        "impacto": "Low",
+        "pronostico": "",
+        "anterior": "",
+        "actual": ""
+    },
+    {
+        "titulo": "Loan Officer Survey",
+        "activo": "USD",
+        "fecha": "2025-02-03 14:00:00",
+        "impacto": "Low",
+        "pronostico": "",
+        "anterior": "",
+        "actual": ""
+    },
+    {
+        "titulo": "Building Consents m/m",
+        "activo": "NZD",
+        "fecha": "2025-02-03 16:45:00",
+        "impacto": "Low",
+        "pronostico": "",
+        "anterior": "4.9%",
+        "actual": "-5.6%"
+    },
+    {
+        "titulo": "FOMC Member Musalem Speaks",
+        "activo": "USD",
+        "fecha": "2025-02-03 18:30:00",
+        "impacto": "Low",
+        "pronostico": "",
+        "anterior": "",
+        "actual": ""
+    },
+    {
+        "titulo": "Monetary Base y/y",
+        "activo": "JPY",
+        "fecha": "2025-02-03 18:50:00",
+        "impacto": "Low",
+        "pronostico": "-0.5%",
+        "anterior": "-1.0%",
+        "actual": "-2.5%"
+    },
+    {
+        "titulo": "10-y Bond Auction",
+        "activo": "JPY",
+        "fecha": "2025-02-03 22:35:00",
+        "impacto": "Low",
+        "pronostico": "",
+        "anterior": "1.14|3.4",
+        "actual": "1.26|3.2"
+    },
+    {
+        "titulo": "French Gov Budget Balance",
+        "activo": "EUR",
+        "fecha": "2025-02-04 02:45:00",
+        "impacto": "Low",
+        "pronostico": "",
+        "anterior": "-172.5B",
+        "actual": "-156.3B"
+    },
+    {
+        "titulo": "Spanish Unemployment Change",
+        "activo": "EUR",
+        "fecha": "2025-02-04 03:00:00",
+        "impacto": "Low",
+        "pronostico": "55.4K",
+        "anterior": "-25.3K",
+        "actual": "38.7K"
+    },
+    {
+        "titulo": "JOLTS Job Openings",
+        "activo": "USD",
+        "fecha": "2025-02-04 10:00:00",
+        "impacto": "High",
+        "pronostico": "8.01M",
+        "anterior": "8.16M",
+        "actual": "7.60M"
+    },
+    {
+        "titulo": "Factory Orders m/m",
+        "activo": "USD",
+        "fecha": "2025-02-04 10:00:00",
+        "impacto": "Low",
+        "pronostico": "-0.7%",
+        "anterior": "-0.8%",
+        "actual": "-0.9%"
+    },
+    {
+        "titulo": "GDT Price Index",
+        "activo": "NZD",
+        "fecha": "2025-02-04 10:02:00",
+        "impacto": "Low",
+        "pronostico": "",
+        "anterior": "1.4%",
+        "actual": "3.7%"
+    },
+    {
+        "titulo": "RCM/TIPP Economic Optimism",
+        "activo": "USD",
+        "fecha": "2025-02-04 10:07:00",
+        "impacto": "Low",
+        "pronostico": "53.0",
+        "anterior": "51.9",
+        "actual": "52.0"
+    },
+    {
+        "titulo": "FOMC Member Bostic Speaks",
+        "activo": "USD",
+        "fecha": "2025-02-04 11:00:00",
+        "impacto": "Low",
+        "pronostico": "",
+        "anterior": "",
+        "actual": ""
+    },
+    {
+        "titulo": "FOMC Member Daly Speaks",
+        "activo": "USD",
+        "fecha": "2025-02-04 14:00:00",
+        "impacto": "Low",
+        "pronostico": "",
+        "anterior": "",
+        "actual": ""
+    },
+    {
+        "titulo": "Employment Change q/q",
+        "activo": "NZD",
+        "fecha": "2025-02-04 16:45:00",
+        "impacto": "High",
+        "pronostico": "-0.2%",
+        "anterior": "-0.6%",
+        "actual": "-0.1%"
+    },
+    {
+        "titulo": "Unemployment Rate",
+        "activo": "NZD",
+        "fecha": "2025-02-04 16:45:00",
+        "impacto": "High",
+        "pronostico": "5.1%",
+        "anterior": "4.8%",
+        "actual": "5.1%"
+    },
+    {
+        "titulo": "Labor Cost Index q/q",
+        "activo": "NZD",
+        "fecha": "2025-02-04 16:45:00",
+        "impacto": "Low",
+        "pronostico": "0.6%",
+        "anterior": "0.6%",
+        "actual": "0.6%"
+    },
+    {
+        "titulo": "President Trump Speaks",
+        "activo": "USD",
+        "fecha": "2025-02-04 17:10:00",
+        "impacto": "High",
+        "pronostico": "",
+        "anterior": "",
+        "actual": ""
+    },
+    {
+        "titulo": "Average Cash Earnings y/y",
+        "activo": "JPY",
+        "fecha": "2025-02-04 18:30:00",
+        "impacto": "Low",
+        "pronostico": "3.6%",
+        "anterior": "3.9%",
+        "actual": "4.8%"
+    },
+    {
+        "titulo": "ANZ Commodity Prices m/m",
+        "activo": "NZD",
+        "fecha": "2025-02-04 19:00:00",
+        "impacto": "Low",
+        "pronostico": "",
+        "anterior": "0.1%",
+        "actual": "1.8%"
+    },
+    {
+        "titulo": "FOMC Member Jefferson Speaks",
+        "activo": "USD",
+        "fecha": "2025-02-04 19:30:00",
+        "impacto": "Low",
+        "pronostico": "",
+        "anterior": "",
+        "actual": ""
+    },
+    {
+        "titulo": "Caixin Services PMI",
+        "activo": "CNY",
+        "fecha": "2025-02-04 20:45:00",
+        "impacto": "Low",
+        "pronostico": "52.3",
+        "anterior": "52.2",
+        "actual": "51.0"
+    },
+    {
+        "titulo": "French Industrial Production m/m",
+        "activo": "EUR",
+        "fecha": "2025-02-05 02:45:00",
+        "impacto": "Low",
+        "pronostico": "-0.1%",
+        "anterior": "0.1%",
+        "actual": "-0.4%"
+    },
+    {
+        "titulo": "Spanish Services PMI",
+        "activo": "EUR",
+        "fecha": "2025-02-05 03:15:00",
+        "impacto": "Low",
+        "pronostico": "56.7",
+        "anterior": "57.3",
+        "actual": "54.9"
+    },
+    {
+        "titulo": "Italian Services PMI",
+        "activo": "EUR",
+        "fecha": "2025-02-05 03:45:00",
+        "impacto": "Low",
+        "pronostico": "50.5",
+        "anterior": "50.7",
+        "actual": "50.4"
+    },
+    {
+        "titulo": "French Final Services PMI",
+        "activo": "EUR",
+        "fecha": "2025-02-05 03:50:00",
+        "impacto": "Low",
+        "pronostico": "48.9",
+        "anterior": "48.9",
+        "actual": "48.2"
+    },
+    {
+        "titulo": "German Final Services PMI",
+        "activo": "EUR",
+        "fecha": "2025-02-05 03:55:00",
+        "impacto": "Low",
+        "pronostico": "52.5",
+        "anterior": "52.5",
+        "actual": "52.5"
+    },
+    {
+        "titulo": "Final Services PMI",
+        "activo": "EUR",
+        "fecha": "2025-02-05 04:00:00",
+        "impacto": "Low",
+        "pronostico": "51.4",
+        "anterior": "51.4",
+        "actual": "51.3"
+    },
+    {
+        "titulo": "Italian Retail Sales m/m",
+        "activo": "EUR",
+        "fecha": "2025-02-05 04:00:00",
+        "impacto": "Low",
+        "pronostico": "0.1%",
+        "anterior": "-0.4%",
+        "actual": "0.6%"
+    },
+    {
+        "titulo": "Final Services PMI",
+        "activo": "GBP",
+        "fecha": "2025-02-05 04:30:00",
+        "impacto": "Low",
+        "pronostico": "51.2",
+        "anterior": "51.2",
+        "actual": "50.8"
+    },
+    {
+        "titulo": "PPI m/m",
+        "activo": "EUR",
+        "fecha": "2025-02-05 05:00:00",
+        "impacto": "Low",
+        "pronostico": "0.5%",
+        "anterior": "1.7%",
+        "actual": "0.4%"
+    },
+    {
+        "titulo": "FOMC Member Barkin Speaks",
+        "activo": "USD",
+        "fecha": "2025-02-05 07:30:00",
+        "impacto": "Low",
+        "pronostico": "",
+        "anterior": "",
+        "actual": ""
+    },
+    {
+        "titulo": "ADP Non-Farm Employment Change",
+        "activo": "USD",
+        "fecha": "2025-02-05 08:15:00",
+        "impacto": "High",
+        "pronostico": "148K",
+        "anterior": "176K",
+        "actual": "183K"
+    },
+    {
+        "titulo": "Trade Balance",
+        "activo": "CAD",
+        "fecha": "2025-02-05 08:30:00",
+        "impacto": "Low",
+        "pronostico": "1.0B",
+        "anterior": "-1.0B",
+        "actual": "0.7B"
+    },
+    {
+        "titulo": "Trade Balance",
+        "activo": "USD",
+        "fecha": "2025-02-05 08:30:00",
+        "impacto": "Low",
+        "pronostico": "-96.5B",
+        "anterior": "-78.9B",
+        "actual": "-98.4B"
+    },
+    {
+        "titulo": "FOMC Member Barkin Speaks",
+        "activo": "USD",
+        "fecha": "2025-02-05 09:00:00",
+        "impacto": "Low",
+        "pronostico": "",
+        "anterior": "",
+        "actual": ""
+    },
+    {
+        "titulo": "Final Services PMI",
+        "activo": "USD",
+        "fecha": "2025-02-05 09:45:00",
+        "impacto": "Medium",
+        "pronostico": "52.9",
+        "anterior": "52.8",
+        "actual": "52.9"
+    },
+    {
+        "titulo": "ISM Services PMI",
+        "activo": "USD",
+        "fecha": "2025-02-05 10:00:00",
+        "impacto": "High",
+        "pronostico": "54.2",
+        "anterior": "54.1",
+        "actual": "52.8"
+    },
+    {
+        "titulo": "Crude Oil Inventories",
+        "activo": "USD",
+        "fecha": "2025-02-05 10:30:00",
+        "impacto": "Medium",
+        "pronostico": "2.4M",
+        "anterior": "3.5M",
+        "actual": "8.7M"
+    },
+    {
+        "titulo": "FOMC Member Goolsbee Speaks",
+        "activo": "USD",
+        "fecha": "2025-02-05 14:30:00",
+        "impacto": "Low",
+        "pronostico": "",
+        "anterior": "",
+        "actual": ""
+    },
+    {
+        "titulo": "FOMC Member Bowman Speaks",
+        "activo": "USD",
+        "fecha": "2025-02-05 15:00:00",
+        "impacto": "Low",
+        "pronostico": "",
+        "anterior": "",
+        "actual": ""
+    },
+    {
+        "titulo": "Bank Holiday",
+        "activo": "NZD",
+        "fecha": "2025-02-05 00:00:00",
+        "impacto": "Non",
+        "pronostico": "",
+        "anterior": "",
+        "actual": ""
+    },
+    {
+        "titulo": "Goods Trade Balance",
+        "activo": "AUD",
+        "fecha": "2025-02-05 19:30:00",
+        "impacto": "Low",
+        "pronostico": "6.52B",
+        "anterior": "6.79B",
+        "actual": "5.09B"
+    },
+    {
+        "titulo": "FOMC Member Jefferson Speaks",
+        "activo": "USD",
+        "fecha": "2025-02-05 19:30:00",
+        "impacto": "Low",
+        "pronostico": "",
+        "anterior": "",
+        "actual": ""
+    },
+    {
+        "titulo": "NAB Quarterly Business Confidence",
+        "activo": "AUD",
+        "fecha": "2025-02-05 19:45:00",
+        "impacto": "Low",
+        "pronostico": "",
+        "anterior": "-7",
+        "actual": "-4"
+    },
+    {
+        "titulo": "30-y Bond Auction",
+        "activo": "JPY",
+        "fecha": "2025-02-05 22:35:00",
+        "impacto": "Low",
+        "pronostico": "",
+        "anterior": "2.30|3.7",
+        "actual": "2.29|3.7"
+    },
+    {
+        "titulo": "Unemployment Rate",
+        "activo": "CHF",
+        "fecha": "2025-02-06 01:45:00",
+        "impacto": "Low",
+        "pronostico": "2.7%",
+        "anterior": "2.7%",
+        "actual": "2.7%"
+    },
+    {
+        "titulo": "German Factory Orders m/m",
+        "activo": "EUR",
+        "fecha": "2025-02-06 02:00:00",
+        "impacto": "Low",
+        "pronostico": "1.9%",
+        "anterior": "-5.2%",
+        "actual": "6.9%"
+    },
+    {
+        "titulo": "Construction PMI",
+        "activo": "GBP",
+        "fecha": "2025-02-06 04:30:00",
+        "impacto": "Medium",
+        "pronostico": "53.5",
+        "anterior": "53.3",
+        "actual": "48.1"
+    },
+    {
+        "titulo": "Retail Sales m/m",
+        "activo": "EUR",
+        "fecha": "2025-02-06 05:00:00",
+        "impacto": "Low",
+        "pronostico": "-0.1%",
+        "anterior": "0.0%",
+        "actual": "-0.2%"
+    },
+    {
+        "titulo": "French 10-y Bond Auction",
+        "activo": "EUR",
+        "fecha": "2025-02-06 05:02:00",
+        "impacto": "Low",
+        "pronostico": "",
+        "anterior": "3.40|2.0",
+        "actual": "3.15|2.2"
+    },
+    {
+        "titulo": "BOE Monetary Policy Report",
+        "activo": "GBP",
+        "fecha": "2025-02-06 07:00:00",
+        "impacto": "High",
+        "pronostico": "",
+        "anterior": "",
+        "actual": ""
+    },
+    {
+        "titulo": "Monetary Policy Summary",
+        "activo": "GBP",
+        "fecha": "2025-02-06 07:00:00",
+        "impacto": "High",
+        "pronostico": "",
+        "anterior": "",
+        "actual": ""
+    },
+    {
+        "titulo": "MPC Official Bank Rate Votes",
+        "activo": "GBP",
+        "fecha": "2025-02-06 07:00:00",
+        "impacto": "High",
+        "pronostico": "0-8-1",
+        "anterior": "0-3-6",
+        "actual": "0-9-0"
+    },
+    {
+        "titulo": "Official Bank Rate",
+        "activo": "GBP",
+        "fecha": "2025-02-06 07:00:00",
+        "impacto": "High",
+        "pronostico": "4.50%",
+        "anterior": "4.75%",
+        "actual": "4.50%"
+    },
+    {
+        "titulo": "BOE Gov Bailey Speaks",
+        "activo": "GBP",
+        "fecha": "2025-02-06 07:30:00",
+        "impacto": "High",
+        "pronostico": "",
+        "anterior": "",
+        "actual": ""
+    },
+    {
+        "titulo": "Challenger Job Cuts y/y",
+        "activo": "USD",
+        "fecha": "2025-02-06 07:30:00",
+        "impacto": "Low",
+        "pronostico": "",
+        "anterior": "11.4%",
+        "actual": "-39.5%"
+    },
+    {
+        "titulo": "Unemployment Claims",
+        "activo": "USD",
+        "fecha": "2025-02-06 08:30:00",
+        "impacto": "High",
+        "pronostico": "214K",
+        "anterior": "208K",
+        "actual": "219K"
+    },
+    {
+        "titulo": "Prelim Nonfarm Productivity q/q",
+        "activo": "USD",
+        "fecha": "2025-02-06 08:30:00",
+        "impacto": "Low",
+        "pronostico": "1.5%",
+        "anterior": "2.3%",
+        "actual": "1.2%"
+    },
+    {
+        "titulo": "Prelim Unit Labor Costs q/q",
+        "activo": "USD",
+        "fecha": "2025-02-06 08:30:00",
+        "impacto": "Low",
+        "pronostico": "3.4%",
+        "anterior": "0.8%",
+        "actual": "3.0%"
+    },
+    {
+        "titulo": "Ivey PMI",
+        "activo": "CAD",
+        "fecha": "2025-02-06 10:00:00",
+        "impacto": "Medium",
+        "pronostico": "53.0",
+        "anterior": "54.7",
+        "actual": "47.1"
+    },
+    {
+        "titulo": "Mortgage Delinquencies",
+        "activo": "USD",
+        "fecha": "2025-02-06 10:00:00",
+        "impacto": "Low",
+        "pronostico": "",
+        "anterior": "3.92%",
+        "actual": "3.98%"
+    },
+    {
+        "titulo": "Natural Gas Storage",
+        "activo": "USD",
+        "fecha": "2025-02-06 10:30:00",
+        "impacto": "Low",
+        "pronostico": "-167B",
+        "anterior": "-321B",
+        "actual": "-174B"
+    },
+    {
+        "titulo": "FOMC Member Waller Speaks",
+        "activo": "USD",
+        "fecha": "2025-02-06 14:30:00",
+        "impacto": "Medium",
+        "pronostico": "",
+        "anterior": "",
+        "actual": ""
+    },
+    {
+        "titulo": "FOMC Member Daly Speaks",
+        "activo": "USD",
+        "fecha": "2025-02-06 15:30:00",
+        "impacto": "Low",
+        "pronostico": "",
+        "anterior": "",
+        "actual": ""
+    },
+    {
+        "titulo": "BOE Gov Bailey Speaks",
+        "activo": "GBP",
+        "fecha": "2025-02-06 16:05:00",
+        "impacto": "High",
+        "pronostico": "",
+        "anterior": "",
+        "actual": ""
+    },
+    {
+        "titulo": "FOMC Member Logan Speaks",
+        "activo": "USD",
+        "fecha": "2025-02-06 17:10:00",
+        "impacto": "Low",
+        "pronostico": "",
+        "anterior": "",
+        "actual": ""
+    },
+    {
+        "titulo": "Household Spending y/y",
+        "activo": "JPY",
+        "fecha": "2025-02-06 18:30:00",
+        "impacto": "Low",
+        "pronostico": "0.5%",
+        "anterior": "-0.4%",
+        "actual": "2.7%"
+    },
+    {
+        "titulo": "Leading Indicators",
+        "activo": "JPY",
+        "fecha": "2025-02-07 00:00:00",
+        "impacto": "Low",
+        "pronostico": "108.2%",
+        "anterior": "107.5%",
+        "actual": "108.9%"
+    },
+    {
+        "titulo": "German Industrial Production m/m",
+        "activo": "EUR",
+        "fecha": "2025-02-07 02:00:00",
+        "impacto": "Low",
+        "pronostico": "-0.7%",
+        "anterior": "1.3%",
+        "actual": "-2.4%"
+    },
+    {
+        "titulo": "German Trade Balance",
+        "activo": "EUR",
+        "fecha": "2025-02-07 02:00:00",
+        "impacto": "Low",
+        "pronostico": "17.0B",
+        "anterior": "19.2B",
+        "actual": "20.7B"
+    },
+    {
+        "titulo": "Halifax HPI m/m",
+        "activo": "GBP",
+        "fecha": "2025-02-07 02:00:00",
+        "impacto": "Low",
+        "pronostico": "0.4%",
+        "anterior": "-0.2%",
+        "actual": "0.7%"
+    },
+    {
+        "titulo": "French Prelim Private Payrolls q/q",
+        "activo": "EUR",
+        "fecha": "2025-02-07 02:45:00",
+        "impacto": "Low",
+        "pronostico": "-0.1%",
+        "anterior": "0.1%",
+        "actual": "-0.2%"
+    },
+    {
+        "titulo": "French Trade Balance",
+        "activo": "EUR",
+        "fecha": "2025-02-07 02:45:00",
+        "impacto": "Low",
+        "pronostico": "-5.3B",
+        "anterior": "-6.3B",
+        "actual": "-3.9B"
+    },
+    {
+        "titulo": "Foreign Currency Reserves",
+        "activo": "CHF",
+        "fecha": "2025-02-07 03:00:00",
+        "impacto": "Low",
+        "pronostico": "",
+        "anterior": "731B",
+        "actual": "736B"
+    },
+    {
+        "titulo": "SECO Consumer Climate",
+        "activo": "CHF",
+        "fecha": "2025-02-07 03:00:00",
+        "impacto": "Low",
+        "pronostico": "-31",
+        "anterior": "-30",
+        "actual": "-29"
+    },
+    {
+        "titulo": "MPC Member Pill Speaks",
+        "activo": "GBP",
+        "fecha": "2025-02-07 07:15:00",
+        "impacto": "Low",
+        "pronostico": "",
+        "anterior": "",
+        "actual": ""
+    },
+    {
+        "titulo": "Employment Change",
+        "activo": "CAD",
+        "fecha": "2025-02-07 08:30:00",
+        "impacto": "High",
+        "pronostico": "25.5K",
+        "anterior": "90.9K",
+        "actual": "76.0K"
+    },
+    {
+        "titulo": "Unemployment Rate",
+        "activo": "CAD",
+        "fecha": "2025-02-07 08:30:00",
+        "impacto": "High",
+        "pronostico": "6.8%",
+        "anterior": "6.7%",
+        "actual": "6.6%"
+    },
+    {
+        "titulo": "Average Hourly Earnings m/m",
+        "activo": "USD",
+        "fecha": "2025-02-07 08:30:00",
+        "impacto": "High",
+        "pronostico": "0.3%",
+        "anterior": "0.3%",
+        "actual": "0.5%"
+    },
+    {
+        "titulo": "Non-Farm Employment Change",
+        "activo": "USD",
+        "fecha": "2025-02-07 08:30:00",
+        "impacto": "High",
+        "pronostico": "169K",
+        "anterior": "307K",
+        "actual": "143K"
+    },
+    {
+        "titulo": "Unemployment Rate",
+        "activo": "USD",
+        "fecha": "2025-02-07 08:30:00",
+        "impacto": "High",
+        "pronostico": "4.1%",
+        "anterior": "4.1%",
+        "actual": "4.0%"
+    },
+    {
+        "titulo": "FOMC Member Bowman Speaks",
+        "activo": "USD",
+        "fecha": "2025-02-07 09:25:00",
+        "impacto": "Low",
+        "pronostico": "",
+        "anterior": "",
+        "actual": ""
+    },
+    {
+        "titulo": "Prelim UoM Consumer Sentiment",
+        "activo": "USD",
+        "fecha": "2025-02-07 10:00:00",
+        "impacto": "Medium",
+        "pronostico": "71.9",
+        "anterior": "71.1",
+        "actual": "67.8"
+    },
+    {
+        "titulo": "Prelim UoM Inflation Expectations",
+        "activo": "USD",
+        "fecha": "2025-02-07 10:00:00",
+        "impacto": "Medium",
+        "pronostico": "",
+        "anterior": "3.3%",
+        "actual": "4.3%"
+    },
+    {
+        "titulo": "Final Wholesale Inventories m/m",
+        "activo": "USD",
+        "fecha": "2025-02-07 10:00:00",
+        "impacto": "Low",
+        "pronostico": "-0.5%",
+        "anterior": "-0.5%",
+        "actual": "-0.5%"
+    },
+    {
+        "titulo": "FOMC Member Goolsbee Speaks",
+        "activo": "USD",
+        "fecha": "2025-02-07 10:30:00",
+        "impacto": "Low",
+        "pronostico": "",
+        "anterior": "",
+        "actual": ""
+    },
+    {
+        "titulo": "Fed Monetary Policy Report",
+        "activo": "USD",
+        "fecha": "2025-02-07 11:00:00",
+        "impacto": "Low",
+        "pronostico": "",
+        "anterior": "",
+        "actual": ""
+    },
+    {
+        "titulo": "FOMC Member Kugler Speaks",
+        "activo": "USD",
+        "fecha": "2025-02-07 12:00:00",
+        "impacto": "Low",
+        "pronostico": "",
+        "anterior": "",
+        "actual": ""
+    },
+    {
+        "titulo": "Consumer Credit m/m",
+        "activo": "USD",
+        "fecha": "2025-02-07 15:00:00",
+        "impacto": "Low",
+        "pronostico": "17.7B",
+        "anterior": "-5.4B",
+        "actual": "40.8B"
+    },
+    {
+        "titulo": "CPI y/y",
+        "activo": "CNY",
+        "fecha": "2025-02-08 20:30:00",
+        "impacto": "Medium",
+        "pronostico": "0.4%",
+        "anterior": "0.1%",
+        "actual": "0.5%"
+    },
+    {
+        "titulo": "PPI y/y",
+        "activo": "CNY",
+        "fecha": "2025-02-08 20:30:00",
+        "impacto": "Medium",
+        "pronostico": "-2.2%",
+        "anterior": "-2.3%",
+        "actual": "-2.3%"
+    },
+    {
+        "titulo": "Bank Lending y/y",
+        "activo": "JPY",
+        "fecha": "2025-02-09 18:50:00",
+        "impacto": "Low",
+        "pronostico": "3.1%",
+        "anterior": "3.0%",
+        "actual": "3.0%"
+    },
+    {
+        "titulo": "Current Account",
+        "activo": "JPY",
+        "fecha": "2025-02-09 18:50:00",
+        "impacto": "Low",
+        "pronostico": "2.73T",
+        "anterior": "3.03T",
+        "actual": "2.73T"
+    },
+    {
+        "titulo": "Economy Watchers Sentiment",
+        "activo": "JPY",
+        "fecha": "2025-02-10 00:00:00",
+        "impacto": "Low",
+        "pronostico": "49.7",
+        "anterior": "49.9",
+        "actual": "48.6"
+    },
+    {
+        "titulo": "Sentix Investor Confidence",
+        "activo": "EUR",
+        "fecha": "2025-02-10 04:30:00",
+        "impacto": "Low",
+        "pronostico": "-16.4",
+        "anterior": "-17.7",
+        "actual": "-12.7"
+    },
+    {
+        "titulo": "Cleveland Fed Inflation Expectations",
+        "activo": "USD",
+        "fecha": "2025-02-10 09:45:00",
+        "impacto": "Low",
+        "pronostico": "",
+        "anterior": "3.8%",
+        "actual": "3.2%"
+    },
+    {
+        "titulo": "ECB President Lagarde Speaks",
+        "activo": "EUR",
+        "fecha": "2025-02-10 11:15:00",
+        "impacto": "Medium",
+        "pronostico": "",
+        "anterior": "",
+        "actual": ""
+    },
+    {
+        "titulo": "President Trump Speaks",
+        "activo": "USD",
+        "fecha": "2025-02-10 16:30:00",
+        "impacto": "High",
+        "pronostico": "",
+        "anterior": "",
+        "actual": ""
+    },
+    {
+        "titulo": "Westpac Consumer Sentiment",
+        "activo": "AUD",
+        "fecha": "2025-02-10 18:30:00",
+        "impacto": "Low",
+        "pronostico": "",
+        "anterior": "-0.7%",
+        "actual": "0.1%"
+    },
+    {
+        "titulo": "Bank Holiday",
+        "activo": "JPY",
+        "fecha": "2025-02-10 00:00:00",
+        "impacto": "Non",
+        "pronostico": "",
+        "anterior": "",
+        "actual": ""
+    },
+    {
+        "titulo": "BRC Retail Sales Monitor y/y",
+        "activo": "GBP",
+        "fecha": "2025-02-10 19:01:00",
+        "impacto": "Low",
+        "pronostico": "1.1%",
+        "anterior": "3.1%",
+        "actual": "2.5%"
+    },
+    {
+        "titulo": "NAB Business Confidence",
+        "activo": "AUD",
+        "fecha": "2025-02-10 19:30:00",
+        "impacto": "Low",
+        "pronostico": "",
+        "anterior": "-2",
+        "actual": "4"
+    },
+    {
+        "titulo": "MPC Member Mann Speaks",
+        "activo": "GBP",
+        "fecha": "2025-02-11 03:45:00",
+        "impacto": "Low",
+        "pronostico": "",
+        "anterior": "",
+        "actual": ""
+    },
+    {
+        "titulo": "NFIB Small Business Index",
+        "activo": "USD",
+        "fecha": "2025-02-11 06:00:00",
+        "impacto": "Low",
+        "pronostico": "104.6",
+        "anterior": "105.1",
+        "actual": "102.8"
+    },
+    {
+        "titulo": "BOE Gov Bailey Speaks",
+        "activo": "GBP",
+        "fecha": "2025-02-11 07:15:00",
+        "impacto": "High",
+        "pronostico": "",
+        "anterior": "",
+        "actual": ""
+    },
+    {
+        "titulo": "Building Permits m/m",
+        "activo": "CAD",
+        "fecha": "2025-02-11 08:30:00",
+        "impacto": "Low",
+        "pronostico": "1.6%",
+        "anterior": "-5.6%",
+        "actual": "11.0%"
+    },
+    {
+        "titulo": "FOMC Member Hammack Speaks",
+        "activo": "USD",
+        "fecha": "2025-02-11 08:50:00",
+        "impacto": "Low",
+        "pronostico": "",
+        "anterior": "",
+        "actual": ""
+    },
+    {
+        "titulo": "Fed Chair Powell Testifies",
+        "activo": "USD",
+        "fecha": "2025-02-11 10:00:00",
+        "impacto": "High",
+        "pronostico": "",
+        "anterior": "",
+        "actual": ""
+    },
+    {
+        "titulo": "FOMC Member Bowman Speaks",
+        "activo": "USD",
+        "fecha": "2025-02-11 15:30:00",
+        "impacto": "Low",
+        "pronostico": "",
+        "anterior": "",
+        "actual": ""
+    },
+    {
+        "titulo": "FOMC Member Williams Speaks",
+        "activo": "USD",
+        "fecha": "2025-02-11 15:30:00",
+        "impacto": "Low",
+        "pronostico": "",
+        "anterior": "",
+        "actual": ""
+    },
+    {
+        "titulo": "President Trump Speaks",
+        "activo": "USD",
+        "fecha": "2025-02-11 15:40:00",
+        "impacto": "High",
+        "pronostico": "",
+        "anterior": "",
+        "actual": ""
+    },
+    {
+        "titulo": "M2 Money Stock y/y",
+        "activo": "JPY",
+        "fecha": "2025-02-11 18:50:00",
+        "impacto": "Low",
+        "pronostico": "1.3%",
+        "anterior": "1.3%",
+        "actual": "1.3%"
+    },
+    {
+        "titulo": "Prelim Machine Tool Orders y/y",
+        "activo": "JPY",
+        "fecha": "2025-02-12 00:59:00",
+        "impacto": "Low",
+        "pronostico": "",
+        "anterior": "12.6%",
+        "actual": "4.7%"
+    },
+    {
+        "titulo": "Italian Industrial Production m/m",
+        "activo": "EUR",
+        "fecha": "2025-02-12 04:00:00",
+        "impacto": "Low",
+        "pronostico": "-0.1%",
+        "anterior": "0.3%",
+        "actual": "-3.1%"
+    },
+    {
+        "titulo": "German 30-y Bond Auction",
+        "activo": "EUR",
+        "fecha": "2025-02-12 05:37:00",
+        "impacto": "Low",
+        "pronostico": "",
+        "anterior": "2.84|2.8",
+        "actual": "2.70|2.5"
+    },
+    {
+        "titulo": "Core CPI m/m",
+        "activo": "USD",
+        "fecha": "2025-02-12 08:30:00",
+        "impacto": "High",
+        "pronostico": "0.3%",
+        "anterior": "0.2%",
+        "actual": "0.4%"
+    },
+    {
+        "titulo": "CPI m/m",
+        "activo": "USD",
+        "fecha": "2025-02-12 08:30:00",
+        "impacto": "High",
+        "pronostico": "0.3%",
+        "anterior": "0.4%",
+        "actual": "0.5%"
+    },
+    {
+        "titulo": "CPI y/y",
+        "activo": "USD",
+        "fecha": "2025-02-12 08:30:00",
+        "impacto": "High",
+        "pronostico": "2.9%",
+        "anterior": "2.9%",
+        "actual": "3.0%"
+    },
+    {
+        "titulo": "CB Leading Index m/m",
+        "activo": "GBP",
+        "fecha": "2025-02-12 09:30:00",
+        "impacto": "Low",
+        "pronostico": "",
+        "anterior": "-0.1%",
+        "actual": "-0.1%"
+    },
+    {
+        "titulo": "MPC Member Greene Speaks",
+        "activo": "GBP",
+        "fecha": "2025-02-12 10:00:00",
+        "impacto": "Low",
+        "pronostico": "",
+        "anterior": "",
+        "actual": ""
+    },
+    {
+        "titulo": "Fed Chair Powell Testifies",
+        "activo": "USD",
+        "fecha": "2025-02-12 10:00:00",
+        "impacto": "High",
+        "pronostico": "",
+        "anterior": "",
+        "actual": ""
+    },
+    {
+        "titulo": "Crude Oil Inventories",
+        "activo": "USD",
+        "fecha": "2025-02-12 10:30:00",
+        "impacto": "Medium",
+        "pronostico": "2.4M",
+        "anterior": "8.7M",
+        "actual": "4.1M"
+    },
+    {
+        "titulo": "German Buba President Nagel Speaks",
+        "activo": "EUR",
+        "fecha": "2025-02-12 12:00:00",
+        "impacto": "Low",
+        "pronostico": "",
+        "anterior": "",
+        "actual": ""
+    },
+    {
+        "titulo": "FOMC Member Bostic Speaks",
+        "activo": "USD",
+        "fecha": "2025-02-12 12:00:00",
+        "impacto": "Low",
+        "pronostico": "",
+        "anterior": "",
+        "actual": ""
+    },
+    {
+        "titulo": "10-y Bond Auction",
+        "activo": "USD",
+        "fecha": "2025-02-12 13:01:00",
+        "impacto": "Low",
+        "pronostico": "",
+        "anterior": "4.68|2.5",
+        "actual": "4.63|2.5"
+    },
+    {
+        "titulo": "BOC Summary of Deliberations",
+        "activo": "CAD",
+        "fecha": "2025-02-12 13:30:00",
+        "impacto": "Low",
+        "pronostico": "",
+        "anterior": "",
+        "actual": ""
+    },
+    {
+        "titulo": "Federal Budget Balance",
+        "activo": "USD",
+        "fecha": "2025-02-12 14:00:00",
+        "impacto": "Low",
+        "pronostico": "-88.1B",
+        "anterior": "-86.7B",
+        "actual": "-128.6B"
+    },
+    {
+        "titulo": "President Trump Speaks",
+        "activo": "USD",
+        "fecha": "2025-02-12 15:48:00",
+        "impacto": "High",
+        "pronostico": "",
+        "anterior": "",
+        "actual": ""
+    },
+    {
+        "titulo": "FOMC Member Waller Speaks",
+        "activo": "USD",
+        "fecha": "2025-02-12 17:05:00",
+        "impacto": "Medium",
+        "pronostico": "",
+        "anterior": "",
+        "actual": ""
+    },
+    {
+        "titulo": "PPI y/y",
+        "activo": "JPY",
+        "fecha": "2025-02-12 18:50:00",
+        "impacto": "Low",
+        "pronostico": "4.0%",
+        "anterior": "3.9%",
+        "actual": "4.2%"
+    },
+    {
+        "titulo": "MI Inflation Expectations",
+        "activo": "AUD",
+        "fecha": "2025-02-12 19:00:00",
+        "impacto": "Low",
+        "pronostico": "",
+        "anterior": "4.0%",
+        "actual": "4.6%"
+    },
+    {
+        "titulo": "RICS House Price Balance",
+        "activo": "GBP",
+        "fecha": "2025-02-12 19:01:00",
+        "impacto": "Low",
+        "pronostico": "27%",
+        "anterior": "26%",
+        "actual": "22%"
+    },
+    {
+        "titulo": "Inflation Expectations q/q",
+        "activo": "NZD",
+        "fecha": "2025-02-12 21:00:00",
+        "impacto": "High",
+        "pronostico": "",
+        "anterior": "2.12%",
+        "actual": "2.06%"
+    },
+    {
+        "titulo": "German Final CPI m/m",
+        "activo": "EUR",
+        "fecha": "2025-02-13 02:00:00",
+        "impacto": "Low",
+        "pronostico": "-0.2%",
+        "anterior": "-0.2%",
+        "actual": "-0.2%"
+    },
+    {
+        "titulo": "GDP m/m",
+        "activo": "GBP",
+        "fecha": "2025-02-13 02:00:00",
+        "impacto": "High",
+        "pronostico": "0.1%",
+        "anterior": "0.1%",
+        "actual": "0.4%"
+    },
+    {
+        "titulo": "Prelim GDP q/q",
+        "activo": "GBP",
+        "fecha": "2025-02-13 02:00:00",
+        "impacto": "Medium",
+        "pronostico": "-0.1%",
+        "anterior": "0.0%",
+        "actual": "0.1%"
+    },
+    {
+        "titulo": "Construction Output m/m",
+        "activo": "GBP",
+        "fecha": "2025-02-13 02:00:00",
+        "impacto": "Low",
+        "pronostico": "0.2%",
+        "anterior": "0.6%",
+        "actual": "-0.2%"
+    },
+    {
+        "titulo": "Goods Trade Balance",
+        "activo": "GBP",
+        "fecha": "2025-02-13 02:00:00",
+        "impacto": "Low",
+        "pronostico": "-18.6B",
+        "anterior": "-18.9B",
+        "actual": "-17.4B"
+    },
+    {
+        "titulo": "Index of Services 3m/3m",
+        "activo": "GBP",
+        "fecha": "2025-02-13 02:00:00",
+        "impacto": "Low",
+        "pronostico": "0.1%",
+        "anterior": "0.0%",
+        "actual": "0.2%"
+    },
+    {
+        "titulo": "Industrial Production m/m",
+        "activo": "GBP",
+        "fecha": "2025-02-13 02:00:00",
+        "impacto": "Low",
+        "pronostico": "0.2%",
+        "anterior": "-0.5%",
+        "actual": "0.5%"
+    },
+    {
+        "titulo": "Manufacturing Production m/m",
+        "activo": "GBP",
+        "fecha": "2025-02-13 02:00:00",
+        "impacto": "Low",
+        "pronostico": "0.0%",
+        "anterior": "-0.3%",
+        "actual": "0.7%"
+    },
+    {
+        "titulo": "Prelim Business Investment q/q",
+        "activo": "GBP",
+        "fecha": "2025-02-13 02:00:00",
+        "impacto": "Low",
+        "pronostico": "-0.4%",
+        "anterior": "1.9%",
+        "actual": "-3.2%"
+    },
+    {
+        "titulo": "CPI m/m",
+        "activo": "CHF",
+        "fecha": "2025-02-13 02:30:00",
+        "impacto": "High",
+        "pronostico": "-0.1%",
+        "anterior": "-0.1%",
+        "actual": "-0.1%"
+    },
+    {
+        "titulo": "ECB Economic Bulletin",
+        "activo": "EUR",
+        "fecha": "2025-02-13 04:00:00",
+        "impacto": "Low",
+        "pronostico": "",
+        "anterior": "",
+        "actual": ""
+    },
+    {
+        "titulo": "Industrial Production m/m",
+        "activo": "EUR",
+        "fecha": "2025-02-13 05:00:00",
+        "impacto": "Low",
+        "pronostico": "-0.6%",
+        "anterior": "0.4%",
+        "actual": "-1.1%"
+    },
+    {
+        "titulo": "NIESR GDP Estimate",
+        "activo": "GBP",
+        "fecha": "2025-02-13 07:46:00",
+        "impacto": "Low",
+        "pronostico": "",
+        "anterior": "0.1%",
+        "actual": "0.3%"
+    },
+    {
+        "titulo": "Core PPI m/m",
+        "activo": "USD",
+        "fecha": "2025-02-13 08:30:00",
+        "impacto": "High",
+        "pronostico": "0.3%",
+        "anterior": "0.4%",
+        "actual": "0.3%"
+    },
+    {
+        "titulo": "PPI m/m",
+        "activo": "USD",
+        "fecha": "2025-02-13 08:30:00",
+        "impacto": "High",
+        "pronostico": "0.3%",
+        "anterior": "0.5%",
+        "actual": "0.4%"
+    },
+    {
+        "titulo": "Unemployment Claims",
+        "activo": "USD",
+        "fecha": "2025-02-13 08:30:00",
+        "impacto": "High",
+        "pronostico": "217K",
+        "anterior": "220K",
+        "actual": "213K"
+    },
+    {
+        "titulo": "CB Leading Index m/m",
+        "activo": "AUD",
+        "fecha": "2025-02-13 10:30:00",
+        "impacto": "Low",
+        "pronostico": "",
+        "anterior": "0.6%",
+        "actual": "0.2%"
+    },
+    {
+        "titulo": "Natural Gas Storage",
+        "activo": "USD",
+        "fecha": "2025-02-13 10:30:00",
+        "impacto": "Low",
+        "pronostico": "-90B",
+        "anterior": "-174B",
+        "actual": "-100B"
+    },
+    {
+        "titulo": "German Buba President Nagel Speaks",
+        "activo": "EUR",
+        "fecha": "2025-02-13 12:00:00",
+        "impacto": "Low",
+        "pronostico": "",
+        "anterior": "",
+        "actual": ""
+    },
+    {
+        "titulo": "30-y Bond Auction",
+        "activo": "USD",
+        "fecha": "2025-02-13 13:01:00",
+        "impacto": "Low",
+        "pronostico": "",
+        "anterior": "4.91|2.5",
+        "actual": "4.75|2.3"
+    },
+    {
+        "titulo": "President Trump Speaks",
+        "activo": "USD",
+        "fecha": "2025-02-13 13:36:00",
+        "impacto": "High",
+        "pronostico": "",
+        "anterior": "",
+        "actual": ""
+    },
+    {
+        "titulo": "BusinessNZ Manufacturing Index",
+        "activo": "NZD",
+        "fecha": "2025-02-13 16:30:00",
+        "impacto": "Low",
+        "pronostico": "",
+        "anterior": "46.2",
+        "actual": "51.4"
+    },
+    {
+        "titulo": "FPI m/m",
+        "activo": "NZD",
+        "fecha": "2025-02-13 16:45:00",
+        "impacto": "Low",
+        "pronostico": "",
+        "anterior": "0.1%",
+        "actual": "1.9%"
+    },
+    {
+        "titulo": "German WPI m/m",
+        "activo": "EUR",
+        "fecha": "2025-02-14 02:00:00",
+        "impacto": "Low",
+        "pronostico": "0.2%",
+        "anterior": "0.1%",
+        "actual": "0.9%"
+    },
+    {
+        "titulo": "PPI m/m",
+        "activo": "CHF",
+        "fecha": "2025-02-14 02:30:00",
+        "impacto": "Low",
+        "pronostico": "0.1%",
+        "anterior": "0.0%",
+        "actual": "0.1%"
+    },
+    {
+        "titulo": "M2 Money Supply y/y",
+        "activo": "CNY",
+        "fecha": "2025-02-14 04:02:00",
+        "impacto": "Low",
+        "pronostico": "7.3%",
+        "anterior": "7.3%",
+        "actual": "7.0%"
+    },
+    {
+        "titulo": "New Loans",
+        "activo": "CNY",
+        "fecha": "2025-02-14 04:03:00",
+        "impacto": "Medium",
+        "pronostico": "770B",
+        "anterior": "990B",
+        "actual": "5130B"
+    },
+    {
+        "titulo": "Flash Employment Change q/q",
+        "activo": "EUR",
+        "fecha": "2025-02-14 05:00:00",
+        "impacto": "Low",
+        "pronostico": "0.1%",
+        "anterior": "0.2%",
+        "actual": "0.1%"
+    },
+    {
+        "titulo": "Flash GDP q/q",
+        "activo": "EUR",
+        "fecha": "2025-02-14 05:00:00",
+        "impacto": "Low",
+        "pronostico": "0.0%",
+        "anterior": "0.0%",
+        "actual": "0.1%"
+    },
+    {
+        "titulo": "Manufacturing Sales m/m",
+        "activo": "CAD",
+        "fecha": "2025-02-14 08:30:00",
+        "impacto": "Low",
+        "pronostico": "0.8%",
+        "anterior": "0.8%",
+        "actual": "0.3%"
+    },
+    {
+        "titulo": "Wholesale Sales m/m",
+        "activo": "CAD",
+        "fecha": "2025-02-14 08:30:00",
+        "impacto": "Low",
+        "pronostico": "0.2%",
+        "anterior": "0.0%",
+        "actual": "-0.2%"
+    },
+    {
+        "titulo": "Core Retail Sales m/m",
+        "activo": "USD",
+        "fecha": "2025-02-14 08:30:00",
+        "impacto": "High",
+        "pronostico": "0.3%",
+        "anterior": "0.7%",
+        "actual": "-0.4%"
+    },
+    {
+        "titulo": "Retail Sales m/m",
+        "activo": "USD",
+        "fecha": "2025-02-14 08:30:00",
+        "impacto": "High",
+        "pronostico": "-0.2%",
+        "anterior": "0.7%",
+        "actual": "-0.9%"
+    },
+    {
+        "titulo": "Import Prices m/m",
+        "activo": "USD",
+        "fecha": "2025-02-14 08:30:00",
+        "impacto": "Low",
+        "pronostico": "0.4%",
+        "anterior": "0.2%",
+        "actual": "0.3%"
+    },
+    {
+        "titulo": "Capacity Utilization Rate",
+        "activo": "USD",
+        "fecha": "2025-02-14 09:15:00",
+        "impacto": "Low",
+        "pronostico": "77.7%",
+        "anterior": "77.5%",
+        "actual": "77.8%"
+    },
+    {
+        "titulo": "Industrial Production m/m",
+        "activo": "USD",
+        "fecha": "2025-02-14 09:15:00",
+        "impacto": "Low",
+        "pronostico": "0.3%",
+        "anterior": "1.0%",
+        "actual": "0.5%"
+    },
+    {
+        "titulo": "Business Inventories m/m",
+        "activo": "USD",
+        "fecha": "2025-02-14 10:00:00",
+        "impacto": "Low",
+        "pronostico": "0.0%",
+        "anterior": "0.1%",
+        "actual": "-0.2%"
+    },
+    {
+        "titulo": "President Trump Speaks",
+        "activo": "USD",
+        "fecha": "2025-02-14 00:00:00",
+        "impacto": "High",
+        "pronostico": "",
+        "anterior": "",
+        "actual": ""
+    },
+    {
+        "titulo": "FOMC Member Logan Speaks",
+        "activo": "USD",
+        "fecha": "2025-02-14 15:00:00",
+        "impacto": "Low",
+        "pronostico": "",
+        "anterior": "",
+        "actual": ""
+    }
+]

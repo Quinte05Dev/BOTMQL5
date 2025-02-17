@@ -1,0 +1,78 @@
+Date,Time,Currency,Impact,Event,Detail,Actual,Forecast,Previous
+2024-12-20 02:00:00,02:00:00,EUR,Low,German PPI m/m,,0.5%,0.3%,0.2%
+2024-12-20 02:00:00,,GBP,High,Retail Sales m/m,,0.2%,0.5%,-0.7%
+2024-12-20 02:00:00,,GBP,Low,Public Sector Net Borrowing,,11.2B,15.5B,18.2B
+2024-12-20 06:00:00,06:00:00,GBP,Low,CBI Realized Sales,,-15,-9,-18
+2024-12-20 07:30:00,07:30:00,USD,Low,FOMC Member Daly Speaks,,,,
+2024-12-20 08:30:00,08:30:00,CAD,High,Core Retail Sales m/m,,0.1%,0.2%,1.1%
+2024-12-20 08:30:00,,CAD,High,Retail Sales m/m,,0.6%,0.7%,0.6%
+2024-12-20 08:30:00,,USD,High,Core PCE Price Index m/m,,0.1%,0.2%,0.3%
+2024-12-20 08:30:00,,USD,Low,Personal Income m/m,,0.3%,0.4%,0.7%
+2024-12-20 08:30:00,,USD,Low,Personal Spending m/m,,0.4%,0.5%,0.3%
+2024-12-20 08:48:00,08:48:00,EUR,Low,Belgian NBB Business Climate,,-13.8,-11.7,-11.1
+2024-12-20 10:00:00,10:00:00,EUR,Low,Consumer Confidence,,-15,-14,-14
+2024-12-20 10:00:00,,USD,Medium,Revised UoM Consumer Sentiment,,74.0,74.1,74.0
+2024-12-20 10:00:00,,USD,Low,Revised UoM Inflation Expectations,,2.8%,,2.9%
+2024-12-20 11:30:00,11:30:00,AUD,Low,CB Leading Index m/m,,0.2%,,0.2%
+2024-12-23 02:00:00,02:00:00,EUR,Low,German Import Prices m/m,,0.9%,0.5%,0.6%
+2024-12-23 02:00:00,,GBP,Low,Current Account,,-18.1B,-22.9B,-24.0B
+2024-12-23 02:00:00,,GBP,Low,Final GDP q/q,,0.0%,0.1%,0.1%
+2024-12-23 02:00:00,,GBP,Low,Revised Business Investment q/q,,1.9%,1.2%,1.2%
+2024-12-23 04:00:00,04:00:00,CHF,Low,UBS Economic Expectations,,-20.0,,-12.4
+2024-12-23 08:30:00,08:30:00,CAD,High,GDP m/m,,0.3%,0.2%,0.2%
+2024-12-23 08:30:00,,CAD,Low,IPPI m/m,,0.6%,0.3%,1.2%
+2024-12-23 08:30:00,,CAD,Low,RMPI m/m,,-0.5%,0.4%,4.0%
+2024-12-23 08:30:00,,USD,Medium,Core Durable Goods Orders m/m,,-0.1%,0.3%,0.2%
+2024-12-23 08:30:00,,USD,Medium,Durable Goods Orders m/m,,-1.1%,-0.3%,0.3%
+2024-12-23 10:00:00,10:00:00,USD,Medium,CB Consumer Confidence,,104.7,112.9,112.8
+2024-12-23 10:00:00,,USD,Medium,New Home Sales,,664K,666K,627K
+2024-12-23 13:30:00,13:30:00,CAD,Low,BOC Summary of Deliberations,,,,
+2024-12-23 18:50:00,18:50:00,JPY,Low,Monetary Policy Meeting Minutes,,,,
+2024-12-23 19:30:00,19:30:00,AUD,Medium,Monetary Policy Meeting Minutes,,,,
+2024-12-23 23:59:00,23:59:00,JPY,Low,BOJ Core CPI y/y,,1.7%,1.5%,1.5%
+2024-12-24 00:00:00,00:00:00,EUR,Non,German Bank Holiday,,,,
+2024-12-24 09:59:00,09:59:00,USD,Medium,Richmond Manufacturing Index,,-10,-10,-14
+2024-12-24 00:00:00,00:00:00,NZD,Non,Bank Holiday,,,,
+2024-12-24 00:00:00,00:00:00,AUD,Non,Bank Holiday,,,,
+2024-12-24 18:50:00,18:50:00,JPY,Low,SPPI y/y,,3.0%,3.0%,2.9%
+2024-12-24 23:17:00,23:17:00,JPY,Low,BOJ Gov Ueda Speaks,,,,
+2024-12-25 00:00:00,00:00:00,CHF,Non,Bank Holiday,,,,
+2024-12-25 00:00:00,00:00:00,EUR,Non,French Bank Holiday,,,,
+2024-12-25 00:00:00,00:00:00,EUR,Non,German Bank Holiday,,,,
+2024-12-25 00:00:00,00:00:00,EUR,Non,Italian Bank Holiday,,,,
+2024-12-25 00:00:00,00:00:00,GBP,Non,Bank Holiday,,,,
+2024-12-25 00:00:00,00:00:00,CAD,Non,Bank Holiday,,,,
+2024-12-25 00:00:00,00:00:00,USD,Non,Bank Holiday,,,,
+2024-12-25 00:00:00,00:00:00,NZD,Non,Bank Holiday,,,,
+2024-12-25 00:00:00,00:00:00,AUD,Non,Bank Holiday,,,,
+2024-12-26 00:00:00,00:00:00,CHF,Non,Bank Holiday,,,,
+2024-12-26 00:00:00,00:00:00,EUR,Non,German Bank Holiday,,,,
+2024-12-26 00:00:00,00:00:00,EUR,Non,Italian Bank Holiday,,,,
+2024-12-26 00:00:00,00:00:00,GBP,Non,Bank Holiday,,,,
+2024-12-26 00:00:00,00:00:00,CAD,Non,Bank Holiday,,,,
+2024-12-26 08:30:00,08:30:00,USD,High,Unemployment Claims,,219K,223K,220K
+2024-12-26 18:30:00,18:30:00,JPY,Medium,Tokyo Core CPI y/y,,2.4%,2.5%,2.2%
+2024-12-26 18:30:00,,JPY,Low,Unemployment Rate,,2.5%,2.5%,2.5%
+2024-12-26 18:50:00,18:50:00,JPY,Low,BOJ Summary of Opinions,,,,
+2024-12-26 18:50:00,,JPY,Low,Prelim Industrial Production m/m,,-2.3%,-3.4%,2.8%
+2024-12-26 18:50:00,,JPY,Low,Retail Sales y/y,,2.8%,1.5%,1.3%
+2024-12-27 00:00:00,00:00:00,JPY,Low,Housing Starts y/y,,-1.8%,-0.1%,-2.9%
+2024-12-27 08:30:00,08:30:00,USD,Low,Goods Trade Balance,,-102.9B,-101.3B,-98.3B
+2024-12-27 08:30:00,,USD,Low,Prelim Wholesale Inventories m/m,,-0.2%,0.1%,0.1%
+2024-12-27 10:30:00,10:30:00,USD,Low,Natural Gas Storage,,-93B,-100B,-125B
+2024-12-27 13:00:00,13:00:00,USD,Medium,Crude Oil Inventories,,-4.2M,-0.7M,-0.9M
+2024-12-29 19:30:00,19:30:00,JPY,Low,Final Manufacturing PMI,,49.6,49.5,49.5
+2024-12-30 03:00:00,03:00:00,CHF,Low,KOF Economic Barometer,,99.5,101.1,102.9
+2024-12-30 03:00:00,,EUR,Medium,Spanish Flash CPI y/y,,2.8%,2.6%,2.4%
+2024-12-30 09:45:00,09:45:00,USD,Medium,Chicago PMI,,36.9,42.7,40.2
+2024-12-30 10:00:00,10:00:00,USD,Medium,Pending Home Sales m/m,,2.2%,0.9%,1.8%
+2024-12-30 00:00:00,00:00:00,JPY,Non,Bank Holiday,,,,
+2024-12-30 20:30:00,20:30:00,CNY,High,Manufacturing PMI,,50.1,50.3,50.3
+2024-12-30 20:30:00,,CNY,Medium,Non-Manufacturing PMI,,52.2,50.2,50.0
+2024-12-31 00:00:00,00:00:00,EUR,Non,German Bank Holiday,,,,
+2024-12-31 09:00:00,09:00:00,USD,Medium,S&P/CS Composite-20 HPI y/y,,4.2%,4.1%,4.6%
+2024-12-31 09:00:00,,USD,Low,HPI m/m,,0.4%,0.5%,0.7%
+2024-12-31 00:00:00,00:00:00,NZD,Non,Bank Holiday,,,,
+2024-12-31 00:00:00,00:00:00,AUD,Non,Bank Holiday,,,,
+2024-12-31 00:00:00,00:00:00,JPY,Non,Bank Holiday,,,,
+2024-12-31 00:00:00,00:00:00,CNY,Non,Bank Holiday,,,,

@@ -1,0 +1,75 @@
+Date,Time,Currency,Impact,Event,Detail,Actual,Forecast,Previous
+2023-12-21 02:00:00,02:00:00,GBP,Low,Public Sector Net Borrowing,,13.4B,12.8B,15.1B
+2023-12-21 03:42:00,03:42:00,CNY,Low,Foreign Direct Investment ytd/y,,-10.0%,,-9.4%
+2023-12-21 06:00:00,06:00:00,GBP,Low,CBI Realized Sales,,-32,-13,-11
+2023-12-21 08:30:00,08:30:00,CAD,Medium,Core Retail Sales m/m,,0.6%,0.5%,0.1%
+2023-12-21 08:30:00,,CAD,Medium,Retail Sales m/m,,0.7%,0.8%,0.5%
+2023-12-21 08:30:00,,USD,High,Final GDP q/q,,4.9%,5.2%,5.2%
+2023-12-21 08:30:00,,USD,High,Unemployment Claims,,205K,214K,203K
+2023-12-21 08:30:00,,USD,Medium,Final GDP Price Index q/q,,3.3%,3.6%,3.6%
+2023-12-21 08:30:00,,USD,Medium,Philly Fed Manufacturing Index,,-10.5,-3.3,-5.9
+2023-12-21 10:00:00,10:00:00,USD,Low,CB Leading Index m/m,,-0.5%,-0.5%,-1.0%
+2023-12-21 10:30:00,10:30:00,USD,Low,Natural Gas Storage,,-87B,-82B,-55B
+2023-12-21 18:30:00,18:30:00,JPY,Low,National Core CPI y/y,,2.5%,2.5%,2.9%
+2023-12-21 18:50:00,18:50:00,JPY,Low,Monetary Policy Meeting Minutes,,,,
+2023-12-21 19:30:00,19:30:00,AUD,Low,Private Sector Credit m/m,,0.4%,0.4%,0.3%
+2023-12-22 02:00:00,02:00:00,EUR,Low,German Import Prices m/m,,-0.1%,-0.4%,0.3%
+2023-12-22 02:00:00,,GBP,High,Retail Sales m/m,,1.3%,0.4%,0.0%
+2023-12-22 02:00:00,,GBP,Low,Current Account,,-17.2B,-13.1B,-24.0B
+2023-12-22 02:00:00,,GBP,Low,Final GDP q/q,,-0.1%,0.0%,0.0%
+2023-12-22 02:00:00,,GBP,Low,Revised Business Investment q/q,,-3.2%,-4.2%,-4.2%
+2023-12-22 08:30:00,08:30:00,CAD,High,GDP m/m,,0.0%,0.2%,0.0%
+2023-12-22 08:30:00,,USD,High,Core PCE Price Index m/m,,0.1%,0.2%,0.1%
+2023-12-22 08:30:00,,USD,Medium,Core Durable Goods Orders m/m,,0.5%,0.1%,-0.3%
+2023-12-22 08:30:00,,USD,Medium,Durable Goods Orders m/m,,5.4%,2.4%,-5.1%
+2023-12-22 08:30:00,,USD,Low,Personal Income m/m,,0.4%,0.4%,0.3%
+2023-12-22 08:30:00,,USD,Low,Personal Spending m/m,,0.2%,0.3%,0.1%
+2023-12-22 08:59:00,08:59:00,EUR,Low,Belgian NBB Business Climate,,-12.7,-14.6,-15.0
+2023-12-22 10:00:00,10:00:00,USD,High,Revised UoM Consumer Sentiment,,69.7,69.4,69.4
+2023-12-22 10:00:00,,USD,Medium,New Home Sales,,590K,689K,672K
+2023-12-22 10:00:00,,USD,Low,Revised UoM Inflation Expectations,,3.1%,,3.1%
+2023-12-22 10:30:00,10:30:00,AUD,Low,CB Leading Index m/m,,-0.3%,,-0.6%
+2023-12-24 00:00:00,00:00:00,NZD,Non,Bank Holiday,,,,
+2023-12-24 00:00:00,00:00:00,AUD,Non,Bank Holiday,,,,
+2023-12-24 23:00:00,23:00:00,JPY,Medium,BOJ Gov Ueda Speaks,,,,
+2023-12-25 00:00:00,00:00:00,CHF,Non,Bank Holiday,,,,
+2023-12-25 00:00:00,00:00:00,EUR,Non,French Bank Holiday,,,,
+2023-12-25 00:00:00,00:00:00,EUR,Non,German Bank Holiday,,,,
+2023-12-25 00:00:00,00:00:00,EUR,Non,Italian Bank Holiday,,,,
+2023-12-25 00:00:00,00:00:00,GBP,Non,Bank Holiday,,,,
+2023-12-25 00:00:00,00:00:00,CAD,Non,Bank Holiday,,,,
+2023-12-25 00:00:00,00:00:00,USD,Non,Bank Holiday,,,,
+2023-12-25 00:00:00,00:00:00,NZD,Non,Bank Holiday,,,,
+2023-12-25 00:00:00,00:00:00,AUD,Non,Bank Holiday,,,,
+2023-12-25 18:30:00,18:30:00,JPY,Low,Unemployment Rate,,2.5%,2.5%,2.5%
+2023-12-25 18:50:00,18:50:00,JPY,Low,SPPI y/y,,2.3%,2.4%,2.3%
+2023-12-26 00:00:00,00:00:00,JPY,Low,BOJ Core CPI y/y,,2.7%,3.0%,3.0%
+2023-12-26 00:00:00,00:00:00,CHF,Non,Bank Holiday,,,,
+2023-12-26 00:00:00,00:00:00,EUR,Non,German Bank Holiday,,,,
+2023-12-26 00:00:00,00:00:00,EUR,Non,Italian Bank Holiday,,,,
+2023-12-26 00:00:00,00:00:00,GBP,Non,Bank Holiday,,,,
+2023-12-26 00:00:00,00:00:00,CAD,Non,Bank Holiday,,,,
+2023-12-26 09:00:00,09:00:00,USD,Low,HPI m/m,,0.3%,0.5%,0.7%
+2023-12-26 09:00:00,,USD,Low,S&P/CS Composite-20 HPI y/y,,4.9%,5.0%,3.9%
+2023-12-26 18:50:00,18:50:00,JPY,Low,BOJ Summary of Opinions,,,,
+2023-12-27 00:00:00,00:00:00,JPY,Low,Housing Starts y/y,,-8.5%,-4.2%,-6.3%
+2023-12-27 04:00:00,04:00:00,CHF,Low,UBS Economic Expectations,,-23.7,,-29.6
+2023-12-27 09:59:00,09:59:00,USD,Medium,Richmond Manufacturing Index,,-11,-4,-5
+2023-12-27 18:50:00,18:50:00,JPY,Low,Prelim Industrial Production m/m,,-0.9%,-1.7%,1.3%
+2023-12-27 18:50:00,,JPY,Low,Retail Sales y/y,,5.3%,5.1%,4.1%
+2023-12-28 08:30:00,08:30:00,USD,Medium,Unemployment Claims,,218K,211K,206K
+2023-12-28 08:30:00,,USD,Low,Goods Trade Balance,,-90.3B,-88.6B,-89.6B
+2023-12-28 08:30:00,,USD,Low,Prelim Wholesale Inventories m/m,,-0.2%,-0.2%,-0.4%
+2023-12-28 10:00:00,10:00:00,USD,Medium,Pending Home Sales m/m,,0.0%,0.8%,-1.2%
+2023-12-28 10:30:00,10:30:00,USD,Low,Natural Gas Storage,,-87B,-80B,-87B
+2023-12-28 11:00:00,11:00:00,USD,Low,Crude Oil Inventories,,-7.1M,-2.7M,2.9M
+2023-12-29 02:00:00,02:00:00,GBP,Low,Nationwide HPI m/m,,0.0%,0.1%,0.2%
+2023-12-29 03:00:00,03:00:00,CHF,Low,KOF Economic Barometer,,97.8,96.9,97.2
+2023-12-29 03:00:00,,EUR,Medium,Spanish Flash CPI y/y,,3.1%,3.2%,3.2%
+2023-12-29 09:45:00,09:45:00,USD,Medium,Chicago PMI,,46.9,50.1,55.8
+2023-12-30 20:30:00,20:30:00,CNY,Medium,Manufacturing PMI,,49.0,49.6,49.4
+2023-12-30 20:30:00,,CNY,Medium,Non-Manufacturing PMI,,50.4,50.5,50.2
+2023-12-31 00:00:00,00:00:00,NZD,Non,Bank Holiday,,,,
+2023-12-31 00:00:00,00:00:00,AUD,Non,Bank Holiday,,,,
+2023-12-31 00:00:00,00:00:00,JPY,Non,Bank Holiday,,,,
+2023-12-31 00:00:00,00:00:00,CNY,Non,Bank Holiday,,,,

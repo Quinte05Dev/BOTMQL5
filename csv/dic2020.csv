@@ -1,0 +1,27 @@
+Date,Time,Currency,Impact,Event,Detail,Actual,Forecast,Previous
+2024-12-27 00:00:00,00:00:00,AUD,Non-Economic,Bank Holiday,,,,
+2024-12-27 00:00:00,00:00:00,NZD,Non-Economic,Bank Holiday,,,,
+2024-12-27 18:50:00,18:50:00,JPY,Low,BOJ Summary of Opinions,,,,
+2024-12-27 18:50:00,,JPY,Low,Prelim Industrial Production m/m,,0.0%,1.4%,4.0%
+2024-12-28 00:00:00,00:00:00,GBP,Non-Economic,Bank Holiday,,,,
+2024-12-28 00:00:00,00:00:00,CAD,Non-Economic,Bank Holiday,,,,
+2024-12-29 09:00:00,09:00:00,USD,Low,S&P/CS Composite-20 HPI y/y,,7.9%,7.0%,6.6%
+2024-12-30 01:57:00,01:57:00,GBP,Low,Nationwide HPI m/m,,0.8%,0.4%,0.9%
+2024-12-30 03:00:00,03:00:00,CHF,Low,KOF Economic Barometer,,104.3,101.4,103.7
+2024-12-30 03:00:00,,EUR,Low,Spanish Flash CPI y/y,,-0.5%,-0.6%,-0.8%
+2024-12-30 04:00:00,04:00:00,CHF,Low,UBS Economic Expectations,,46.8,,30.0
+2024-12-30 08:30:00,08:30:00,USD,Low,Goods Trade Balance,,-84.8B,-81.5B,-80.4B
+2024-12-30 08:30:00,,USD,Low,Prelim Wholesale Inventories m/m,,-0.1%,0.7%,1.1%
+2024-12-30 09:45:00,09:45:00,USD,Low,Chicago PMI,,59.5,56.6,58.2
+2024-12-30 10:00:00,10:00:00,USD,Low,Pending Home Sales m/m,,-2.6%,0.1%,-0.9%
+2024-12-30 10:30:00,10:30:00,USD,Low,Crude Oil Inventories,,-6.1M,-3.0M,-0.6M
+2024-12-30 00:00:00,00:00:00,JPY,Non-Economic,Bank Holiday,,,,
+2024-12-30 20:00:00,20:00:00,CNY,Low,Manufacturing PMI,,51.9,52.0,52.1
+2024-12-30 20:00:00,,CNY,Low,Non-Manufacturing PMI,,55.7,56.3,56.4
+2024-12-31 00:00:00,00:00:00,EUR,Non-Economic,German Bank Holiday,,,,
+2024-12-31 08:30:00,08:30:00,USD,Low,Unemployment Claims,,787K,832K,806K
+2024-12-31 10:30:00,10:30:00,USD,Low,Natural Gas Storage,,-114B,-127B,-152B
+2024-12-31 00:00:00,00:00:00,NZD,Non-Economic,Bank Holiday,,,,
+2024-12-31 00:00:00,00:00:00,AUD,Non-Economic,Bank Holiday,,,,
+2024-12-31 00:00:00,00:00:00,JPY,Non-Economic,Bank Holiday,,,,
+2024-12-31 00:00:00,00:00:00,CNY,Non-Economic,Bank Holiday,,,,

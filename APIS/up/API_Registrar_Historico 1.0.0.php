@@ -100,10 +100,10 @@ try {
         // 🔹 **Paso 4: Insertar la operación en `wp8e_operaciones`**
         $queryInsertOperacion = "INSERT INTO wp8e_operaciones 
             (cuenta_id, activo_id, setfile_id, tipo, volumen, precio_entrada, precio_salida, ganancia, fecha_apertura, fecha_cierre, 
-            ticket, comision, swap, orden_id, posicion_id, comentario) 
+            ticket, comision, swap, orden_id, posicion_id, comentario, magic_number) 
             VALUES 
             (:cuenta_id, :activo_id, :setfile_id, :tipo, :volumen, :precio_entrada, :precio_salida, :ganancia, :fecha_apertura, :fecha_cierre, 
-            :ticket, :comision, :swap, :orden_id, :posicion_id, :comentario)";
+            :ticket, :comision, :swap, :orden_id, :posicion_id, :comentario, :magic_number)";
 
         $stmt = $pdo->prepare($queryInsertOperacion);
         $stmt->execute([
@@ -122,7 +122,8 @@ try {
             ':swap' => $operacion['swap'] ?? null,
             ':orden_id' => $operacion['orden_id'] ?? null,
             ':posicion_id' => $operacion['posicion_id'] ?? null,
-            ':comentario' => $operacion['comentario'] ?? null
+            ':comentario' => $operacion['comentario'] ?? null,
+            ':magic_number' => $operacion['magic_number'] ?? null
         ]);
 
         $operacionesInsertadas++;

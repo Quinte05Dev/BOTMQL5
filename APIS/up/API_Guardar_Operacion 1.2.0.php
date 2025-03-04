@@ -1,8 +1,5 @@
 <?php
 header('Content-Type: application/json; charset=utf-8');
-header('Access-Control-Allow-Origin: *');
-header('Access-Control-Allow-Methods: POST');
-header('Access-Control-Allow-Headers: Content-Type');
 
 // Importar configuración de la base de datos
 $wp_config_path = '/home/bfunded/public_html/bts/Dashboard/dbweb-config.php';
@@ -27,107 +24,121 @@ try {
         throw new Exception('Error al decodificar JSON: ' . json_last_error_msg());
     }
 
-    // **🔹 Validar estructura del JSON**
+    // Validar estructura del JSON
     if (!isset($data['cuenta_id'], $data['setfile_id'], $data['activo_id'], $data['operaciones']) || !is_array($data['operaciones'])) {
-        throw new Exception('El JSON debe incluir "cuenta_id", "setfile_id", "activo_id" y un array de "operaciones".');
+        throw new Exception("El JSON no tiene la estructura esperada.");
     }
 
-    $cuentaId = $data['cuenta_id'];
-    $setfileId = $data['setfile_id'];
-    $activoId = $data['activo_id'];
-    $operacionesInsertadas = 0;
-    $operacionesOmitidas = 0;
-
-    // **🔹 Validar existencia de cuenta, setfile y activo en la base de datos**
-    $queries = [
-        'cuenta'  => "SELECT COUNT(*) FROM wp8e_cuentas WHERE id = :id",
-        'setfile' => "SELECT COUNT(*) FROM wp8e_setfiles WHERE id = :id",
-        'activo'  => "SELECT COUNT(*) FROM wp8e_activos WHERE id = :id"
-    ];
-
-    foreach ($queries as $key => $query) {
-        $stmt = $pdo->prepare($query);
-        $stmt->execute([':id' => $$key . 'Id']);
-        if (!$stmt->fetchColumn()) {
-            throw new Exception("El {$key}_id proporcionado ({$$key . 'Id'}) no existe.");
-        }
+    // Validar existencia de cuenta_id
+    $queryCheckCuenta = "SELECT COUNT(*) FROM wp8e_cuentas WHERE id = :cuenta_id";
+    $stmt = $pdo->prepare($queryCheckCuenta);
+    $stmt->execute([':cuenta_id' => $data['cuenta_id']]);
+    if (!$stmt->fetchColumn()) {
+        throw new Exception("La cuenta_id proporcionada ({$data['cuenta_id']}) no existe.");
     }
 
+    // Validar existencia de setfile_id
+    $queryCheckSetfile = "SELECT COUNT(*) FROM wp8e_setfiles WHERE id = :setfile_id";
+    $stmt = $pdo->prepare($queryCheckSetfile);
+    $stmt->execute([':setfile_id' => $data['setfile_id']]);
+    if (!$stmt->fetchColumn()) {
+        throw new Exception("El setfile_id proporcionado ({$data['setfile_id']}) no existe.");
+    }
+
+    // Validar existencia de activo_id
+    $queryCheckActivo = "SELECT COUNT(*) FROM wp8e_activos WHERE id = :activo_id";
+    $stmt = $pdo->prepare($queryCheckActivo);
+    $stmt->execute([':activo_id' => $data['activo_id']]);
+    if (!$stmt->fetchColumn()) {
+        throw new Exception("El activo_id proporcionado ({$data['activo_id']}) no existe.");
+    }
+
+    $resultados = [];
     foreach ($data['operaciones'] as $operacion) {
-        // **🔹 Validar campos requeridos en cada operación**
-        $required_fields = ['tipo', 'volumen', 'precio_entrada', 'precio_salida', 'ganancia', 'fecha_apertura', 'fecha_cierre', 'ticket'];
-        foreach ($required_fields as $field) {
-            if (!isset($operacion[$field])) {
-                throw new Exception("Falta el campo obligatorio: $field en una operación.");
+        try {
+            // Validar que los campos requeridos estén presentes
+            $required_fields = ['tipo', 'volumen', 'precio_entrada', 'precio_salida', 'ganancia', 'fecha_apertura', 'fecha_cierre', 'ticket'];
+            foreach ($required_fields as $field) {
+                if (!isset($operacion[$field])) {
+                    throw new Exception("Falta el campo obligatorio: $field");
+                }
             }
-        }
 
-        // **🔹 Validar valores numéricos**
-        $numeric_fields = ['volumen', 'precio_entrada', 'precio_salida', 'ganancia', 'comision', 'swap', 'orden_id', 'magic_number'];
-        foreach ($numeric_fields as $field) {
-            if (isset($operacion[$field]) && !is_numeric($operacion[$field])) {
-                throw new Exception("El campo $field debe ser numérico.");
+            // Validar valores numéricos
+            $numeric_fields = ['volumen', 'precio_entrada', 'precio_salida', 'ganancia', 'comision', 'swap'];
+            foreach ($numeric_fields as $field) {
+                if (isset($operacion[$field]) && !is_numeric($operacion[$field])) {
+                    throw new Exception("El campo $field debe ser numérico.");
+                }
             }
+
+            // Validar formato de fecha
+            $fecha_apertura = date('Y-m-d H:i:s', strtotime($operacion['fecha_apertura']));
+            $fecha_cierre = date('Y-m-d H:i:s', strtotime($operacion['fecha_cierre']));
+            if (!$fecha_apertura || !$fecha_cierre) {
+                throw new Exception('Formato de fecha inválido.');
+            }
+
+            // Validar si la operación ya existe
+            $queryCheckOperacion = "SELECT COUNT(*) FROM wp8e_operaciones WHERE cuenta_id = :cuenta_id AND ticket = :ticket";
+            $stmt = $pdo->prepare($queryCheckOperacion);
+            $stmt->execute([
+                ':cuenta_id' => $data['cuenta_id'],
+                ':ticket' => $operacion['ticket']
+            ]);
+
+            if ($stmt->fetchColumn()) {
+                $resultados[] = [
+                    'ticket' => $operacion['ticket'],
+                    'success' => false,
+                    'mensaje' => 'La operación ya existe en la base de datos.'
+                ];
+                continue; // Saltar a la siguiente operación
+            }
+
+            // Insertar nueva operación
+            $queryInsert = "INSERT INTO wp8e_operaciones 
+                (cuenta_id, activo_id, setfile_id, tipo, volumen, precio_entrada, precio_salida, ganancia, fecha_apertura, fecha_cierre, 
+                ticket, comision, swap, orden_id, comentario, magic_number) 
+                VALUES 
+                (:cuenta_id, :activo_id, :setfile_id, :tipo, :volumen, :precio_entrada, :precio_salida, :ganancia, :fecha_apertura, :fecha_cierre, 
+                :ticket, :comision, :swap, :orden_id, :comentario, :magic_number)";
+
+            $stmt = $pdo->prepare($queryInsert);
+            $stmt->execute([
+                ':cuenta_id' => $data['cuenta_id'],
+                ':activo_id' => $data['activo_id'],
+                ':setfile_id' => $data['setfile_id'],
+                ':tipo' => $operacion['tipo'],
+                ':volumen' => $operacion['volumen'],
+                ':precio_entrada' => $operacion['precio_entrada'],
+                ':precio_salida' => $operacion['precio_salida'],
+                ':ganancia' => $operacion['ganancia'],
+                ':fecha_apertura' => $fecha_apertura,
+                ':fecha_cierre' => $fecha_cierre,
+                ':ticket' => $operacion['ticket'],
+                ':comision' => $operacion['comision'] ?? null,
+                ':swap' => $operacion['swap'] ?? null,
+                ':orden_id' => $operacion['orden_id'] ?? null,
+                ':comentario' => $operacion['comentario'] ?? null,
+                ':magic_number' => $operacion['magic_number'] ?? null
+            ]);
+
+            $resultados[] = [
+                'ticket' => $operacion['ticket'],
+                'success' => true,
+                'mensaje' => 'Operación guardada correctamente.'
+            ];
+        } catch (Exception $e) {
+            $resultados[] = [
+                'ticket' => $operacion['ticket'] ?? null,
+                'success' => false,
+                'error' => $e->getMessage()
+            ];
         }
-
-        // **🔹 Validar formato de fechas**
-        $fecha_apertura = date('Y-m-d H:i:s', strtotime($operacion['fecha_apertura']));
-        $fecha_cierre = date('Y-m-d H:i:s', strtotime($operacion['fecha_cierre']));
-        if (!$fecha_apertura || !$fecha_cierre) {
-            throw new Exception('Formato de fecha inválido.');
-        }
-
-        // **🔹 Verificar si la operación ya existe en `wp8e_operaciones`**
-        $queryCheckOperacion = "SELECT COUNT(*) FROM wp8e_operaciones 
-                                WHERE cuenta_id = :cuenta_id 
-                                AND ticket = :ticket";
-        $stmt = $pdo->prepare($queryCheckOperacion);
-        $stmt->execute([
-            ':cuenta_id' => $cuentaId,
-            ':ticket' => $operacion['ticket']
-        ]);
-
-        if ($stmt->fetchColumn()) {
-            $operacionesOmitidas++;
-            continue; // Si ya existe, la omitimos
-        }
-
-        // **🔹 Insertar la operación en `wp8e_operaciones`**
-        $queryInsertOperacion = "INSERT INTO wp8e_operaciones 
-            (cuenta_id, activo_id, setfile_id, tipo, volumen, precio_entrada, precio_salida, ganancia, fecha_apertura, fecha_cierre, 
-            ticket, comision, swap, orden_id, comentario, magic_number) 
-            VALUES 
-            (:cuenta_id, :activo_id, :setfile_id, :tipo, :volumen, :precio_entrada, :precio_salida, :ganancia, :fecha_apertura, :fecha_cierre, 
-            :ticket, :comision, :swap, :orden_id, :comentario, :magic_number)";
-
-        $stmt = $pdo->prepare($queryInsertOperacion);
-        $stmt->execute([
-            ':cuenta_id' => $cuentaId,
-            ':activo_id' => $activoId,
-            ':setfile_id' => $setfileId,
-            ':tipo' => $operacion['tipo'],
-            ':volumen' => $operacion['volumen'],
-            ':precio_entrada' => $operacion['precio_entrada'],
-            ':precio_salida' => $operacion['precio_salida'],
-            ':ganancia' => $operacion['ganancia'],
-            ':fecha_apertura' => $fecha_apertura,
-            ':fecha_cierre' => $fecha_cierre,
-            ':ticket' => $operacion['ticket'],
-            ':comision' => $operacion['comision'] ?? null,
-            ':swap' => $operacion['swap'] ?? null,
-            ':orden_id' => $operacion['orden_id'] ?? null,
-            ':comentario' => $operacion['comentario'] ?? null,
-            ':magic_number' => $operacion['magic_number'] ?? null
-        ]);
-
-        $operacionesInsertadas++;
     }
 
-    echo json_encode([
-        'success' => true,
-        'operaciones_insertadas' => $operacionesInsertadas,
-        'operaciones_omitidas' => $operacionesOmitidas
-    ]);
+    echo json_encode(['resultados' => $resultados]);
 
 } catch (Exception $e) {
     http_response_code(500);

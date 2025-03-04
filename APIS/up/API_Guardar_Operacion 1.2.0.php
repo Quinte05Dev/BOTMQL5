@@ -25,7 +25,7 @@ try {
     }
 
     // Validar estructura del JSON
-    if (!isset($data['cuenta_id'], $data['setfile_id'], $data['activo_id'], $data['operaciones']) || !is_array($data['operaciones'])) {
+    if (!isset($data['cuenta_id'], $data['setfile_id'], $data['operaciones']) || !is_array($data['operaciones'])) {
         throw new Exception("El JSON no tiene la estructura esperada.");
     }
 
@@ -45,19 +45,21 @@ try {
         throw new Exception("El setfile_id proporcionado ({$data['setfile_id']}) no existe.");
     }
 
-    // Validar existencia de activo_id
+
+    /*   // Validar existencia de activo_id
     $queryCheckActivo = "SELECT COUNT(*) FROM wp8e_activos WHERE id = :activo_id";
     $stmt = $pdo->prepare($queryCheckActivo);
     $stmt->execute([':activo_id' => $data['activo_id']]);
     if (!$stmt->fetchColumn()) {
         throw new Exception("El activo_id proporcionado ({$data['activo_id']}) no existe.");
-    }
+    } */
+   
 
     $resultados = [];
     foreach ($data['operaciones'] as $operacion) {
         try {
             // Validar que los campos requeridos estén presentes
-            $required_fields = ['tipo', 'volumen', 'precio_entrada', 'precio_salida', 'ganancia', 'fecha_apertura', 'fecha_cierre', 'ticket'];
+            $required_fields = ['tipo', 'volumen', 'precio_entrada', 'precio_salida', 'ganancia','activo', 'fecha_apertura', 'fecha_cierre', 'ticket'];
             foreach ($required_fields as $field) {
                 if (!isset($operacion[$field])) {
                     throw new Exception("Falta el campo obligatorio: $field");
@@ -77,6 +79,20 @@ try {
             $fecha_cierre = date('Y-m-d H:i:s', strtotime($operacion['fecha_cierre']));
             if (!$fecha_apertura || !$fecha_cierre) {
                 throw new Exception('Formato de fecha inválido.');
+            }
+
+            // 🔹 **Paso 1: Buscar el ID del activo en `wp8e_activos`**
+            $queryActivo = "SELECT id FROM wp8e_activos WHERE simbolo = :simbolo LIMIT 1";
+            $stmt = $pdo->prepare($queryActivo);
+            $stmt->execute([':simbolo' => $operacion['activo']]);
+            $idActivo = $stmt->fetchColumn();
+
+            // 🔹 **Si el activo no existe, lo creamos en `wp8e_activos`**
+            if (!$idActivo) {
+                $queryInsertActivo = "INSERT INTO wp8e_activos (simbolo) VALUES (:simbolo)";
+                $stmt = $pdo->prepare($queryInsertActivo);
+                $stmt->execute([':simbolo' => $operacion['activo']]);
+                $idActivo = $pdo->lastInsertId(); // Obtenemos el ID del nuevo activo creado
             }
 
             // Validar si la operación ya existe
@@ -107,7 +123,7 @@ try {
             $stmt = $pdo->prepare($queryInsert);
             $stmt->execute([
                 ':cuenta_id' => $data['cuenta_id'],
-                ':activo_id' => $data['activo_id'],
+                ':activo_id' => $idActivo,
                 ':setfile_id' => $data['setfile_id'],
                 ':tipo' => $operacion['tipo'],
                 ':volumen' => $operacion['volumen'],

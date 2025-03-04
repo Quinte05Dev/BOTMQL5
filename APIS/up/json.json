@@ -1,0 +1,26 @@
+{
+    "licencia_id": 123,
+    "cuenta":{
+        "broker": "IC Markets",
+        "tipo_cuenta": "REAL",
+        "es_demo": true,
+        "empresa_fondeo": "FTMO",
+        "balance": "100000",
+        "drawdown": "10",
+        "net_profit": "10", 
+        "fecha_creacion": "", 
+        "estado": "activa"
+    },
+    "activos": {
+        "cuenta_id ": "1",
+        "simbolo": "EURUSD"
+    },
+    "setfiles":{
+        "par_id": "1",
+        "nombre_setfile": "10",
+        "parametros_json": {"take_profit": 50, "stop_loss": 30},, 
+        "fecha_creacion": "", 
+        "version_bot": "activa"        
+    }
+}
+

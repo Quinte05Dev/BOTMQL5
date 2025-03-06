@@ -7,7 +7,7 @@
 #include <Jason.mqh>
 int segGuardarHistorico = 0;
 long numero_cuenta = AccountInfoInteger(ACCOUNT_LOGIN); // Obtener el número de cuenta
-input string license_key = "LICENCIA-TEST-001";
+input string license_key = "LICENCIA-TEST-001";  // Api Key
 string api_key="p8Lz9R2q-TyX3v5Bp-47Nd8Jm-QwG6ANFsP0d";
 
 // Variables locales 
@@ -22,6 +22,8 @@ datetime proximaEjecucion = 0; // Almacena la próxima ejecución en timestamp U
 datetime tiempoActual = TimeCurrent(); // Obtener tiempo actual en segundos
 
 datetime ultimaFechaGlobal = 0; // Utilizada en el historico
+int ultimaTicketGlobal=0; // Utilizada en el ticket
+bool cerroOperacion=false;
 
 // Estructuras          
 struct Operacion {
@@ -48,35 +50,22 @@ int OnInit() {
 
     Print("🔹 Inicializando el Trading Note...");
 
-    ValidarParametros();
-
     // 1- Ejecutar la validación de la licencia
     bool licencia_valida = ValidarLicencia(license_key, id_usuario, id_licencia, message);
     if (licencia_valida){
-
-        Print("llamando a CAS");
-       // bool CAS_valido = enviarPostCas();
-      
+        ValidarParametros();
+        int tiempo_extra = MathRand() % int(segGuardarHistorico) ; // tiempo adicional aleatorio (300 a 600 segundos) MathRand() % 301 + 300
+        tiempoExtra = tiempo_extra * porcentajeAdicionalTiempo;    
+        segGuardarHistorico=segGuardarHistorico + tiempoExtra;        
+        proximaEjecucion = TimeCurrent() + segGuardarHistorico; // Programar primera ejecución   
+    
+        EventSetTimer(1); // Ejecutar OnTimer() cada 1 segundo   
+        return INIT_SUCCEEDED;    
     }else{
         Print("Condiciones iniciales no cumplidas. Deteniendo EA.");
+        return INIT_FAILED;
         ExpertRemove();       
-    }    
-
-    int tiempo_extra = MathRand() % int(segGuardarHistorico) ; // tiempo adicional aleatorio (300 a 600 segundos) MathRand() % 301 + 300
-    tiempoExtra = tiempo_extra * porcentajeAdicionalTiempo;
-
-    //Print("temp " ,segGuardarHistorico," / ",tiempo_extra ," / ",tiempoExtra );
-    segGuardarHistorico=segGuardarHistorico + tiempoExtra;
-    
-    proximaEjecucion = TimeCurrent() + segGuardarHistorico; // Programar primera ejecución
-    Print("⏳ Primera ejecución programada en ", segGuardarHistorico, " segundos. a las: ", proximaEjecucion); 
-    
-    //#sVerificar si ya hay una operación abierta solo para operación
-    //ArrayResize(opera, 0); // Inicializar el array   
-
-    EventSetTimer(1); // Ejecutar OnTimer() cada 1 segundo
-
-    return INIT_SUCCEEDED;
+    }   
 }
 
 void OnTick() {
@@ -92,30 +81,23 @@ void OnTimer()
     else{
         tiempoActual = newTimpoActual;
     }
-    //Print("tiempoActual", tiempoActual,"   proximaEjecucion ",proximaEjecucion);
     
-    // Verificar si ya es momento de ejecutar la función
-    contAux++;   
+    // Verificar si ya es momento de ejecutar la función    
     if (tiempoActual >= proximaEjecucion)
-    {  
-        //Print("tiempoActual: " , contAux );   
-        contAux=0;          
-       
-        Print("⏳ Ejecutando Registro de Histórico...");
+    {          
+        //Print("⏳ Ejecutando Registro de Histórico...");
         RegistrarHitorico();            
 
         // Programar la siguiente ejecución sumando segGuardarHistorico
-        proximaEjecucion = tiempoActual + segGuardarHistorico;
-        Print("⏳ Próxima ejecución programada en ", segGuardarHistorico, " segundos.. a las: ", proximaEjecucion);
-        
-        //abrir operaciones de prueba
-        //abrirOperacionPrueba();
+        proximaEjecucion = tiempoActual + segGuardarHistorico-10;
+        //Print("⏳ Próxima ejecución programada en ", segGuardarHistorico, " segundos.. a las: ", proximaEjecucion);
+
     }
 }
 
 bool ValidarParametros()
 {
-    string endpoint = "https://tradingnote.co/app/api/API_Parametros_1.0.0.php?id=1&api_key=k8Lz9R2q-TyX3v5Bp-55Nd8Jm-QwG6ZnAsP0f"; // URL del endpoint
+    string endpoint = "https://tradingnote.co/app/api/API_Parametros_1.0.0.php?id=1&api_key=" + api_key;  
     string cookie = "";
     string headers; // No es un array
     uchar result[]; // ⚠️ Debe ser un array de tipo uchar
@@ -181,7 +163,7 @@ bool ValidarLicencia(string license_key, string &id_usuario, string &id_licencia
     int timeout = 5000;
 
     // URL del servidor de verificación de licencia
-    string url = "https://tradingnote.co/app/api/API_Licencias_1.0.0.php";
+    string url = "https://tradingnote.co/app/api/API_Licencias_1.1.0.php";
 
     // Construir la URL con parámetros
     string url_con_parametros = url + "?licencia=" + license_key + "&api_key=" + api_key+ "&cuenta=" + numero_cuenta;
@@ -217,7 +199,7 @@ bool ValidarLicencia(string license_key, string &id_usuario, string &id_licencia
                 message = "Licencia válida";
 
             // Imprimir datos extraídos correctamente
-            Print("✅ Licencia válida para usuario: ", idCuenta);
+            Print("✅ Licencia válida ");
             //Print("📌 ID de usuario: ", id_usuario);
             //Print("🔑 ID de licencia: ", id_licencia);
             //Print("ℹ️ Mensaje: ", message);
@@ -243,8 +225,7 @@ bool ValidarLicencia(string license_key, string &id_usuario, string &id_licencia
     }
 }
 
-bool RegistrarHitorico(){
-    
+bool RegistrarHitorico(){    
     ObtenerOperaciones(operaciones, idCuenta);
     //ImprimirOperacione();
     return true;
@@ -252,17 +233,18 @@ bool RegistrarHitorico(){
 
 void ObtenerOperaciones(Operacion &listaOperaciones[], int idCuenta) {
     // Cargar la última fecha de operación guardada previamente
-    datetime ultimaFechaGuardada = CargarUltimaFechaGuardadaGlobal(idCuenta);
-    Print("ultimaFechaGuardada: ",ultimaFechaGuardada);
+    datetime ultimaFechaGuardada = CargarUltimaFechaGuardadaGlobal(idCuenta); 
 
     if (!HistorySelect(ultimaFechaGuardada, TimeCurrent())) {
-        Print("❌ Error al seleccionar historial de operaciones.");
+        //Print("❌ Error al seleccionar historial de operaciones.");
         return;
     }
 
-    int totalOperaciones = HistoryDealsTotal();
+    int totalOperaciones = HistoryDealsTotal(); 
+    // bool existeTicket = HistoryDealGetInteger(ultimaTicketGlobal);
+
     if (totalOperaciones == 0) {
-        Print("⚠️ No hay operaciones cerradas en la cuenta.");
+       // Print("⚠️ No hay operaciones cerradas en la cuenta.");
         return;
     }
 
@@ -274,7 +256,7 @@ void ObtenerOperaciones(Operacion &listaOperaciones[], int idCuenta) {
         // Solo almacenar operaciones cerradas (DEAL_ENTRY_OUT)
         if (entrada == DEAL_ENTRY_OUT) {
             datetime fechaCierre = (datetime)HistoryDealGetInteger(ticket, DEAL_TIME);
-
+           
             // Solo procesar operaciones posteriores a la última fecha guardada
             if (fechaCierre > ultimaFechaGuardada) {
                 ArrayResize(listaOperaciones, contador + 1);
@@ -307,34 +289,40 @@ void ObtenerOperaciones(Operacion &listaOperaciones[], int idCuenta) {
                     }
                 }
                 contador++;
+                cerroOperacion=true;
             }
         }
     }
 
     // Verificar si hay operaciones nuevas en el array
     int totalOperacionesGuardadas = ArraySize(listaOperaciones);
-    Print("total Operaciones historico: ", totalOperacionesGuardadas);
-
-   /*  //Metodo 1 Enviar el historial al endpoint
-    if (!enviarPostHistorico(listaOperaciones, idCuenta)) {
-        Print("❌ Error al enviar operaciones a la API.");
-    } else {
-        // Print("📤 Datos enviados correctamente.");
-    } */
+    //Print("total Operaciones historico: ", totalOperacionesGuardadas);
 
     //Metodo 2     
     // Enviar el historial al endpoint
-    if (totalOperacionesGuardadas > 0) {
+    if (totalOperacionesGuardadas > 0 && cerroOperacion) {
         if (!enviarPostHistorico(listaOperaciones, idCuenta)) {
-            Print("❌ Error al enviar operaciones a la API.");
+            //Print("❌ Error al enviar operaciones a la API.");
         } else {
             // Guardar la fecha de la última operación para la próxima vez
             if (totalOperacionesGuardadas > 0) {               
-                GuardarUltimaFechaGlobal(listaOperaciones[totalOperacionesGuardadas - 1].fecha_cierre, idCuenta);
+                GuardarUltimaFechaGlobal(listaOperaciones[totalOperacionesGuardadas - 1].fecha_cierre, totalOperacionesGuardadas - 1);
                 totalOperacionesGuardadas=0;
             }
         }
     }
+}
+
+// Método 1: Usando variable global pierde el valor al reiniciar
+datetime CargarUltimaFechaGuardadaGlobal(int idCuenta) {
+    // Si es 0, significa primera ejecución o reinicio
+    return ultimaFechaGlobal;
+}
+
+void GuardarUltimaFechaGlobal(datetime ultimaFecha, int ultimoTicket) {
+    ultimaFechaGlobal = ultimaFecha+1;
+    ultimaTicketGlobal = ultimoTicket;
+    cerroOperacion = false;
 }
 
 bool enviarPostHistorico(Operacion &listaOperaciones[], int idCuenta) {
@@ -396,7 +384,7 @@ bool enviarPostHistorico(Operacion &listaOperaciones[], int idCuenta) {
         string response = CharArrayToString(result, 0, ArraySize(result));
         CJAVal json;
         if (!json.Deserialize(response)) {
-            Print("❌ Error al analizar la respuesta JSON.");
+            //Print("❌ Error al analizar la respuesta JSON.");
             return false;
         }
 
@@ -409,23 +397,13 @@ bool enviarPostHistorico(Operacion &listaOperaciones[], int idCuenta) {
                  operaciones_guardadas, operaciones_existentes);
             return true;
         } else {
-            Print("⚠️ La API devolvió 'success: false'.");
+            //Print("⚠️ La API devolvió 'success: false'.");
             return false;
         }
     } else {
         int error_code = GetLastError();
-        Print("❌ Error en WebRequest. Código HTTP: ", res, " Código de error MQL5: ", error_code);
-        Print("🔍 JSON Enviado: ", json_body);  // Imprimir JSON para depuración
+       // Print("❌ Error en WebRequest. Código HTTP: ", res, " Código de error MQL5: ", error_code);
+        //Print("🔍 JSON Enviado: ", json_body);  // Imprimir JSON para depuración
         return false;
     }
-}
-
-// Método 1: Usando variable global pierde el valor al reiniciar
-datetime CargarUltimaFechaGuardadaGlobal(int idCuenta) {
-    // Si es 0, significa primera ejecución o reinicio
-    return ultimaFechaGlobal;
-}
-
-void GuardarUltimaFechaGlobal(datetime ultimaFecha, int idCuenta) {
-    ultimaFechaGlobal = ultimaFecha;
 }

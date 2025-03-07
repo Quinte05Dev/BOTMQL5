@@ -45,6 +45,7 @@ struct Operacion {
     ulong magic_number;
     double tp;
     double sl;
+    double ganancia_bruta;
 };
 Operacion operaciones[];
 
@@ -91,7 +92,7 @@ void OnTimer()
 
         // Programar la siguiente ejecución sumando segGuardarHistorico
         proximaEjecucion = tiempoActual + segGuardarHistorico;
-        //Print("⏳ Próxima ejecución programada en ", segGuardarHistorico, " segundos.. a las: ", proximaEjecucion);
+        Print("⏳ Próxima ejecución programada en ", segGuardarHistorico, " segundos.. a las: ", proximaEjecucion);
 
     }
 }
@@ -269,13 +270,17 @@ void ObtenerOperaciones(Operacion &listaOperaciones[], int idCuenta) {
                 listaOperaciones[contador].precio_salida = HistoryDealGetDouble(ticket, DEAL_PRICE);
                 listaOperaciones[contador].comision = HistoryDealGetDouble(ticket, DEAL_COMMISSION);
                 listaOperaciones[contador].swap = HistoryDealGetDouble(ticket, DEAL_SWAP);
-                listaOperaciones[contador].beneficio = HistoryDealGetDouble(ticket, DEAL_PROFIT);
+              /*   listaOperaciones[contador].beneficio = listaOperaciones[contador].beneficio + 
+                                                        listaOperaciones[contador].swap + 
+                                                        listaOperaciones[contador].comision; */
+                listaOperaciones[contador].beneficio = HistoryDealGetDouble(ticket, DEAL_PROFIT);                                                       
                 listaOperaciones[contador].fecha_cierre = fechaCierre;
                 listaOperaciones[contador].orden_id = HistoryDealGetInteger(ticket, DEAL_ORDER);
                 listaOperaciones[contador].comentario = HistoryDealGetString(ticket, DEAL_COMMENT);
                 listaOperaciones[contador].magic_number = HistoryDealGetInteger(ticket, DEAL_MAGIC);
                 listaOperaciones[contador].tp = HistoryDealGetDouble(ticket, DEAL_TP);
                 listaOperaciones[contador].sl = HistoryDealGetDouble(ticket, DEAL_SL);
+                //listaOperaciones[contador].ganancia_bruta = HistoryDealGetDouble(ticket, DEAL_PROFIT);
 
                 // Buscar la operación de entrada correspondiente
                 ulong posicion_id = listaOperaciones[contador].ticket;
@@ -323,7 +328,7 @@ datetime CargarUltimaFechaGuardadaGlobal(int idCuenta) {
 }
 
 void GuardarUltimaFechaGlobal(datetime ultimaFecha, int ultimoTicket) {
-    ultimaFechaGlobal = ultimaFecha+1;
+    ultimaFechaGlobal = ultimaFecha + 1;
     ultimaTicketGlobal = ultimoTicket;
     OperacionCerrada = false;
 }
@@ -367,8 +372,8 @@ bool enviarPostHistorico(Operacion &listaOperaciones[], int idCuenta) {
                      "      \"magic_number\": " + IntegerToString(listaOperaciones[i].magic_number) + ",\n"
                      "      \"comentario\": \"" + comentario + "\",\n"
                      "      \"tp\": " +  DoubleToString(listaOperaciones[i].tp, 5)  + ",\n"
-                     "      \"sl\": " +  DoubleToString(listaOperaciones[i].sl, 5)  + "\n"
-                     //"      \"comentario\": \"" + comentario + "\"\n"
+                     "      \"sl\": " +  DoubleToString(listaOperaciones[i].sl, 5)  + "\n"  
+                  //   "      \"ganancia_bruta\": " +  DoubleToString(listaOperaciones[i].ganancia_bruta, 2)  + "\n"     
                      "    }";
 
         if (i < ArraySize(listaOperaciones) - 1) json_body += ",";
@@ -408,7 +413,7 @@ bool enviarPostHistorico(Operacion &listaOperaciones[], int idCuenta) {
         }
     } else {
         int error_code = GetLastError();
-       // Print("❌ Error en WebRequest. Código HTTP: ", res, " Código de error MQL5: ", error_code);
+        Print("❌ Error en WebRequest. Código HTTP: ", res, " Código de error MQL5: ", error_code);
         //Print("🔍 JSON Enviado: ", json_body);  // Imprimir JSON para depuración
         return false;
     }

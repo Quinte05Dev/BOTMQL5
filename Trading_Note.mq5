@@ -23,7 +23,7 @@ datetime tiempoActual = TimeCurrent(); // Obtener tiempo actual en segundos
 
 datetime ultimaFechaGlobal = 0; // Utilizada en el historico
 int ultimaTicketGlobal=0; // Utilizada en el ticket
-bool cerroOperacion=false;
+bool OperacionCerrada=false;
 
 // Estructuras          
 struct Operacion {
@@ -43,13 +43,14 @@ struct Operacion {
     ulong posicion_id;
     string comentario;
     ulong magic_number;
+    double tp;
+    double sl;
 };
 Operacion operaciones[];
 
 int OnInit() {
 
     Print("🔹 Inicializando el Trading Note...");
-
     // 1- Ejecutar la validación de la licencia
     bool licencia_valida = ValidarLicencia(license_key, id_usuario, id_licencia, message);
     if (licencia_valida){
@@ -89,7 +90,7 @@ void OnTimer()
         RegistrarHitorico();            
 
         // Programar la siguiente ejecución sumando segGuardarHistorico
-        proximaEjecucion = tiempoActual + segGuardarHistorico-10;
+        proximaEjecucion = tiempoActual + segGuardarHistorico;
         //Print("⏳ Próxima ejecución programada en ", segGuardarHistorico, " segundos.. a las: ", proximaEjecucion);
 
     }
@@ -273,6 +274,8 @@ void ObtenerOperaciones(Operacion &listaOperaciones[], int idCuenta) {
                 listaOperaciones[contador].orden_id = HistoryDealGetInteger(ticket, DEAL_ORDER);
                 listaOperaciones[contador].comentario = HistoryDealGetString(ticket, DEAL_COMMENT);
                 listaOperaciones[contador].magic_number = HistoryDealGetInteger(ticket, DEAL_MAGIC);
+                listaOperaciones[contador].tp = HistoryDealGetDouble(ticket, DEAL_TP);
+                listaOperaciones[contador].sl = HistoryDealGetDouble(ticket, DEAL_SL);
 
                 // Buscar la operación de entrada correspondiente
                 ulong posicion_id = listaOperaciones[contador].ticket;
@@ -289,7 +292,7 @@ void ObtenerOperaciones(Operacion &listaOperaciones[], int idCuenta) {
                     }
                 }
                 contador++;
-                cerroOperacion=true;
+                OperacionCerrada=true;
             }
         }
     }
@@ -300,7 +303,7 @@ void ObtenerOperaciones(Operacion &listaOperaciones[], int idCuenta) {
 
     //Metodo 2     
     // Enviar el historial al endpoint
-    if (totalOperacionesGuardadas > 0 && cerroOperacion) {
+    if (totalOperacionesGuardadas > 0 && OperacionCerrada) {
         if (!enviarPostHistorico(listaOperaciones, idCuenta)) {
             //Print("❌ Error al enviar operaciones a la API.");
         } else {
@@ -322,11 +325,11 @@ datetime CargarUltimaFechaGuardadaGlobal(int idCuenta) {
 void GuardarUltimaFechaGlobal(datetime ultimaFecha, int ultimoTicket) {
     ultimaFechaGlobal = ultimaFecha+1;
     ultimaTicketGlobal = ultimoTicket;
-    cerroOperacion = false;
+    OperacionCerrada = false;
 }
 
 bool enviarPostHistorico(Operacion &listaOperaciones[], int idCuenta) {
-    string endpoint = "https://tradingnote.co/app/api/API_Operaciones_1.1.0.php";
+    string endpoint = "https://tradingnote.co/app/api/API_Operaciones_1.3.0.php";
     string cookie = NULL, headers;
     char post[], result[];
     int timeout = 5000;
@@ -362,7 +365,10 @@ bool enviarPostHistorico(Operacion &listaOperaciones[], int idCuenta) {
                      "      \"swap\": " + DoubleToString(listaOperaciones[i].swap, 2) + ",\n"
                      "      \"orden_id\": " + IntegerToString(listaOperaciones[i].orden_id) + ",\n"
                      "      \"magic_number\": " + IntegerToString(listaOperaciones[i].magic_number) + ",\n"
-                     "      \"comentario\": \"" + comentario + "\"\n"
+                     "      \"comentario\": \"" + comentario + "\",\n"
+                     "      \"tp\": " +  DoubleToString(listaOperaciones[i].tp, 5)  + ",\n"
+                     "      \"sl\": " +  DoubleToString(listaOperaciones[i].sl, 5)  + "\n"
+                     //"      \"comentario\": \"" + comentario + "\"\n"
                      "    }";
 
         if (i < ArraySize(listaOperaciones) - 1) json_body += ",";
@@ -405,5 +411,18 @@ bool enviarPostHistorico(Operacion &listaOperaciones[], int idCuenta) {
        // Print("❌ Error en WebRequest. Código HTTP: ", res, " Código de error MQL5: ", error_code);
         //Print("🔍 JSON Enviado: ", json_body);  // Imprimir JSON para depuración
         return false;
+    }
+}
+
+// Función para guardar el log en un archivo de texto
+void GuardarLog(string response) {
+    string filename = "json_" + TimeToString(TimeLocal(), TIME_DATE) + ".txt";
+    int handle = FileOpen(filename, FILE_WRITE|FILE_TXT|FILE_ANSI|FILE_COMMON);
+    
+    if(handle != INVALID_HANDLE) {
+        FileWrite(handle, response);
+        FileClose(handle);
+    } else {
+        Print("Error al abrir archivo: ", GetLastError());
     }
 }

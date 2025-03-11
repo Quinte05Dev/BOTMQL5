@@ -5,7 +5,7 @@ input bool input_operativa_newyork = true; // Permitir Operativa en NY
 input string input_ny_hora = "10:10";      // Inicio horario NY (hora:minutos)
 int input_ny_desde_hora;                   // Inicio horario NY (hora)
 int input_ny_desde_minuto;                 // Inicio horario NY (minuto)
-input string hasta_ny_hora = "10:10";      // Fin horario NY (hora:minutos)
+input string hasta_ny_hora = "15:10";      // Fin horario NY (hora:minutos)
 int input_ny_hasta_hora = 12;              // Fin horario NY (hora)
 int input_ny_hasta_minuto = 30;            // Fin horario NY (minuto)
 
@@ -72,14 +72,26 @@ string filePathNuevaYork = "operaciones_nueva_york.csv";
 // string filePathNuevaYork  = "C:\\Users\\matiu\\AppData\\Roaming\\MetaQuotes\\Terminal\\Common\\Files\\ticks_data.csv";
 // string filePathNuevaYork  = TerminalInfoString(TERMINAL_DATA_PATH) + "\\MQL5\\Files\\ticks_data.csv";
 
+// Handlers para los archivos hh, hl, ll, lh
+int fileHandleHH = INVALID_HANDLE;
+string csvFilePath="PatronesHHLLCSV.csv"; // Ruta del archivo CSV
+
 string relativePath = "\\MQL5\\Files";
 string region;
 
+// Variables globales
+string highLabels[];
+string lowLabels[];
+
+#property indicator_chart_window
+#property indicator_buffers 0
+#property indicator_plots   0
 //+------------------------------------------------------------------+
 //| Expert initialization function                                   |
 //+------------------------------------------------------------------+
 int OnInit()
 {
+    
     // Mensaje de éxito
     Print("EA inicializado correctamente.");
     ajuste_tiempo = GetNewYorkTime();
@@ -87,6 +99,13 @@ int OnInit()
 
     // se crea el archivo
     InitializeCSVFile(filePathNuevaYork, fileHandleNuevaYork);
+    InitializeCSVFileHH(csvFilePath, fileHandleHH); //hh, hl, ll, lh
+  
+    //Inicializar arrays hh, hl, ll, lh
+    ArrayResize(highLabels, 0);
+    ArrayResize(lowLabels, 0);
+
+      
 
     // Crear el archivo CSV y escribir el encabezado (solo si no existe)
     /*
@@ -126,14 +145,26 @@ int OnInit()
 //+------------------------------------------------------------------+
 void OnDeinit(const int reason)
 {
+    Print("On de init");
     // Cerrar el archivo al finalizar
     if (fileHandleNuevaYork != INVALID_HANDLE)
     {
         FileClose(fileHandleNuevaYork);
+        Print("Archivo CSV cerrado correctamente.");
     }
+
+     // Cerrar el archivo si está abierto
+     if(fileHandleHH != INVALID_HANDLE)
+     {
+         FileClose(fileHandleHH);
+         Print("Archivo CSV cerrado correctamente.");
+     }
 
     // Llamar a la función para encontrar el valor mayor y menor
     FindMaxMinValues(region);
+
+   // Borrar todos los objetos creados
+    DeleteAllLabels();
     Print("EA detenido. Razón: ", reason);
 }
 
@@ -167,6 +198,7 @@ void OnTick()
             Print("Error: El archivo no está abierto.");
         }
     }
+ 
 }
 
 //+------------------------------------------------------------------+
@@ -190,6 +222,8 @@ void OnTimer()
     }
 
     ComprobarSesionOperativa();
+    // Solicitar un recálculo del indicador
+   ChartRedraw();
 }
 
 // Función para separar la hora y los minutos
@@ -370,7 +404,21 @@ bool ComprobarSesionOperativa()
             string fullPath = dataDirectory + "\\" + relativePath;
 
             Print("La ruta completa es: ", fullPath);
-            region = "NY";
+            region = "NY";  
+            
+            if (fileHandleNuevaYork != INVALID_HANDLE)
+            {
+                FileClose(fileHandleNuevaYork);
+                Print("Archivo CSV cerrado correctamente.");
+            }
+        
+             // Cerrar el archivo si está abierto
+             if(fileHandleHH != INVALID_HANDLE)
+             {
+                 FileClose(fileHandleHH);
+                 Print("Archivo CSV cerrado correctamente.");
+             }
+
         }
 
         sesion_ny_finalizada = true;
@@ -496,7 +544,7 @@ void DibujarRectangulo(datetime startTime, datetime endTime, double maxValue, do
         ObjectSetInteger(0, rectName, OBJPROP_WIDTH, 2);           // Grosor de la línea
         ObjectSetInteger(0, rectName, OBJPROP_STYLE, STYLE_SOLID); // Estilo de la línea
         ObjectSetInteger(0, rectName, OBJPROP_BACK, true);         // Dibujar en el fondo
-        Print("Rectángulo dibujado correctamente para el día: ", TimeToString(startTime, TIME_DATE));
+        Print("Rectángulo dibujado y correctamente para el día: ", TimeToString(startTime, TIME_DATE));
     }
     else
     {
@@ -575,7 +623,7 @@ bool IsNewYorkDST(datetime utcTime)
 //| // Función para inicializar un archivo CSV
 //+------------------------------------------------------------------+
 
-int InitializeCSVFile(string filePath, int &fileHandle)
+bool InitializeCSVFile(string filePath, int &fileHandle)
 {
     // Verificar si el archivo existe
     if (!FileIsExist(filePath))
@@ -590,7 +638,7 @@ int InitializeCSVFile(string filePath, int &fileHandle)
         {
             Print("Error al crear el archivo CSV en la ruta: ", filePath);
             Print("Código de error: ", GetLastError());
-            return (INIT_FAILED);
+            return false;
         }
     }
     else
@@ -601,11 +649,227 @@ int InitializeCSVFile(string filePath, int &fileHandle)
         {
             Print("Error al abrir el archivo CSV en la ruta: ", filePath);
             Print("Código de error: ", GetLastError());
-            return (INIT_FAILED);
+            return false;
         }
         // Mover el puntero al final del archivo
         FileSeek(fileHandle, 0, SEEK_END);
     }
 
-    return (INIT_SUCCEEDED);
+    return true;
+}
+
+
+
+//Cálculo de HH, HL, LL, LH
+//+------------------------------------------------------------------+
+//| Custom indicator iteration function                              |
+//+------------------------------------------------------------------+
+int OnCalculate(const int rates_total, const int prev_calculated, const datetime &time[], const double &open[],
+                const double &high[], const double &low[], const double &close[], const long &tick_volume[],
+                const long &volume[], const int &spread[]) {
+    // Definir la fecha de inicio para crear etiquetas
+    datetime start_date = D'2025.03.07 00:01';  // Modifica esta fecha según tu necesidad
+
+    // Definir rango horario (formato 24 horas)
+    // int hora_inicio = 8;  // 8 AM
+    // int hora_fin = 16;    // 4 PM
+
+    // Verificar que haya suficientes barras
+    if (rates_total < 2) return (0);
+
+    //Print("OnCalculate: rates_total=", rates_total, ", prev_calculated=", prev_calculated);
+
+    // Determinar desde dónde recalcular
+    int start;
+
+    // Si es la primera vez que se calcula, procesar todas las barras desde la segunda
+    if (prev_calculated == 0) {
+        DeleteAllLabels();
+        start = 1;  // Empezar desde la segunda barra
+        //Print("Primera ejecución, analizando todas las velas desde la segunda barra");
+    } else {
+        // Solo calcular las nuevas barras, comenzando desde la última calculada previamente
+        start = prev_calculated - 1;
+        if (start < 1) start = 1;
+        //Print("Recálculo, comenzando desde la barra: ", start);
+    }
+
+    // Recorrer las barras
+    for (int i = start; i < rates_total; i++) {
+        // Verificar si la barra es posterior a la fecha especificada
+        if (time[i] < start_date) continue;
+
+        // Verificar si la barra está dentro del rango horario deseado
+        MqlDateTime bar_time;
+        TimeToStruct(time[i], bar_time);
+
+        // Comprobar si la hora está dentro del rango especificado
+        if (bar_time.hour < int(input_ny_hora) || bar_time.hour >= int(hasta_ny_hora)) continue;
+
+        string labelHigh = "High_" + IntegerToString(i);
+        string labelLow = "Low_" + IntegerToString(i);
+
+        // Eliminar etiquetas anteriores para esta barra (si existen)
+        if (ObjectFind(0, labelHigh) >= 0) ObjectDelete(0, labelHigh);
+        if (ObjectFind(0, labelLow) >= 0) ObjectDelete(0, labelLow);
+
+        // Analizar patrones de altos (HH, HL)
+        if (high[i] > high[i - 1]) {
+            // Alto mayor que el anterior = HH (Higher High)
+            CreateLabel(labelHigh, time[i], high[i], "HH", clrGreen);
+           // Print("Barra ", i, ": HH creado en ", TimeToString(time[i]), " a precio ", high[i]);
+
+            // Guardar referencia
+            AddToArray(highLabels, labelHigh);
+
+            // Guardar en CSV
+            SavePatternToCSV(time[i], "HH", high[i]);
+
+        } else {
+            // Alto menor o igual que el anterior = HL (Higher Low)
+            CreateLabel(labelHigh, time[i], high[i], "HL", clrRed);
+           // Print("Barra ", i, ": HL creado en ", TimeToString(time[i]), " a precio ", high[i]);
+
+            // Guardar referencia
+            AddToArray(highLabels, labelHigh);
+        }
+
+        // Analizar patrones de bajos (LL, LH)
+        if (low[i] < low[i - 1]) {
+            // Bajo menor que el anterior = LL (Lower Low)
+            CreateLabel(labelLow, time[i], low[i], "LL", clrRed);
+            //Print("Barra ", i, ": LL creado en ", TimeToString(time[i]), " a precio ", low[i]);
+
+            // Guardar referencia
+            AddToArray(lowLabels, labelLow);
+        } else {
+            // Bajo mayor o igual que el anterior = LH (Lower High)
+            CreateLabel(labelLow, time[i], low[i], "LH", clrGreen);
+           // Print("Barra ", i, ": LH creado en ", TimeToString(time[i]), " a precio ", low[i]);
+
+            // Guardar referencia
+            AddToArray(lowLabels, labelLow);
+        }
+    }
+
+    // Forzar actualización del gráfico
+    ChartRedraw(0);
+
+    //Print("Total de etiquetas activas: High=", ArraySize(highLabels), ", Low=", ArraySize(lowLabels));
+
+    return (rates_total);
+}
+
+//+------------------------------------------------------------------+
+//| Añadir un elemento a un array                                    |
+//+------------------------------------------------------------------+
+void AddToArray(string &arr[], string value)
+{
+int size = ArraySize(arr);
+ArrayResize(arr, size + 1);
+arr[size] = value;
+}
+
+//+------------------------------------------------------------------+
+//| Eliminar todas las etiquetas                                     |
+//+------------------------------------------------------------------+
+void DeleteAllLabels() {
+    for (int i = 0; i < ArraySize(highLabels); i++)
+        if (ObjectFind(0, highLabels[i]) >= 0) ObjectDelete(0, highLabels[i]);
+
+    for (int i = 0; i < ArraySize(lowLabels); i++)
+        if (ObjectFind(0, lowLabels[i]) >= 0) ObjectDelete(0, lowLabels[i]);
+
+    ArrayResize(highLabels, 0);
+    ArrayResize(lowLabels, 0);
+
+    Print("Todas las etiquetas eliminadas");
+}
+
+//+------------------------------------------------------------------+
+//| Función para crear una etiqueta de texto                         |
+//+------------------------------------------------------------------+
+void CreateLabel(string name, datetime time, double price, string text, color clr)
+{
+if(!ObjectCreate(0, name, OBJ_TEXT, 0, time, price))
+{
+int error = GetLastError();
+Print("Error al crear objeto ", name, ": ", error);
+return;
+}
+
+ObjectSetString(0, name, OBJPROP_TEXT, text);
+ObjectSetInteger(0, name, OBJPROP_COLOR, clr);
+ObjectSetInteger(0, name, OBJPROP_FONTSIZE, 8);
+ObjectSetInteger(0, name, OBJPROP_ANCHOR, ANCHOR_UPPER);
+ObjectSetInteger(0, name, OBJPROP_SELECTABLE, false);
+ObjectSetInteger(0, name, OBJPROP_HIDDEN, true);
+ObjectSetInteger(0, name, OBJPROP_ZORDER, 100); // Mostrar encima de otros objetos
+}
+
+//------------------------------------------------------------------+
+//| // Función para inicializar un archivo CSV
+//+------------------------------------------------------------------+
+
+bool InitializeCSVFileHH(string csvFilePath2, int &fileHandleHH)
+{
+    // Verificar si el archivo existe
+    if (!FileIsExist(csvFilePath2))
+    {
+        // Crear el archivo y escribir el encabezado
+        fileHandleHH = FileOpen(csvFilePath2, FILE_WRITE | FILE_CSV | FILE_ANSI, ",");
+        if (fileHandleHH != INVALID_HANDLE)
+        {
+            FileWrite(fileHandleHH, "Fecha", "Hora", "Patron", "Valor");
+        }
+        else
+        {
+            Print("Error al crear el archivo CSV en la ruta: ", csvFilePath2);
+            Print("Código de error: ", GetLastError());
+            return false;
+        }
+    }
+    else
+    {
+        // Abrir el archivo existente en modo append
+        fileHandleHH = FileOpen(csvFilePath2, FILE_READ | FILE_WRITE | FILE_CSV | FILE_ANSI, ",");
+        if (fileHandleHH == INVALID_HANDLE)
+        {
+            Print("Error al abrir el archivo CSV en la ruta: ", csvFilePath2);
+            Print("Código de error: ", GetLastError());
+            return false;
+        }
+        // Mover el puntero al final del archivo
+        FileSeek(fileHandleHH, 0, SEEK_END);
+    }
+
+    return true;
+}
+
+// Función para guardar un patrón en el archivo CSV
+void SavePatternToCSV(datetime time, string patternType, double price)
+{
+    // Verificar que el archivo esté abierto
+    if(fileHandleHH != INVALID_HANDLE)
+    {
+        // Extraer fecha y hora
+        MqlDateTime dt;
+        TimeToStruct(time, dt);
+        
+        string fecha = StringFormat("%04d.%02d.%02d", dt.year, dt.mon, dt.day);
+        string hora = StringFormat("%02d:%02d:%02d", dt.hour, dt.min, dt.sec);
+        
+        // Obtener el símbolo actual
+        string activo = Symbol();
+        
+        // Escribir la línea en el CSV
+        FileWrite(fileHandleHH, fecha, hora, activo, patternType, DoubleToString(price, Digits()));
+        
+        // Forzar escritura en disco
+        FileFlush(fileHandleHH);
+    }
+    else
+    {
+        Print("Error: Archivo CSV no abierto al intentar guardar un patrón.");
+    }
 }

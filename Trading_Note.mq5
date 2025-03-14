@@ -7,7 +7,7 @@
 #include <Jason.mqh>
 int segGuardarHistorico = 0;
 long numero_cuenta = AccountInfoInteger(ACCOUNT_LOGIN); // Obtener el número de cuenta
-input string license_key = "LICENCIA-TEST-001";  // Api Key
+input string license_key = "kUKSl380vpfixg1utFXGIYdVA";  // Licencia
 string api_key="p8Lz9R2q-TyX3v5Bp-47Nd8Jm-QwG6ANFsP0d";
 
 // Variables locales 
@@ -51,7 +51,7 @@ Operacion operaciones[];
 
 int OnInit() {
 
-    Print("🔹 Inicializando el Trading Note...");
+    Print("🔹 Inicializando BOT Trading Note...");
     // 1- Ejecutar la validación de la licencia
     bool licencia_valida = ValidarLicencia(license_key, id_usuario, id_licencia, message);
     if (licencia_valida){
@@ -92,7 +92,7 @@ void OnTimer()
 
         // Programar la siguiente ejecución sumando segGuardarHistorico
         proximaEjecucion = tiempoActual + segGuardarHistorico;
-        Print("⏳ Próxima ejecución programada en ", segGuardarHistorico, " segundos.. a las: ", proximaEjecucion);
+        //Print("⏳ Próxima ejecución programada en ", segGuardarHistorico, " segundos.. a las: ", proximaEjecucion);
 
     }
 }
@@ -141,7 +141,7 @@ bool ValidarParametros()
         if (consulta_valida) {
             // Extraer el valor de segundos desde el objeto "data"
             segGuardarHistorico = (int)json["data"]["segundos"].ToInt();          
-            Print("✅ Parámetros validados");
+            //Print("✅ Parámetros validados");
 
             return true;
         } else {
@@ -255,8 +255,47 @@ void ObtenerOperaciones(Operacion &listaOperaciones[], int idCuenta) {
         ulong ticket = HistoryDealGetTicket(i);
         ENUM_DEAL_ENTRY entrada = (ENUM_DEAL_ENTRY)HistoryDealGetInteger(ticket, DEAL_ENTRY);
 
-        // Solo almacenar operaciones cerradas (DEAL_ENTRY_OUT)
-        if (entrada == DEAL_ENTRY_OUT) {
+        ENUM_DEAL_TYPE tipo_operacion = (ENUM_DEAL_TYPE)HistoryDealGetInteger(ticket, DEAL_TYPE);// Balance
+
+         // Procesar operaciones de balance
+        if (tipo_operacion == DEAL_TYPE_BALANCE) {
+            datetime fechaBalance = (datetime)HistoryDealGetInteger(ticket, DEAL_TIME);            
+            // Solo procesar operaciones posteriores a la última fecha guardada
+            if (fechaBalance > ultimaFechaGuardada) {
+                ArrayResize(listaOperaciones, contador + 1);
+                
+                listaOperaciones[contador].ticket = ticket;
+                listaOperaciones[contador].simbolo = "BALANCE";
+                listaOperaciones[contador].entrada = entrada;
+                listaOperaciones[contador].volumen = 0;
+                listaOperaciones[contador].precio_entrada = 0;
+                listaOperaciones[contador].precio_salida = 0;
+                listaOperaciones[contador].comision = 0;
+                listaOperaciones[contador].swap = 0;
+                listaOperaciones[contador].ganancia_bruta = HistoryDealGetDouble(ticket, DEAL_PROFIT);// Ganancia
+                listaOperaciones[contador].beneficio =0;
+                listaOperaciones[contador].fecha_apertura = fechaBalance;
+                listaOperaciones[contador].fecha_cierre = fechaBalance;
+                listaOperaciones[contador].orden_id = ticket;
+                listaOperaciones[contador].comentario = HistoryDealGetString(ticket, DEAL_COMMENT);
+                listaOperaciones[contador].magic_number = 0;
+                listaOperaciones[contador].tp = 0;
+                listaOperaciones[contador].sl = 0;
+                listaOperaciones[contador].tipo = tipo_operacion;
+        
+                
+                contador++;
+                // Si necesitas marcar que hubo una operación de balance
+                // BalanceRealizado = true;
+                 // Imprimir TODOS los campos posibles para ver dónde está el identificador
+         Print("------ BALANCE #", ticket, " ------");
+         Print("ganancia : ",HistoryDealGetDouble(ticket, DEAL_PROFIT));
+
+            }
+        }
+        // Procesar operaciones cerradas (DEAL_ENTRY_OUT) - tu código original
+        else if (entrada == DEAL_ENTRY_OUT) {
+      
             datetime fechaCierre = (datetime)HistoryDealGetInteger(ticket, DEAL_TIME);
            
             // Solo procesar operaciones posteriores a la última fecha guardada
@@ -268,12 +307,20 @@ void ObtenerOperaciones(Operacion &listaOperaciones[], int idCuenta) {
                 listaOperaciones[contador].entrada = entrada;
                 listaOperaciones[contador].volumen = HistoryDealGetDouble(ticket, DEAL_VOLUME);
                 listaOperaciones[contador].precio_salida = HistoryDealGetDouble(ticket, DEAL_PRICE);
-                listaOperaciones[contador].comision = HistoryDealGetDouble(ticket, DEAL_COMMISSION);
-                listaOperaciones[contador].swap = HistoryDealGetDouble(ticket, DEAL_SWAP);
-              /*   listaOperaciones[contador].beneficio = listaOperaciones[contador].beneficio + 
-                                                        listaOperaciones[contador].swap + 
-                                                        listaOperaciones[contador].comision; */
-                listaOperaciones[contador].beneficio = HistoryDealGetDouble(ticket, DEAL_PROFIT);                                                       
+                listaOperaciones[contador].comision = (HistoryDealGetDouble(ticket, DEAL_COMMISSION)*2);
+                listaOperaciones[contador].swap = HistoryDealGetDouble(ticket, DEAL_SWAP); 
+                listaOperaciones[contador].ganancia_bruta = HistoryDealGetDouble(ticket, DEAL_PROFIT);
+                if (listaOperaciones[contador].ganancia_bruta >0){
+                    listaOperaciones[contador].beneficio = listaOperaciones[contador].ganancia_bruta + 
+                    listaOperaciones[contador].swap + 
+                    listaOperaciones[contador].comision; 
+                }
+                else{
+                    listaOperaciones[contador].beneficio = listaOperaciones[contador].ganancia_bruta - 
+                    listaOperaciones[contador].swap - 
+                    listaOperaciones[contador].comision; 
+                }
+                                                      
                 listaOperaciones[contador].fecha_cierre = fechaCierre;
                 listaOperaciones[contador].orden_id = HistoryDealGetInteger(ticket, DEAL_ORDER);
                 listaOperaciones[contador].comentario = HistoryDealGetString(ticket, DEAL_COMMENT);
@@ -321,18 +368,6 @@ void ObtenerOperaciones(Operacion &listaOperaciones[], int idCuenta) {
     }
 }
 
-// Método 1: Usando variable global pierde el valor al reiniciar
-datetime CargarUltimaFechaGuardadaGlobal(int idCuenta) {
-    // Si es 0, significa primera ejecución o reinicio
-    return ultimaFechaGlobal;
-}
-
-void GuardarUltimaFechaGlobal(datetime ultimaFecha, int ultimoTicket) {
-    ultimaFechaGlobal = ultimaFecha + 1;
-    ultimaTicketGlobal = ultimoTicket;
-    OperacionCerrada = false;
-}
-
 bool enviarPostHistorico(Operacion &listaOperaciones[], int idCuenta) {
     string endpoint = "https://tradingnote.co/app/api/API_Operaciones_1.3.0.php";
     string cookie = NULL, headers;
@@ -354,7 +389,7 @@ bool enviarPostHistorico(Operacion &listaOperaciones[], int idCuenta) {
 
 
         // Escapar comillas en el comentario
-        string comentario = StringReplace(listaOperaciones[i].comentario, "\"", "\\\"");
+        //string comentario = StringReplace(listaOperaciones[i].comentario, "\"", "\\\"");
 
         json_body += "    {\n"
                      "      \"tipo\": \"" + EnumToString(listaOperaciones[i].tipo) + "\",\n"
@@ -370,10 +405,10 @@ bool enviarPostHistorico(Operacion &listaOperaciones[], int idCuenta) {
                      "      \"swap\": " + DoubleToString(listaOperaciones[i].swap, 2) + ",\n"
                      "      \"orden_id\": " + IntegerToString(listaOperaciones[i].orden_id) + ",\n"
                      "      \"magic_number\": " + IntegerToString(listaOperaciones[i].magic_number) + ",\n"
-                     "      \"comentario\": \"" + comentario + "\",\n"
+                     "      \"comentario\": \"" +listaOperaciones[i].comentario + "\",\n"
                      "      \"tp\": " +  DoubleToString(listaOperaciones[i].tp, 5)  + ",\n"
-                     "      \"sl\": " +  DoubleToString(listaOperaciones[i].sl, 5)  + "\n"  
-                  //   "      \"ganancia_bruta\": " +  DoubleToString(listaOperaciones[i].ganancia_bruta, 2)  + "\n"     
+                     "      \"sl\": " +  DoubleToString(listaOperaciones[i].sl, 5)  + ",\n"  
+                     "      \"ganancia_bruta\": " +  DoubleToString(listaOperaciones[i].ganancia_bruta, 2)  + "\n"     
                      "    }";
 
         if (i < ArraySize(listaOperaciones) - 1) json_body += ",";
@@ -384,12 +419,15 @@ bool enviarPostHistorico(Operacion &listaOperaciones[], int idCuenta) {
 
     // Convertir el JSON a un array de caracteres
     StringToCharArray(json_body, post, 0, StringLen(json_body));
+   // Print(json_body);
+    GuardarLog(json_body);
 
     // Configurar los encabezados para indicar que el contenido es JSON
     headers = "Content-Type: application/json\r\n";
 
     ResetLastError();
     int res = WebRequest("POST", endpoint, cookie, NULL, timeout, post, ArraySize(post), result, headers);
+    //Print("🔍 JSON Enviado: ", json_body);  // Imprimir JSON para depuración
 
     if (res == 200) {
         string response = CharArrayToString(result, 0, ArraySize(result));
@@ -402,26 +440,41 @@ bool enviarPostHistorico(Operacion &listaOperaciones[], int idCuenta) {
         bool success = json["success"].ToBool();
         int operaciones_guardadas = json["operaciones_guardadas"].ToInt();
         int operaciones_existentes = json["operaciones_existentes"].ToInt();
-
         if (success) {
-            PrintFormat("✅ API Histórico enviada correctamente. Operaciones insertadas: %d, Operaciones existentes: %d",
+            PrintFormat("✅ Operaciones insertadas: %d, Operaciones existentes: %d",
                  operaciones_guardadas, operaciones_existentes);
             return true;
         } else {
             //Print("⚠️ La API devolvió 'success: false'.");
             return false;
         }
+
     } else {
         int error_code = GetLastError();
         Print("❌ Error en WebRequest. Código HTTP: ", res, " Código de error MQL5: ", error_code);
-        //Print("🔍 JSON Enviado: ", json_body);  // Imprimir JSON para depuración
+        Print("🔍 JSON Enviado: ", json_body);  // Imprimir JSON para depuración
         return false;
     }
 }
 
+
+// Método 1: Usando variable global pierde el valor al reiniciar
+datetime CargarUltimaFechaGuardadaGlobal(int idCuenta) {
+    // Si es 0, significa primera ejecución o reinicio
+    return ultimaFechaGlobal;
+}
+
+void GuardarUltimaFechaGlobal(datetime ultimaFecha, int ultimoTicket) {
+    ultimaFechaGlobal = ultimaFecha + 1;
+    ultimaTicketGlobal = ultimoTicket;
+    OperacionCerrada = false;
+}
+
+
 // Función para guardar el log en un archivo de texto
 void GuardarLog(string response) {
-    string filename = "json_" + TimeToString(TimeLocal(), TIME_DATE) + ".txt";
+    Print("log");
+    string filename = "json_" + TimeToString(TimeLocal(), TIME_DATE) + ".json";
     int handle = FileOpen(filename, FILE_WRITE|FILE_TXT|FILE_ANSI|FILE_COMMON);
     
     if(handle != INVALID_HANDLE) {
